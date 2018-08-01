@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Do not have thorns or thornlike shoots/Not a pome</Name>
+    <Image>Images/Deciduous/Options/21aBranchlets.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/22Leaves.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Armed with thorns or thornlike shoots/Pome</Name>
+    <Image>Images/Deciduous/Options/21bBranchlets.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/25Thorns.xml</CallFile>
+    <PageTitle>Branchlets or Twigs/Fruit</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

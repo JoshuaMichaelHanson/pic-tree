@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Douglas-Fir</Name>
+    <OtherName>Oregon-Pine</OtherName>
+    <ScientificName>Pseudotsuga menziesii</ScientificName>
+    <Description>Native, evergreen tree has a round crown when mature and a conic crown when young.  It reaches up to 220' tall and 14.5' wide.</Description>
+    <Leaves>Evergreen needles, 3/4" - 1" long, 1/16" wide.  Borne on slightly raised cushions.  Yellow-green to blue-green, taper to a short petiole, with two whitish bands on the lower surface.  Tips blunt or slightly rounded, very fragrant.</Leaves>
+    <Twigs>Slender and red-brown to pale brown, with long, sharp, pointed buds.</Twigs>
+    <SeedConeOrFruit>Seed Cones: 3" -4" long and are easily identified by the three pointed bracts (modified leaves) which are longer than the cone scales.</SeedConeOrFruit>
+    <Bark>On young stands is dark gray-brown with resin blisters.  Later the bark becomes thick, reddish-brown, and is divided by deep irregular fissures.</Bark>
+    <Range>This tree is common in the northern and central parts of Arizona, southward to northern Mexico, and eastward to western Texas.  In California below 7,250 ft.  Not very hardy in Minnesota.</Range>
+    <Remarks>One of the world's most important and valuable trees.  Makes an excellent Christmas tree.  The seed is important food for chickadees, red crossbill, finches, evening grosbeak, Douglas squirrel, Townsend chipmunk, deer and many other birds and mammals.  The needles are an important source of food of grouse.  Mountain beaver, deer, elk, and rabbits eat foliage and twigs within their reach.  Bears sometimes feed on new sapwood and inner bark.  The Isleta Puebloans in New Mexico made and drank tea from the needles to cure rheumatism.  The resin was used by the Shasta in northern California to poultice cuts.  Prayer sticks made of Douglas-fir were excavated from sites in New Mexico dating back to the Anasazi.</Remarks>
+    <Pic1>Images/Coniferous/Trees/DouglasFir/Preview.png</Pic1>
+    <Pic2>Images/Coniferous/Trees/DouglasFir/UpClose1.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/DouglasFir/UpClose2.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/DouglasFir/Tree.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/DouglasFir/Bark.jpg</Pic5>
+  </Def>
+</Definitions>

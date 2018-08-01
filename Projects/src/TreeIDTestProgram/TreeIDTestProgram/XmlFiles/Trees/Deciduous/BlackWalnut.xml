@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Black Walnut</Name>
+    <OtherName>NA</OtherName>
+    <ScientificName>Juglans nigra</ScientificName>
+    <Description>Medium to large tree ranging from 70' - 90' tall and 2' - 3' in diameter at breast height.  However, black walnut can reach 150' tall and 8' in diameter at breast height.  The branches are widely spread and form a massive crown.</Description>
+    <Leaves>Alternate, pinnately compound, 12" -24" long; leaflets, 14 - 23, terminal leaflet often smaller or absent, finely toothed margins, yellowish green; yellow in autumn.</Leaves>
+    <Twigs>Stout with notched leaf scars, light brown to orangish in color.  Chambered pith that is light brown in color.  The terminal buds are short, blunt, and covered with a few hairy scales.</Twigs>
+    <SeedConeOrFruit>Fruit:  Nut 2" in diameter, thick, semi-fleshy, husk covered with short hairs and are yellowish-green in color.  The nut is corrugated with rounded ridges.</SeedConeOrFruit>
+    <Bark>Thick and brown to grayish-black in color, deep furrows and narrow forking ridges.  The furrows and ridges form a diamond pattern.</Bark>
+    <Range>Hardy to zone 4a.  Found throughout the eastern U.S., black walnut thrives in deeper, well drained, neutral soils.  Black walnut is a shade intolerant species, and must have direct sunlight to grow optimally.  It requires about 35 inches of annual precipitation, an annual average temperature of about 55 degrees F., with no less than 170 growing days for optimum growth and development.  This species survives beyond its ideal site requirements as it approaches the limits of its native range.  Black walnut is found naturally growing from Vermont to Minnesota, south to Florida and Texas.</Range>
+    <Remarks>Bark is poisonous, but the nuts are great for eating.  The bark of black walnut was used by many native groups, including the Cherokee, in tea as a laxative and chewed for toothaches.  Black walnut produces a toxin, known as “juglone”, which inhibits the growth of other plants around it, thereby reducing competition.  Juglone deprives sensitive plants of energy needed for photosynthate production.  The symptoms of plants being affected by juglone include foliar yellowing, wilting, and eventually death.  The largest sources of juglone on the tree are located in the buds, roots, and nut hulls.</Remarks>
+    <Pic1>Images/Deciduous/Trees/BlackWalnut/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/BlackWalnut/UpClose2.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/BlackWalnut/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/BlackWalnut/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/BlackWalnut/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

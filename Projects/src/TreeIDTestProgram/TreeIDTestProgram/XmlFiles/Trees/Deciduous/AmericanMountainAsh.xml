@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>American Mountain-Ash</Name>
+    <OtherName>NA</OtherName>
+    <ScientificName>Sorbus americana</ScientificName>
+    <Description>Small tree, growing to 15' - 30' tall with a fairly rounded crown.  The trunk can grow up to 12" in diameter.</Description>
+    <Leaves>Alternate, pinnately compound, 6" - 9" long; leaflets, 11 - 17, sharp finely toothed margins, 1 1/2" - 4" long, one-third as wide, dark yellowish green; yellow in autumn.</Leaves>
+    <Twigs>Reddish brown, spur shoots on branchlets; terminal buds, dark red, hairy, pointed, ooze a gummy sap.</Twigs>
+    <SeedConeOrFruit>Fruit:  Pome, bright orange or red, 1/4" in diameter, clustered, mature in autumn.</SeedConeOrFruit>
+    <Bark>Light grayish brown with dark lines or dots, smooth or slightly scaly.</Bark>
+    <Range>New Brunswick, Newfoundland, Nova Scotia, Ontario, Prince Edward Island, Quebec, Connecticut, Indiana, Maine, Massachusetts, Michigan, New Hampshire, New York, Pennsylvania, Vermont, West Virginia, Illinois, Minnesota, Wisconsin, Georgia, Maryland, North Carolina, Tennessee, and Virginia.</Range>
+    <Remarks>Attractive ornamental.</Remarks>
+    <Pic1>Images/Deciduous/Trees/AmericanMountainAsh/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/AmericanMountainAsh/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/AmericanMountainAsh/Buds.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/AmericanMountainAsh/Fruit.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/AmericanMountainAsh/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Downy Serviceberry</Name>
+    <Image>Images/Deciduous/Trees/DownyServiceberry/TreePreview/DownyServiceberryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/DownyServiceberry.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Serviceberries</Type>
+  </Def>
+  <Def>
+    <Name>Roundleaf Serviceberry</Name>
+    <Image>Images/Deciduous/Trees/RoundleafServiceberry/TreePreview/RoundleafServiceberryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/RoundleafServiceberry.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Serviceberries</Type>
+  </Def>
+  <Def>
+    <Name>Saskatoon Serviceberry</Name>
+    <Image>Images/Deciduous/Trees/SaskatoonServiceberry/TreePreview/SaskatoonServiceberryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/SaskatoonServiceberry.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Serviceberries</Type>
+  </Def>
+</Definitions>

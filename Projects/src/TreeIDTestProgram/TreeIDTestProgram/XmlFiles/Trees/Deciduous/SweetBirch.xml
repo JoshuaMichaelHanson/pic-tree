@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Sweet Birch</Name>
+    <OtherName>Cherry birch</OtherName>
+    <ScientificName>Betula lenta</ScientificName>
+    <Description>Medium tree, growing 50' - 60' tall and 24" in diameter.</Description>
+    <Leaves>Alternate, ovate, 2" - 4" long, and 1 1/2" - 3" broad, with a finely serrated margin.</Leaves>
+    <Twigs>Dark brown, winter-green odor and taste.</Twigs>
+    <SeedConeOrFruit>Fruit:  Nutlet, tiny winged seeds packed between the catkin bracts.</SeedConeOrFruit>
+    <Bark>Smooth, shiny brown-red to black, later breaking up into scaly plates kinda like black cherry.</Bark>
+    <Range>Hardy to Zone 3b.  Sweet birch is primarily a tree of the northeastern United States. It grows from southern Maine westward in southern Quebec, New Hampshire, Vermont, New York, and southeastern Ontario to eastern Ohio; and south in Pennsylvania through the Appalachian Mountains to northern Alabama and Georgia.</Range>
+    <Remarks>At one time the only source of oil of wintergreen. It is the aroma of wintergreen emanating from crushed leaves and broken twigs to which this birch owes its common name, sweet. Its specific name, lenta, is derived from the tough yet flexible twigs that characterize the species. The wood is also unique. When exposed to air it darkens to a color resembling mahogany and, in times past, was used as an inexpensive substitute for the more valued tropical wood.</Remarks>
+    <Pic1>Images/Deciduous/Trees/SweetBirch/UpClose1.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/SweetBirch/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/SweetBirch/Leaf.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/SweetBirch/Bark.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/SweetBirch/Fruit.jpg</Pic5>
+  </Def>
+</Definitions>

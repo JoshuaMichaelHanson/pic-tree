@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Russian-Olive</Name>
+    <Image>Images/Deciduous/Trees/RussianOlive/TreePreview/RussianOlivePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/RussianOlive.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Olive</Type>
+  </Def>
+</Definitions>

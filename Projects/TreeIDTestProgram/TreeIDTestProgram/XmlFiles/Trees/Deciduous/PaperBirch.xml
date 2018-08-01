@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Paper Birch</Name>
+    <OtherName>Canoe birch</OtherName>
+    <ScientificName>Betula papyrifera</ScientificName>
+    <Description>A medium - large tree, growing 40' - 65' tall; with a narrow, open and sometimes conical crown with drooping or horizontal branches.  Trunk growing to 1' - 2' in diameter.</Description>
+    <Leaves>Alternate, simple, 2" - 5" long, 1" - 2" wide, doubly toothed margins, tapered or round base.  Color is dull green, turning light yellow in autumn.</Leaves>
+    <Twigs>Red-brown with white or oranges lenticels (dots), spur shoots on branchlets, slender male catkins can sometimes be found in winter;  buds, dull red-brown, 1/4" long, slender, pointed, and slightly resinous.</Twigs>
+    <SeedConeOrFruit>Fruit:  Nutlet, winged;  tightly grouped in a 1" - 1 1/2" long catkin, mature in late summer.</SeedConeOrFruit>
+    <Bark>Red-brown, smooth; becoming chalky white with visible dark lenticels (lines) and peeling, papery strips that often reveal an orange inner bark;  old branch scars often black and scaly.</Bark>
+    <Range>The range of paper birch closely follows the northern limit of tree growth from Newfoundland and Labrador west across the continent into northwest Alaska; southeast from Kodiak Island in Alaska to British Columbia and Washington; east in the mountains of northeast Oregon, northern Idaho, and western Montana with scattered outliers in the northern Great Plains of Canada, Montana, North Dakota, the Black Hills of South Dakota, Wyoming, Nebraska, and the Front Range of Colorado; east in Minnesota and Iowa, through the Great Lakes region into New England. Paper birch also extends down the Appalachian Mountains from central New York to western North Carolina.</Range>
+    <Remarks>Fire, which is responsible for the establishment of many paper birch stands, is also one of the most serious enemies of established stands. Because the bark of paper birch is thin and highly flammable, even large trees may be killed by moderate fires. However, in Alaska, pure birch stands have little fuel available, so fires are not common. Hot crown fires in spruce become slow-burning ground fires when they enter birch stands; the fire may even go out. In extreme drying of deep organic horizons in some birch stands, a hot, slow-moving fire will consume all of the organic matter, leaving the shallow-rooted birch without support. The otherwise undamaged trees soon fall over. Paper birch is very susceptible to logging damage during partial harvest treatments using mechanical techniques. Up to 53 percent of designated crop trees sustained injuries to root systems, boles, or both during a careful thinning.</Remarks>
+    <Pic1>Images/Deciduous/Trees/PaperBirch/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/PaperBirch/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/PaperBirch/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/PaperBirch/Trees.jpg</Pic4>
+    <Pic5>NA</Pic5>
+  </Def>
+</Definitions>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>ChokeCherry</Name>
+    <OtherName>Chuckleyplum/Wild cherry/Caupulin</OtherName>
+    <ScientificName>Prunus virginiana</ScientificName>
+    <Description>Shrub or small tree sometimes forming thickets.  May reach a height of 35' tall with a irregular round crown.  Much of the time the trunk is leaning or crooked with a diameter up to 8".</Description>
+    <Leaves>Simple, alternate, more oval than other types.  2" - 4" long, 1" - 2" wide with fine toothed margins.  Shiny green on top and lighter below.  May have 2 glands (warts/swellings) near leaf base.  Turning yellow in autumn.</Leaves>
+    <Twigs>Red/brown, smells like bitter almond when broken and crushed.  Buds can be brown/gray/purple/red and have 3 or more scales that overlap like shingles.</Twigs>
+    <SeedConeOrFruit>Fruit:  Drupe, 1/4" - 3/8" diameter with a purple color.  Flowers are borne on drooping racemes.  Flowers have 5 white petals.</SeedConeOrFruit>
+    <Bark>The bark of young trees varys from gray to a red/brown.  As the bark gets older it turns darker, almost into brownish-black and becomes furrowed.  The bark is distinctly marked by horizontal rows of raised lenticels (air pores).  With maturation the lenticels develop into grooves.</Bark>
+    <Range>It is widely adaptable to temperature extremes.  It is found in USDA hardiness zones 2 to 7 naturally.  If planted, chokecherry will grow into zone 10.</Range>
+    <Remarks>Eating a single seed or cherry pit, though not recommended it is unlikely to cause discomfort or serious illness.  However, there have been reported deaths, usually of children chewing on the stems and leaves, or swallowing the stones.  In some parts of the U.S., chokecherry is a popular ornamental.</Remarks>
+    <Pic1>Images/Deciduous/Trees/ChokeCherry/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/ChokeCherry/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/ChokeCherry/Fruit.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/ChokeCherry/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/ChokeCherry/Flowers.jpg</Pic5>
+  </Def>
+</Definitions>

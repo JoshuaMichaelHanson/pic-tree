@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Black Willow</Name>
+    <OtherName>Swamp walnut/Dudley</OtherName>
+    <ScientificName>Salix nigra</ScientificName>
+    <Description>Medium to small tree growing up to 60' in height.  Trunk is often leaning or twisted and may reach 3' in diameter, with most around 14".  Broad and irregular crown.</Description>
+    <Leaves>Simple, alternate, narrow with a lance like shape.  Finely toothed margins normally green-yellow and some hairs on bottom.  May have stipules at base.  Turning a nice shade of yellow in autumn.</Leaves>
+    <Twigs>Light red-brown, thin/flexible, weak at base.  Light brown pith.  Buds have a single scale.</Twigs>
+    <SeedConeOrFruit>Fruit:  Capsule, 1/4" long each with multiple seeds and fluffy hairs.  Attached to 1" - 3" catkin.</SeedConeOrFruit>
+    <Bark>Dark brown or gray turning black, broken into deep fissures, interlaced, scaly ridges.</Bark>
+    <Range>Hardy to zone 4a.  New Brunswick to Manitoba, south to Florida and Texas.</Range>
+    <Remarks>The ancient Greeks knew the therapeutic values of willow.  Tea made from willow bark was used for stiff joints and rheumatic pains.  By the 1840’s, chemists had isolated salicylic acid from willow and found it produced marked antipyretic (fever-reducing) and analgesic (pain-killing) effects and “striking relief of acute articular rheumatism.”  Modern aspirin (acetylsalicylic acid) is a synthetic product.  Salicylic acid got its name from Salix.  The willows are among the first plants to provide honey bees, after long winters, with nectar and pollen.</Remarks>
+    <Pic1>Images/Deciduous/Trees/BlackWillow/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/BlackWillow/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/BlackWillow/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/BlackWillow/Catkin.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/BlackWillow/Flowers.jpg</Pic5>
+  </Def>
+</Definitions>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Canadian Hemlock</Name>
+    <OtherName>Eastern Hemlock</OtherName>
+    <ScientificName>Tsuga canadensis</ScientificName>
+    <Description>Native tree growing to 98' tall, with a broadly conic crown.  Terminal leader may straighten during growing season.  Trunk up to 36".</Description>
+    <Leaves>Evergreen needles, flat, linear-shaped, 1/3" - 2/3" long, shiny-green to yellow-green, the margins minutely toothed, especially toward apex.</Leaves>
+    <Twigs>Yellow-brown, densely pubescent.  Branches often drooping at the ends and feathery.</Twigs>
+    <SeedConeOrFruit>Seed Cone: Ovid, 1/2" - 3/4" long, borne near branch tips, hanging.</SeedConeOrFruit>
+    <Bark>Brownish, scaly and fissured.  Inner bark may have purplish layer.</Bark>
+    <Range>Eastern hemlock is a species of the northeastern and Appalachian regions of North America; from New Brunswick and Nova Scotia to southern Quebec and Ontario, south to northern Georgia and Alabama, west in the lake states to Minnesota with outliers in southern Michigan, western Ohio, and southern Indiana.</Range>
+    <Remarks>Early valued for its bark, an important source of tannin for the leather industry.  American Indians used the cambium as the base for breads and soups or mixed it with dried fruit and animal fat for pemmican.  Natives and white settlers made tea from hemlock leaves, which are high in vitamin C.  Most shade tolerant of all tree species and may remain in the understory for 25-400 years.  May start to produce cones at 15 years of age.</Remarks>
+    <Pic1>Images/Coniferous/Trees/CanadianHemlock/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/CanadianHemlock/UpClose1.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/CanadianHemlock/UpClose2.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/CanadianHemlock/SeedCone.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/CanadianHemlock/Bark.jpg</Pic5>
+  </Def>
+</Definitions>

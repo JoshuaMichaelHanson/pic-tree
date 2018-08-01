@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Cigar-shaped capsule 8"-18" long/heart-shaped 6"-12" long, often whorled in groups of 3</Name>
+    <Image>Images/Deciduous/Options/7aFruitPrev.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/CatalpaPreview.xml</CallFile>
+    <PageTitle>Leaves</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Drup or 4-celled capsule/not heart-shaped less than 6" long, always opposite</Name>
+    <Image>Images/Deciduous/Options/7bFruitPrev.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/8TwigOptions.xml</CallFile>
+    <PageTitle>Fruit/Leaves</PageTitle>
+    <Type>Option</Type>
+  </Option>
+
+</Options>

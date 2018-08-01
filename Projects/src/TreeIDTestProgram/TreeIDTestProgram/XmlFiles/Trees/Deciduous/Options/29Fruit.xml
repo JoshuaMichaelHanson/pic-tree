@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Drupe/bitter almond smell or taste/less than 1" long</Name>
+    <Image>Images/Deciduous/Options/29aFruit.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/PlumsPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Pome/lack bitter almond smell or taste/greater than 1" long</Name>
+    <Image>Images/Deciduous/Options/29bFruit.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/ApplesPearsPreview.xml</CallFile>
+    <PageTitle>Fruit/Twigs when broken/Thorn length</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>2"-7" long/Almost as wide/Smooth or vertical fissured/Stalk attached to leaflike twig</Name>
+    <Image>Images/Deciduous/Options/36aLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/LindenPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>2"-5" long/Half as wide/Smooth with corky warts or raised ridges/Stalk attached to twig</Name>
+    <Image>Images/Deciduous/Options/36bLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/HackberryPreview.xml</CallFile>
+    <PageTitle>Leaves/Leaf Width/Trunk bark/Fruit</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

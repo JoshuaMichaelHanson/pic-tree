@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Amur Cork-Tree</Name>
+    <Image>Images/Deciduous/Trees/AmurCork/TreePreview/AmurCorkPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/AmurCorkTree.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Cork</Type>
+  </Def>
+  
+
+</Definitions>

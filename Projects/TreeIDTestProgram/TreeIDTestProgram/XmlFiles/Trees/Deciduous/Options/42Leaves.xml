@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Clustered end upturned twig/Smooth/Parallel margins/Drupe</Name>
+    <Image>Images/Deciduous/Options/42aLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/DogwoodPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Not clustered end upturned twig/Fine toothed/Terminate margins/Pome</Name>
+    <Image>Images/Deciduous/Options/42bLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/43Branchlets.xml</CallFile>
+    <PageTitle>Leaves/Margins/Lateral veins/Fruit</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

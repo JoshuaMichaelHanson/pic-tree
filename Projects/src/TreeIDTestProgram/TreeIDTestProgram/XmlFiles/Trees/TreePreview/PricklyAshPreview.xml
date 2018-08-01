@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Common Prickly-Ash</Name>
+    <Image>Images/Deciduous/Trees/CommonPricklyAsh/TreePreview/CommonPricklyAshPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/CommonPricklyAsh.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Prickly-Ash</Type>
+  </Def>
+</Definitions>

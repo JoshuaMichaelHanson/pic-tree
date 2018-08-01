@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Smooth without buds or leaves attached, very sharp/absent</Name>
+    <Image>Images/Deciduous/Options/28aThorns.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/HawthornPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Rough with buds or leaves often attached/stubby and present</Name>
+    <Image>Images/Deciduous/Options/28bThorns.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/29Fruit.xml</CallFile>
+    <PageTitle>Thorns/Spur shoots</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

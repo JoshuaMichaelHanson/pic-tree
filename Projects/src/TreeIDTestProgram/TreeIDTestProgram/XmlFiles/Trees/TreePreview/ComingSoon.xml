@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Coming Soon</Name>
+    <Image>Images/Deciduous/Trees/Boxelder/TreePreview/BoxelderPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/ComingSoon.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Coming Soon</Type>
+  </Def>
+</Definitions>

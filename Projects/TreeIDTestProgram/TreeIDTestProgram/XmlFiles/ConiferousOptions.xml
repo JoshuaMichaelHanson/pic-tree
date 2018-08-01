@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Scalelike or awl-shaped</Name>
+    <Image>Images/Coniferous/Options/Scalelike.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallMethod>Scalelike</CallMethod>
+    <Description></Description>
+  </Option>
+  <Option>
+    <Name>Liner-shaped or needlelike</Name>
+    <Image>Images/Coniferous/Options/Needlelike.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallMethod>Needlelike</CallMethod>
+    <Description></Description>
+  </Option>
+</Options>

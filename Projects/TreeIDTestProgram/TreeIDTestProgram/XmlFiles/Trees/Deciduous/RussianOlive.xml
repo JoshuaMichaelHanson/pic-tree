@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Russian-Olive</Name>
+    <OtherName>Silver berry/Oleaster</OtherName>
+    <ScientificName>Elaeagnus angustifolia</ScientificName>
+    <Description>Thorny shrub or small tree, growing to 15' tall and widespreading.  Low, open crown with several vertical branches.  Trunk is often leaning or crooked and can grow up to 6" in diameter.</Description>
+    <Leaves>Alternate, simple, 1 1/2" - 3" long and 1/4" - 3/4" wide.  Blunt or pointed tip, nearly smooth margins.  Dull green on top and silvery below with brown dots.  Turning brown in autumn.</Leaves>
+    <Twigs>Brown and silvery, may have thorns.  Salmon colored pith.  Buds will be gray-brown with silver scales.</Twigs>
+    <SeedConeOrFruit>Fruit:  Drupe, 1/4" - 1/2" long, olive shaped.  Color will be yellow-brown with silver scales.  Mature in early autumn.</SeedConeOrFruit>
+    <Bark>Silvery with orange fissures that wrap around the trunk.  Thorns or scales may be present.  Older bark turns a grayish-brown color.</Bark>
+    <Range>Hardy to zone 3b.  Native to western and central Asia, from southern Russia and Kazakhstan to Turkey and Iran.  Considered an invasive species in most parts of the United States.</Range>
+    <Remarks>The shrub can fix nitrogen in its roots, enabling it to grow on bare mineral substrates.  In Iran, the dried powder of the fruits is used mixed with milk for rheumatoid arthritis and joint pains. It is also one of the seven items which are used in Haft Sin or the seven 'S's which is a traditional table setting of Nowruz, the traditional Persian spring celebration.</Remarks>
+    <Pic1>Images/Deciduous/Trees/RussianOlive/UpClose1.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/RussianOlive/UpClose.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/RussianOlive/Fruit.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/RussianOlive/Tree.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/RussianOlive/Seed.jpg</Pic5>
+  </Def>
+</Definitions>

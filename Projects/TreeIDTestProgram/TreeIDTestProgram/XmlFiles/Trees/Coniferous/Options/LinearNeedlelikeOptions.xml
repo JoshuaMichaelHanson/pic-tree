@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Clusters/Bundles(2+)</Name>
+    <Image>Images/Coniferous/Options/ClustersOrBundles.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Coniferous/Options/ClustersBundles.xml</CallFile>
+    <PageTitle>Leaves borne</PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Singly</Name>
+    <Image>Images/Coniferous/Options/Singly.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Coniferous/Options/Singly.xml</CallFile>
+    <PageTitle>Leaves borne</PageTitle>
+    <Type>Option</Type>
+  </Option>
+  
+</Options>

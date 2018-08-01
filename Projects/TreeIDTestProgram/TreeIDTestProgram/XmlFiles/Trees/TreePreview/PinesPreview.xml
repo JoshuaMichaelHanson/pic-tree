@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Red Pine (2)</Name>
+    <Image>Images/Coniferous/Trees/RedPine/TreePreview/RedPinePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/RedPine.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Pines</Type>
+  </Def>
+  <Def>
+    <Name>Eastern White Pine (5)</Name>
+    <Image>Images/Coniferous/Trees/EasternWhitePine/TreePreview/EasternWhitePinePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/EasternWhitePine.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Pines</Type>
+  </Def>
+  <Def>
+    <Name>Jack Pine (2)</Name>
+    <Image>Images/Coniferous/Trees/JackPine/TreePreview/JackPinePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/JackPine.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Pines</Type>
+  </Def>
+  <Def>
+    <Name>Austrian Pine (2)</Name>
+    <Image>Images/Coniferous/Trees/AustrianPine/TreePreview/AustrianPinePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/AustrianPine.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Pines</Type>
+  </Def>
+  <Def>
+    <Name>Ponderosa Pine (2-3)</Name>
+    <Image>Images/Coniferous/Trees/PonderosaPine/TreePreview/PonderosaPinePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/PonderosaPine.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Pines</Type>
+  </Def>
+  <Def>
+    <Name>Scotch Pine (2)</Name>
+    <Image>Images/Coniferous/Trees/ScotchPine/TreePreview/ScotchPinePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/ScotchPine.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Pines</Type>
+  </Def>
+  <Def>
+    <Name>Mugo Pine (2)</Name>
+    <Image>Images/Coniferous/Trees/MugoPine/TreePreview/MugoPinePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/MugoPine.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Pines</Type>
+  </Def>
+</Definitions>

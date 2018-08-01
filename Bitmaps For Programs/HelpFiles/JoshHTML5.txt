@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="description"
+		content="Tree Identification for WP7.5" />
+	<meta name="keywords" content="Hansons logic, Windows Phone, Tree Identification, Awesome, Cool, New" />
+	<title>Glossary of terms</title>
+	<link rel="stylesheet" href="mystyles.css" />
+</head>
+<body>
+	<header>
+		<h1>PicTree Help Files</h1>
+	</header>
+	<nav>
+	<ul>
+		<li>How To</li>
+		<li>Glossary</li>
+		<li>Coniferous</li>
+		<li>Deciduous</li>
+		<li>About</li>
+	</ul>
+	</nav>
+	<section>
+		<article>
+			Thank you for choosing PicTree for your tree identification needs!  You have chosen wisely.  You will not be disappointed, with the updates and the help files you need the program will never be a disappointment.  Joshua M. Hanson is the programmer for all your WP needs and he will get back to you on all emails.  josh@hansonslogic.com
+		</article>
+	</section>
+	<aside>
+		<blockquote>Joshua M. Hanson</blockquote />
+	</aside>
+	<footer>
+		Copyright &copy; 2013 Hansons Logic LLC.
+	</footer>
+</body>
+</html>

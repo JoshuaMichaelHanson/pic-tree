@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Red Mulberry</Name>
+    <Image>Images/Deciduous/Trees/RedMulberry/TreePreview/RedMulberryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/RedMulberry.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Mulberries</Type>
+  </Def>
+  <Def>
+    <Name>Russian Mulberry</Name>
+    <Image>Images/Deciduous/Trees/RussianMulberry/TreePreview/RussianMulberryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/RussianMulberry.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Mulberries</Type>
+  </Def>
+</Definitions>

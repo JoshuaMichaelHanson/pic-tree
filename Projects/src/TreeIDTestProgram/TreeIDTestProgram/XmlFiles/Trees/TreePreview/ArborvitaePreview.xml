@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Norhtern White-Cedar</Name>
+    <Image>Images/Coniferous/Trees/Arborvitae/TreePreview/ArborvitaePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/NorthernWhiteCedar.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Arborvitae</Type>
+  </Def>
+</Definitions>

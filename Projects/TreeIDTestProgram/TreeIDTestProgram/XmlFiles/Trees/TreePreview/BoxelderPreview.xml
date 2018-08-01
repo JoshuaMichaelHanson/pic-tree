@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Boxelder</Name>
+    <Image>Images/Deciduous/Trees/Boxelder/TreePreview/BoxelderPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/Boxelder.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Boxelder</Type>
+  </Def>
+
+
+</Definitions>

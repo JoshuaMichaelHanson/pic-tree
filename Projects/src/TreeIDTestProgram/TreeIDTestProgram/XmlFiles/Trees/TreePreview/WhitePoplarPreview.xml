@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>White Poplar</Name>
+    <Image>Images/Deciduous/Trees/WhitePoplar/TreePreview/WhitePoplarPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/WhitePoplar.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>White Poplar</Type>
+  </Def>
+</Definitions>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Kentucky Coffeetree</Name>
+    <Image>Images/Deciduous/Trees/KentuckyCoffeetree/TreePreview/KentuckyCoffeetreePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/KentuckyCoffeetree.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Coffeetree</Type>
+  </Def>
+</Definitions>

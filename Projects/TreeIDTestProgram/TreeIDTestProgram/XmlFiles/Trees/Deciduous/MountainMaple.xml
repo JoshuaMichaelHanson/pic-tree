@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Mountain Maple</Name>
+    <OtherName>Moose maple</OtherName>
+    <ScientificName>Acer spicatum</ScientificName>
+    <Description>A small tree or shrub not over 30 feet in height; small, irregular crown of upright branches; trunk, often crooked and divided, up to 7" diameter.</Description>
+    <Leaves>Leaves are three-lobed, rarely five-lobed, 2 1/2" — 4 1/4" long, yellowish-green above, and hairy beneath. Leaf margins have coarse, irregular teeth, and usually have fine hairs beneath with smooth surface above. Foliage is light to yellowish-green in color.  Deep red or orange in autumn.</Leaves>
+    <Twigs>Yellowish-green to reddish-green with gray hairs; terminal buds, red, perched on a small stalk, 2 scales.</Twigs>
+    <SeedConeOrFruit>Fruit:  Samara, 3/4" - 1" long, has wings that diverge at right angles and mature in September.</SeedConeOrFruit>
+    <Bark>The color of young bark is green and does not have stripes.  Older bark reddish-brown to brown with stripes or slighly furrowed.</Bark>
+    <Range>Native to northeastern North America from Saskatchewan to Newfoundland, Minnesota and south to Pennsylvania. It also grows at high elevations in the southern Appalachian Mountains to northern Georgia.</Range>
+    <Remarks>The tree lives in moist woods in rich, well-drained soils on rocky hillsides and along streams. It also grows on ravines, cliff faces, and forested bogs. During ecological succession, it colonizes the understory as pioneer species die.</Remarks>
+    <Pic1>Images/Deciduous/Trees/MountainMaple/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/MountainMaple/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/MountainMaple/Leaves1.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/MountainMaple/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/MountainMaple/Fruite.jpg</Pic5>
+  </Def>
+</Definitions>

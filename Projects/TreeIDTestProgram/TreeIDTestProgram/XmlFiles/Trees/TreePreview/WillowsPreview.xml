@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Bebb Willow</Name>
+    <Image>Images/Deciduous/Trees/BebbWillow/TreePreview/BebbWillowPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BebbWillow.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Black Willow</Name>
+    <Image>Images/Deciduous/Trees/BlackWillow/TreePreview/BlackWillowPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BlackWillow.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Heartleaf Willow</Name>
+    <Image>Images/Deciduous/Trees/HeartleafWillow/TreePreview/HeartleafWillowPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/HeartleafWillow.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Laurel Willow</Name>
+    <Image>Images/Deciduous/Trees/LaurelWillow/TreePreview/LaurelWillowPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/LaurelWillow.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Peachleaf Willow</Name>
+    <Image>Images/Deciduous/Trees/PeachleafWillow/TreePreview/PeachleafWillowPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/PeachleafWillow.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Pussy Willow</Name>
+    <Image>Images/Deciduous/Trees/PussyWillow/TreePreview/PussyWillowPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/PussyWillow.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Sandbar Willow</Name>
+    <Image>Images/Deciduous/Trees/SandbarWillow/TreePreview/SandbarWillowPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/SandbarWillow.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Shining Willow</Name>
+    <Image>Images/Deciduous/Trees/ShiningWillow/TreePreview/ShiningWillowPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/ShiningWillow.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>White Willow</Name>
+    <Image>Images/Deciduous/Trees/WhiteWillow/TreePreview/WhiteWillowPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/WhiteWillow.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Willows</Type>
+  </Def>
+</Definitions>

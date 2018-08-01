@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Red Pine</Name>
+    <OtherName>Norway Pine</OtherName>
+    <ScientificName>Pinus resinosa</ScientificName>
+    <Description>Medium sized tree, up to 90' high and 26" in diameter.  Symmetric, rounded crown.  Branches spaced in annual whorls around trunk.</Description>
+    <Leaves>Soft and flexible evergreen needles, in clusters of two, slender, 4"-6" long, dark green borne in dense tufts at end of branchlets.  May break cleanly when bent.</Leaves>
+    <Twigs>Buds are reddish-brown to orangish-brown with loose scales</Twigs>
+    <SeedConeOrFruit>Seed Cone: 1 1/2" - 2 1/4" long.  The fruit is ovoid-conic, with thin scales, becoming light chesnut-brown at maturity.</SeedConeOrFruit>
+    <Bark>The bark is thick and slightly divided by shallow fissures into broad flat ridges covered by thin loose red-brown scales.  The root system is moderately deep, wide spreading, and very wind firm.</Bark>
+    <Range>Red pine is native to northeastern United States.  This species ranges from Newfoundland and Manitoba, south to the mountains of Pennsylvania, west to Minnesota.</Range>
+    <Remarks>Minnesotas state tree.  Fire dependent.  Moderately hard and straight grained.  Christmas trees, poles, lumber, cabins, railway ties, posts, pulpwood, and fuel.  The inner bark of Pinus resinosa was pounded as a poultice for any kind of inflamed wound, sore, or ulcer when white pine bark was not available.  An attractive tree that is used in recreational areas because of its colorful bark.  Provides cover for many species of mammals and birds.  Deer, small mammals and songbirds feed on the seed.  Used in tree strips for windbreaks.</Remarks>
+    <Pic1>Images/Coniferous/Trees/RedPine/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/RedPine/UpClose2.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/RedPine/Needles.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/RedPine/Cones.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/RedPine/Bark.jpg</Pic5>
+  </Def>
+</Definitions>

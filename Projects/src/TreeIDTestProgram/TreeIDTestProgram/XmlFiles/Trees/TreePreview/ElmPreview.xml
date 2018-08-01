@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>American Elm</Name>
+    <Image>Images/Deciduous/Trees/AmericanElm/TreePreview/AmericanElmPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/AmericanElm.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Slippery Elm</Name>
+    <Image>Images/Deciduous/Trees/SlipperyElm/TreePreview/SlipperyElmPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/SlipperyElm.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Rock Elm</Name>
+    <Image>Images/Deciduous/Trees/RockElm/TreePreview/RockElmPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/RockElm.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Siberian Elm</Name>
+    <Image>Images/Deciduous/Trees/SiberianElm/TreePreview/SiberianElmPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/SiberianElm.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Elms</Type>
+  </Def>
+</Definitions>

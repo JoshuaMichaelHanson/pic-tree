@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Pin Cherry</Name>
+    <OtherName>Fire Cherry</OtherName>
+    <ScientificName>Prunus pennsylavanica</ScientificName>
+    <Description>Small tree, up to 30' tall, crown is round.  Trunk up to 8" in diameter.</Description>
+    <Leaves>Simple, alternate, long pointed tips and may be clustered at the ends of twigs.  2" - 5" long, 3/4" - 1 1/2" wide.  Fine toothed magins, glossy yellow/green, turning yellow in autumn.  May have 2 glands (warts/swellings) near leaf base.</Leaves>
+    <Twigs>Shiny red with orangish lenticels (dots), bitter almond smell when broken or crushed.  Buds brown/gray/purple/red, with 3 or more scales that cover like shingles.</Twigs>
+    <SeedConeOrFruit>Fruit:  Drupe, 1/4" in diameter, bright red, maturing in summer.</SeedConeOrFruit>
+    <Bark>Red/gray with orange lenticels.  Turning into thin, gray, papery layers with age.</Bark>
+    <Range>Newfoundland and southern Labrador, crossing Canada to the west and reaching British Columbia and the southern Northwest Territories. Additionally it is very common in New England and the Great Lakes region but not very common south of Pennsylvania, where it is found only sporadically in the Appalachian Mountains to northern Georgia and eastern Tennessee. Scattered growth of the Pin cherry also occurs in the Rocky Mountains, south to Colorado and southeast to the Black Hills of South Dakota.</Range>
+    <Remarks>Pin cherry grow rapidly following a clearcut, fire, or abandonment of mining. Nearly pure stands of this tree explode with small white blossoms in early spring, carpeting whole hillsides in white.</Remarks>
+    <Pic1>Images/Deciduous/Trees/PinCherry/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/PinCherry/Flower.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/PinCherry/Bark1.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/PinCherry/Bark2.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/PinCherry/Fruit.jpg</Pic5>
+  </Def>
+</Definitions>

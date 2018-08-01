@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Balsam Fir</Name>
+    <Image>Images/Coniferous/Trees/BalsamFir/TreePreview/BalsamFirPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/BalsamFir.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>True Firs</Type>
+  </Def>
+  <Def>
+    <Name>Fraser Fir</Name>
+    <Image>Images/Coniferous/Trees/FraserFir/TreePreview/FraserFirPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/FraserFir.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>True Firs</Type>
+  </Def>
+  <Def>
+    <Name>White Fir</Name>
+    <Image>Images/Coniferous/Trees/WhiteFir/TreePreview/WhiteFirPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/WhiteFir.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>True Firs</Type>
+  </Def>
+  
+</Definitions>

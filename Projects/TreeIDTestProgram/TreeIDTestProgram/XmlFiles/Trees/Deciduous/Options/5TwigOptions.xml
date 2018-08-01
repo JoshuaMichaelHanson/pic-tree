@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Green, Gray, Purple or Brown/Shield-shaped/Samara</Name>
+    <Image>Images/Deciduous/Options/5aTwigPrev.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/AshPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Orangish-yellow, Yellowish-gray/Horseshoe-shaped/Drupe</Name>
+    <Image>Images/Deciduous/Options/5bTwigPrev.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/CorkPreview.xml</CallFile>
+    <PageTitle>Twig Color/Leaf Scar/Fruit</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+
+</Options>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Fleshy</Name>
+    <Image>Images/Coniferous/SeedCones/FleshySeedCone.png</Image>
+    <Width>173</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallMethod>Junipers</CallMethod>
+    <Description></Description>
+  </Option>
+  <Option>
+    <Name>Woody</Name>
+    <Image>Images/Coniferous/SeedCones/WoodySeedCone.png</Image>
+    <Width>173</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallMethod>Arborvitae</CallMethod>
+    <Description></Description>
+  </Option>
+</Options>

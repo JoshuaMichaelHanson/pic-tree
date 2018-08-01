@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Ginkgo</Name>
+    <Image>Images/Deciduous/Trees/Ginkgo/TreePreview/GinkgoPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/Ginkgo.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Ginkgo</Type>
+  </Def>
+</Definitions>

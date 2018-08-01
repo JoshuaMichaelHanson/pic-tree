@@ -1,0 +1,1320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B8CEC96C-1393-4CD1-96F7-0B3782CAACD7}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TreeIDTestProgram</RootNamespace>
+    <AssemblyName>TreeIDTestProgram</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>TreeIDTestProgram.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>TreeIDTestProgram.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Controls, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml" />
+    <Reference Include="mscorlib.extensions" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BrowsePage.xaml.cs">
+      <DependentUpon>BrowsePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ButtonDictionary.cs" />
+    <Compile Include="ButtonHelper.cs" />
+    <Compile Include="ConiferousOptions.xaml.cs">
+      <DependentUpon>ConiferousOptions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Help.xaml.cs">
+      <DependentUpon>Help.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Option.cs" />
+    <Compile Include="OptionsPage.xaml.cs">
+      <DependentUpon>OptionsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OptionsPage1.xaml.cs">
+      <DependentUpon>OptionsPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PicTreeState.cs" />
+    <Compile Include="Preview.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScalelikeOptions.xaml.cs">
+      <DependentUpon>ScalelikeOptions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestPage.xaml.cs">
+      <DependentUpon>TestPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tree.cs" />
+    <Compile Include="TreePreview.xaml.cs">
+      <DependentUpon>TreePreview.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TreeView.xaml.cs">
+      <DependentUpon>TreeView.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="BrowsePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ConiferousOptions.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="OptionsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="OptionsPage1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ScalelikeOptions.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TreePreview.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TreeView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PicTree_2013_03_15_11_01_20.sap" />
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Deciduous\Trees\BebbWillow\TreePreview\BebbWillowPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\BlackWillow\TreePreview\BlackWillowPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\HeartleafWillow\TreePreview\HeartleafWillowPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\PeachleafWillow\TreePreview\PeachleafWillowPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\PussyWillow\TreePreview\PussyWillowPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\SandbarWillow\TreePreview\SandbarWillowPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\ShiningWillow\TreePreview\ShiningWillowPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWillow\TreePreview\WhiteWillowPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\BebbWillow\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BebbWillow\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BebbWillow\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackWillow\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackWillow\Catkin.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackWillow\Flowers.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackWillow\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackWillow\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\HeartleafWillow\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\HeartleafWillow\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\HeartleafWillow\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LaurelWillow\TreePreview\LaurelWillowPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\LaurelWillow\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LaurelWillow\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LaurelWillow\Trees.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LaurelWillow\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LaurelWillow\UpClose2.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PeachleafWillow\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PeachleafWillow\Bark1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PeachleafWillow\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PeachleafWillow\Leaves1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PeachleafWillow\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PussyWillow\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PussyWillow\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PussyWillow\Leaves1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PussyWillow\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PussyWillow\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SandbarWillow\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SandbarWillow\Leaves1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SandbarWillow\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SandbarWillow\Trees.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SandbarWillow\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShiningWillow\Catkin.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShiningWillow\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShiningWillow\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShiningWillow\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShiningWillow\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWillow\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWillow\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWillow\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWillow\Tree1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWillow\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackCherry\TreePreview\BlackCherryPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\ChokeCherry\TreePreview\ChokeCherryPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\PinCherry\TreePreview\PinCherryPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\CherriesApricotsPlums\TreePreview\CherriesApricotsPlumsPrev.png" />
+    <Resource Include="Background.png" />
+    <Resource Include="ApplicationIcon.png" />
+    <Resource Include="Images\Deciduous\Trees\BlackCherry\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackCherry\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackCherry\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackCherry\Tree1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackCherry\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ChokeCherry\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ChokeCherry\Flowers.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ChokeCherry\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ChokeCherry\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ChokeCherry\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PinCherry\Bark1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PinCherry\Bark2.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PinCherry\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PinCherry\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PinCherry\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CherriesApricotsPlums\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CherriesApricotsPlums\Flower1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CherriesApricotsPlums\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CherriesApricotsPlums\Seed.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CherriesApricotsPlums\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Options\40bTwigs.png" />
+    <Resource Include="Images\Deciduous\Options\41aLeaves.png" />
+    <Resource Include="Images\Deciduous\Trees\BigtoothAspen\TreePreview\BigtoothAspenPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\TremblingAspen\TreePreview\TremblingAspenPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\EasternCottonwood\TreePreview\EasternCottonwoodPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\BalsamPoplar\TreePreview\BalsamPoplarPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\LombardyPoplar\TreePreview\LombardyPoplarPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\BigtoothAspen\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BigtoothAspen\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BigtoothAspen\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BigtoothAspen\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BigtoothAspen\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\TremblingAspen\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\TremblingAspen\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\TremblingAspen\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\TremblingAspen\Trees.jpg" />
+    <Resource Include="Images\Deciduous\Trees\TremblingAspen\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EasternCottonwood\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EasternCottonwood\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EasternCottonwood\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EasternCottonwood\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EasternCottonwood\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BalsamPoplar\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BalsamPoplar\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BalsamPoplar\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BalsamPoplar\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BalsamPoplar\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LombardyPoplar\Trees.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LombardyPoplar\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LombardyPoplar\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Options\41bLeaves.png" />
+    <Resource Include="Images\Deciduous\Options\42aLeaves.png" />
+    <Resource Include="Images\Deciduous\Options\42bLeaves.png" />
+    <Resource Include="Images\Deciduous\Trees\DownyServiceberry\TreePreview\DownyServiceberryPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\RoundleafServiceberry\TreePreview\RoundleafServiceberryPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\SaskatoonServiceberry\TreePreview\SaskatoonServiceberryPrev.png" />
+    <Content Include="XmlFiles\Trees\Deciduous\BalsamPoplar.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\BebbWillow.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\BigtoothAspen.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\BlackCherry.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\BlackWillow.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\CherriesApricotsPlums.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\ChokeCherry.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\DownyServiceberry.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\EasternCottonwood.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\HeartleafWillow.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\LaurelWillow.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\LombardyPoplar.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\40Twigs.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\41Leaves.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\42Leaves.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\43Branchlets.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\PeachleafWillow.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\PinCherry.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\PussyWillow.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\SandbarWillow.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\ShiningWillow.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\TremblingAspen.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\WhiteWillow.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\CherriesPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\PoplarsPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\ServiceberriesPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\WillowsPreview.xml" />
+    <Resource Include="Images\Deciduous\Options\24bFruit.png" />
+    <Resource Include="Images\Deciduous\Trees\RedMulberry\TreePreview\RedMulberryPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\RussianMulberry\TreePreview\RussianMulberryPrev.png" />
+    <Resource Include="Images\Deciduous\Options\25aThorns.png" />
+    <Resource Include="Images\Deciduous\Trees\Hawthorn\TreePreview\HawthornPrev.png" />
+    <Resource Include="Images\Deciduous\Options\25bThorns.png" />
+    <Resource Include="Images\Deciduous\Trees\ApplesPears\TreePreview\ApplesPearsPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\PrairieCrabapple\TreePreview\PrairieCrabapplePrev.png" />
+    <Resource Include="Images\Deciduous\Trees\Ginkgo\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Ginkgo\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Ginkgo\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Ginkgo\Branch.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Ginkgo\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BurOak\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BurOak\Seed.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BurOak\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BurOak\Tree1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BurOak\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteOak\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteOak\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteOak\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteOak\Tree1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteOak\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SwampWhiteOak\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SwampWhiteOak\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SwampWhiteOak\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SwampWhiteOak\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SwampWhiteOak\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ChinkapinOak\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ChinkapinOak\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ChinkapinOak\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ChinkapinOak\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ChinkapinOak\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernRedOak\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernRedOak\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernRedOak\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernRedOak\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernRedOak\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackOak\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackOak\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackOak\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackOak\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackOak\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernPinOak\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernPinOak\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernPinOak\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EasternPinOak\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EasternPinOak\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EasternPinOak\Leaves1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EasternPinOak\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EasternPinOak\UpClose2.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhitePoplar\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhitePoplar\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhitePoplar\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhitePoplar\Trees.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhitePoplar\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RedMulberry\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RedMulberry\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RedMulberry\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RedMulberry\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RedMulberry\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RussianMulberry\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RussianMulberry\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackWalnut\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackWalnut\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackWalnut\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackWalnut\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackWalnut\UpClose2.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackWalnut\TreePreview\BlackWalnutPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\Hawthorn\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Hawthorn\Seed.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Hawthorn\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Hawthorn\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Hawthorn\UpClose2.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ApplesPears\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ApplesPears\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ApplesPears\LeafFruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ApplesPears\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ApplesPears\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PrairieCrabapple\Seeds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PrairieCrabapple\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Options\20bLeaf.png" />
+    <Resource Include="Images\Deciduous\Options\26aLeaf.png" />
+    <Resource Include="Images\Deciduous\Options\26bLeaf.png" />
+    <Resource Include="Images\Deciduous\Options\27aBranchlets.png" />
+    <Resource Include="Images\Deciduous\Options\27bBranchlets.png" />
+    <Resource Include="Images\Deciduous\Options\28aThorns.png" />
+    <Resource Include="Images\Deciduous\Options\28bThorns.png" />
+    <Resource Include="Images\Deciduous\Options\29bFruit.png" />
+    <Resource Include="Images\Deciduous\Options\29aFruit.png" />
+    <Resource Include="Images\Deciduous\Trees\AmericanPlum\TreePreview\AmericanPlumPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\CanadaPlum\TreePreview\CanadaPlumPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\AmericanPlum\Flowers.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanPlum\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanPlum\Seedling.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanPlum\Trees.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanPlum\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CanadaPlum\Seed.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CanadaPlum\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CanadaPlum\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Options\30aLeaf.png" />
+    <Resource Include="Images\Deciduous\Trees\AmericanElm\TreePreview\AmericanElmPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\SlipperyElm\TreePreview\SlipperyElmPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\RockElm\TreePreview\RockElmPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\SiberianElm\TreePreview\SiberianElmPrev.png" />
+    <Resource Include="Images\Deciduous\Options\30bLeaf.png" />
+    <Resource Include="Images\Deciduous\Options\31aNutlets.png" />
+    <Resource Include="Images\Deciduous\Options\31bNutlets.png" />
+    <Resource Include="Images\Deciduous\Trees\SpeckledAlder\TreePreview\SpeckledAlderPrev.png" />
+    <Resource Include="Images\Deciduous\Options\32aTrunk.png" />
+    <Resource Include="Images\Deciduous\Options\32bTrunk.png" />
+    <Resource Include="Images\Deciduous\Options\33aTrunk.png" />
+    <Resource Include="Images\Deciduous\Trees\Ironwood\TreePreview\IronwoodPrev.png" />
+    <Resource Include="Images\Deciduous\Options\33bTrunk.png" />
+    <Resource Include="Images\Deciduous\Trees\BlueBeech\TreePreview\BlueBeechPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\PaperBirch\TreePreview\PaperBirchPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\EuropeanWhiteBirch\TreePreview\EuropeanWhiteBirchPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\YellowBirch\TreePreview\YellowBirchPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\SweetBirch\TreePreview\SweetBirchPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\RiverBirch\TreePreview\RiverBirchPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\AmericanElm\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanElm\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanElm\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanElm\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanElm\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SlipperyElm\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SlipperyElm\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SlipperyElm\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SlipperyElm\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SlipperyElm\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RockElm\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RockElm\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RockElm\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RockElm\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RockElm\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SiberianElm\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SiberianElm\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SiberianElm\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SiberianElm\Trees.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SiberianElm\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PaperBirch\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PaperBirch\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PaperBirch\Trees.jpg" />
+    <Resource Include="Images\Deciduous\Trees\PaperBirch\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EuropeanWhiteBirch\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EuropeanWhiteBirch\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EuropeanWhiteBirch\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EuropeanWhiteBirch\UpClose2.jpg" />
+    <Resource Include="Images\Deciduous\Trees\YellowBirch\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\YellowBirch\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\YellowBirch\Trees.jpg" />
+    <Resource Include="Images\Deciduous\Trees\YellowBirch\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\YellowBirch\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SweetBirch\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SweetBirch\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SweetBirch\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SweetBirch\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SweetBirch\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RiverBirch\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RiverBirch\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RiverBirch\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RiverBirch\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RiverBirch\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Ironwood\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Ironwood\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Ironwood\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Ironwood\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Ironwood\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\Arborvitae\TreePreview\ArborvitaePrev.png" />
+    <Resource Include="Images\Deciduous\Trees\BlueBeech\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlueBeech\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlueBeech\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlueBeech\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlueBeech\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SpeckledAlder\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SpeckledAlder\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SpeckledAlder\Hairy.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SpeckledAlder\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SpeckledAlder\UpClose.jpg" />
+    <Content Include="HTML\HelpFiles\About.html" />
+    <Content Include="HTML\HelpFiles\Coniferous.html">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="HTML\HelpFiles\Deciduous.html">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="HTML\HelpFiles\Glossary.html">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="HTML\HelpFiles\HelpMain.html" />
+    <Content Include="HTML\HelpFiles\HowTo.HTML" />
+    <Content Include="HTML\HelpFiles\mystyles.css" />
+    <Content Include="HTML\HelpFiles\Pics\Acorn.png" />
+    <Content Include="HTML\HelpFiles\Pics\Alternate.png" />
+    <Content Include="HTML\HelpFiles\Pics\AwlShaped.png" />
+    <Content Include="HTML\HelpFiles\Pics\Bundles.png" />
+    <Content Include="HTML\HelpFiles\Pics\Capsule.png" />
+    <Content Include="HTML\HelpFiles\Pics\Clusters.png" />
+    <Content Include="HTML\HelpFiles\Pics\DoublyCompound.png" />
+    <Content Include="HTML\HelpFiles\Pics\Drupe.png" />
+    <Content Include="HTML\HelpFiles\Pics\FleshySeedCone.png" />
+    <Content Include="HTML\HelpFiles\Pics\Legume.png" />
+    <Content Include="HTML\HelpFiles\Pics\LinearShaped.png" />
+    <Content Include="HTML\HelpFiles\Pics\LobesPalmate.png" />
+    <Content Include="HTML\HelpFiles\Pics\MarginsCoarselyToothed.png" />
+    <Content Include="HTML\HelpFiles\Pics\MarginsDoublyToothed.png" />
+    <Content Include="HTML\HelpFiles\Pics\MarginsFinelyToothed.png" />
+    <Content Include="HTML\HelpFiles\Pics\MarginsLobed.png" />
+    <Content Include="HTML\HelpFiles\Pics\MarginsSmooth.png" />
+    <Content Include="HTML\HelpFiles\Pics\MultipleOfDrupes.png" />
+    <Content Include="HTML\HelpFiles\Pics\Nut.png" />
+    <Content Include="HTML\HelpFiles\Pics\NutletClusters.png" />
+    <Content Include="HTML\HelpFiles\Pics\Opposite.png" />
+    <Content Include="HTML\HelpFiles\Pics\PalmatelyCompound.png" />
+    <Content Include="HTML\HelpFiles\Pics\PinnatelyCompound.png" />
+    <Content Include="HTML\HelpFiles\Pics\Pome.png" />
+    <Content Include="HTML\HelpFiles\Pics\Samara.png" />
+    <Content Include="HTML\HelpFiles\Pics\Scalelike.png" />
+    <Content Include="HTML\HelpFiles\Pics\Simple.png" />
+    <Content Include="HTML\HelpFiles\Pics\Singles.png" />
+    <Content Include="HTML\HelpFiles\Pics\Whorled.png" />
+    <Content Include="HTML\HelpFiles\Pics\WoodySeedCone.png" />
+    <Content Include="HTML\HelpFiles\Settings.html">
+      <SubType>Designer</SubType>
+    </Content>
+    <Resource Include="Images\Deciduous\Options\34bLeaf.png" />
+    <Resource Include="Images\Deciduous\Options\35aLeaf.png" />
+    <Resource Include="Images\Deciduous\Options\35bLeaf.png" />
+    <Resource Include="Images\Deciduous\Options\36aLeaves.png" />
+    <Resource Include="Images\Deciduous\Options\36bLeaves.png" />
+    <Resource Include="Images\Deciduous\Trees\AmericanLinden\TreePreview\AmericanLindenPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\LittleLeafLinden\TreePreview\LittleLeafLindenPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\AmericanLinden\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanLinden\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanLinden\Leaf.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanLinden\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanLinden\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LittleLeafLinden\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LittleLeafLinden\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LittleLeafLinden\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LittleLeafLinden\Tree1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\LittleLeafLinden\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Hackberry\TreePreview\HackberryPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\Hackberry\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Hackberry\Bark1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Hackberry\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Hackberry\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Hackberry\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Options\37aLeaves.png" />
+    <Resource Include="Images\Deciduous\Options\37bLeaves.png" />
+    <Resource Include="Images\Deciduous\Options\38aTwigs.png" />
+    <Resource Include="Images\Deciduous\Options\38bTwigs.png" />
+    <Resource Include="Images\Deciduous\Trees\RussianOlive\TreePreview\RussianOlivePrev.png" />
+    <Resource Include="Images\Deciduous\Trees\RussianOlive\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RussianOlive\Seed.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RussianOlive\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RussianOlive\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RussianOlive\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Options\39aBranchlets.png" />
+    <Resource Include="Images\Deciduous\Options\39bBranchlets.png" />
+    <Content Include="Images\Icons\bolt.png" />
+    <Content Include="Images\Icons\flag.png" />
+    <Content Include="Images\Icons\question.png" />
+    <Content Include="XmlFiles\Trees\Deciduous\AmericanElm.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\AmericanLinden.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\AmericanPlum.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\BlackOak.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\BlueBeech.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\BurOak.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\CanadaPlum.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\ChinkapinOak.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\EasternPinOak.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\EuropeanWhiteBirch.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Ginkgo.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Hackberry.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Hawthorn.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\IronWood.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\LittleLeafLinden.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\NorthernPinOak.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\NorthernRedOak.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\25Thorns.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\ApplesPears.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\26Leaf.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\27Branchlets.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\28Thorns.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\29Fruit.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\30Leaf.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\31Nutlets.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\32Trunk.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\33Trunk.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\34Leaf.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\35Leaf.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\36Leaves.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\37Leaves.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\38Twigs.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\39Branchlets.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\PaperBirch.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\PrairieCrabapple.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\RedMulberry.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\RiverBirch.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\RockElm.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\RussianMulberry.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\RussianOlive.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\SiberianElm.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\SlipperyElm.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\SpeckledAlder.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\SwampWhiteOak.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\SweetBirch.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\WhiteOak.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\WhitePoplar.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\YellowBirch.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\AlderPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\ApplesPearsPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\ArborvitaePreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\BirchesPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\BlueBeechPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\ElmPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\HackberryPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\HawthornPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\IronwoodPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\LindenPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\MulberriesPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\PlumsPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\RussianOlivePreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\WhitePoplarPreview.xml" />
+    <Resource Include="Images\Deciduous\Trees\BurOak\TreePreview\BurOakPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\WhiteOak\TreePreview\WhiteOakPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\SwampWhiteOak\TreePreview\SwampWhiteOakPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\ChinkapinOak\TreePreview\ChinkapinOakPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\NorthernRedOak\TreePreview\NorthernRedOakPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\BlackOak\TreePreview\BlackOakPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\NorthernPinOak\TreePreview\NorthernPinOakPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\EasternPinOak\TreePreview\EasternPinOakPrev.png" />
+    <Resource Include="Images\Deciduous\Options\24aFruit.png" />
+    <Resource Include="Images\Deciduous\Trees\WhitePoplar\TreePreview\WhitePoplarPrev.png" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\24Fruit.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\RedOakPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\WhiteOakPreview.xml" />
+    <Resource Include="Images\Deciduous\Options\18aTwig.png" />
+    <Resource Include="Images\Deciduous\Options\18bTwig.png" />
+    <Resource Include="Images\Deciduous\Trees\EuropeanMountainAsh\TreePreview\EuropeanMountainAshPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\ShowyMountainAsh\TreePreview\ShowyMountainAshPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\StaghornSumac\TreePreview\StaghornSumacPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\SmoothSumac\TreePreview\SmoothSumacPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\KentuckyCoffeetree\Flower.png" />
+    <Resource Include="Images\Deciduous\Trees\KentuckyCoffeetree\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\KentuckyCoffeetree\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\KentuckyCoffeetree\Tree1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\KentuckyCoffeetree\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Honeylocust\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Honeylocust\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Honeylocust\Leaves1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Honeylocust\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Honeylocust\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CommonPricklyAsh\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CommonPricklyAsh\Seed.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CommonPricklyAsh\Seedling.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CommonPricklyAsh\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CommonPricklyAsh\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackLocust\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackLocust\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackLocust\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackLocust\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackLocust\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BitternutHickory\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BitternutHickory\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BitternutHickory\Leaves1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BitternutHickory\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BitternutHickory\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShagbarkHickory\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShagbarkHickory\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShagbarkHickory\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShagbarkHickory\Tree1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShagbarkHickory\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\BlackWalnut\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\BlackWalnut\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\BlackWalnut\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\BlackWalnut\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\BlackWalnut\UpClose2.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWalnut\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWalnut\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWalnut\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWalnut\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWalnut\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanMountainAsh\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanMountainAsh\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanMountainAsh\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanMountainAsh\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmericanMountainAsh\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EuropeanMountainAsh\Flowers.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EuropeanMountainAsh\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EuropeanMountainAsh\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EuropeanMountainAsh\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\EuropeanMountainAsh\UpClose.png" />
+    <Resource Include="Images\Deciduous\Trees\ShowyMountainAsh\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShowyMountainAsh\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\ShowyMountainAsh\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\StaghornSumac\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\StaghornSumac\Seedling.jpg" />
+    <Resource Include="Images\Deciduous\Trees\StaghornSumac\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\StaghornSumac\Trees.jpg" />
+    <Resource Include="Images\Deciduous\Trees\StaghornSumac\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SmoothSumac\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SmoothSumac\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SmoothSumac\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SmoothSumac\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SmoothSumac\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Options\19aLeaves.png" />
+    <Resource Include="Images\Deciduous\Trees\Ginkgo\TreePreview\GinkgoPrev.png" />
+    <Resource Include="Images\Deciduous\Options\19bLeaves.png" />
+    <Resource Include="Images\Deciduous\Options\21aBranchlets.png" />
+    <Resource Include="Images\Deciduous\Options\20aLeaf.png" />
+    <Resource Include="Images\Deciduous\Options\21bBranchlets.png" />
+    <Resource Include="Images\Deciduous\Options\22aLeaves.png" />
+    <Resource Include="Images\Deciduous\Options\22bLeaves.png" />
+    <Resource Include="Images\Deciduous\Options\23aLobes.png" />
+    <Resource Include="Images\Deciduous\Options\23bLobes.png" />
+    <Content Include="XmlFiles\Trees\Deciduous\AmericanMountainAsh.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\BitternutHickory.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\BlackLocust.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\BlackWalnut.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\CommonPricklyAsh.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\EuropeanMountainAsh.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Honeylocust.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\KentuckyCoffeetree.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\18Twig.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\19Leaves.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\20Leaf.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\21Branchlets.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\22Leaves.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\23Lobes.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\ShagbarkHickory.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\ShowyMountainAsh.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\SmoothSumac.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\StaghornSumac.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\WhiteWalnut.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\GinkgoPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\MasterList.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\MountainAshesPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\SumacsPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\WalnutsPreview.xml" />
+    <Resource Include="Images\Deciduous\Trees\Wahoo\TreePreview\WahooPrev.png" />
+    <Resource Include="Images\Deciduous\Options\9bTwigPrev.png" />
+    <Resource Include="Images\Deciduous\Options\10aLeafPrev.png" />
+    <Resource Include="Images\Deciduous\Options\10bLeafPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\Nannyberry\TreePreview\NannyberryPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\AlternateLeafDogwood\TreePreview\AlternateLeafDogwoodPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\BlackAsh\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackAsh\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackAsh\CloseUp.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackAsh\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackAsh\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\GreenAsh\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\GreenAsh\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\GreenAsh\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\GreenAsh\Seed.jpg" />
+    <Resource Include="Images\Deciduous\Trees\GreenAsh\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\GreenAsh\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteAsh\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteAsh\Seed.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteAsh\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteAsh\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\WhiteAsh\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmurCork\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmurCork\Bud.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmurCork\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmurCork\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmurCork\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\OhioBuckeye\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\OhioBuckeye\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\OhioBuckeye\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\OhioBuckeye\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\OhioBuckeye\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SugarMaple\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SugarMaple\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SugarMaple\Seed.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SugarMaple\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SugarMaple\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackMaple\Flowers.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackMaple\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackMaple\Leaves1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackMaple\Leaves2.jpg" />
+    <Resource Include="Images\Deciduous\Trees\BlackMaple\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RedMaple\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RedMaple\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RedMaple\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RedMaple\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\RedMaple\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SilverMaple\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SilverMaple\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SilverMaple\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SilverMaple\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\SilverMaple\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\MountainMaple\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\MountainMaple\Fruite.jpg" />
+    <Resource Include="Images\Deciduous\Trees\MountainMaple\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\MountainMaple\Leaves1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\MountainMaple\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorwayMaple\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorwayMaple\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorwayMaple\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorwayMaple\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorwayMaple\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmurMaple\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmurMaple\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmurMaple\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmurMaple\Trees.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AmurMaple\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\TatarianMaple\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\TatarianMaple\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\TatarianMaple\Leave.jpg" />
+    <Resource Include="Images\Deciduous\Trees\TatarianMaple\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\TatarianMaple\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernCatalpa\Bark.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernCatalpa\Buds.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernCatalpa\Flower.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernCatalpa\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\NorthernCatalpa\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CommonBuckthorn\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CommonBuckthorn\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CommonBuckthorn\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\CommonBuckthorn\UpClose1.png" />
+    <Resource Include="Images\Deciduous\Trees\Nannyberry\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Nannyberry\Leaves.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Nannyberry\Leaves1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Nannyberry\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Nannyberry\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Wahoo\Fruit.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Wahoo\Fruit1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Wahoo\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Wahoo\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\Wahoo\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AlternateLeafDogwood\Seed.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AlternateLeafDogwood\Seedling.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AlternateLeafDogwood\Tree.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AlternateLeafDogwood\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Trees\AlternateLeafDogwood\UpClose1.jpg" />
+    <Resource Include="Images\Deciduous\Options\11aLeavesCompound.png" />
+    <Resource Include="Images\Deciduous\Options\11bLeavesSimple.png" />
+    <Resource Include="Images\Deciduous\Options\12aLeaves.png" />
+    <Resource Include="Images\Deciduous\Options\12bLeaves.png" />
+    <Resource Include="Images\Deciduous\Trees\KentuckyCoffeetree\TreePreview\KentuckyCoffeetreePrev.png" />
+    <Resource Include="Images\Deciduous\Options\13aTwigs.png" />
+    <Resource Include="Images\Deciduous\Options\13bTwigs.png" />
+    <Resource Include="Images\Deciduous\Trees\Honeylocust\TreePreview\HoneylocustPrev.png" />
+    <Resource Include="Images\Deciduous\Options\14aBranchlets.png" />
+    <Resource Include="Images\Deciduous\Options\14bBranchlets.png" />
+    <Resource Include="Images\Deciduous\Options\15aLeaves.png" />
+    <Resource Include="Images\Deciduous\Trees\CommonPricklyAsh\TreePreview\CommonPricklyAshPrev.png" />
+    <Resource Include="Images\Deciduous\Options\15bLeaves.png" />
+    <Resource Include="Images\Deciduous\Trees\BlackLocust\TreePreview\BlackLocustPrev.png" />
+    <Resource Include="Images\Deciduous\Options\16aFruit.png" />
+    <Resource Include="Images\Deciduous\Trees\BitternutHickory\TreePreview\BitternutHickoryPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\AmericanMountainAsh\TreePreview\AmericanMountainAshPrev.png" />
+    <Resource Include="Images\Deciduous\Options\16bFruit.png" />
+    <Resource Include="Images\Deciduous\Options\17bTwig.png" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\BlackWalnut\TreePreview\BlackWalnutPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\ShagbarkHickory\TreePreview\ShagbarkHickoryPrev.png" />
+    <Resource Include="Images\Deciduous\Options\17aTwig.png" />
+    <Resource Include="Images\Deciduous\Trees\WhiteWalnut\TreePreview\WhiteWalnutPrev.png" />
+    <Content Include="XmlFiles\Trees\Deciduous\AlternateLeafDogwood.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\AmurCorkTree.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\AmurMaple.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\BlackAsh.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\BlackMaple.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\BlankTree.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Boxelder.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\ComingSoon.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\CommonBuckthorn.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\GreenAsh.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\MountainMaple.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Nannyberry.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\NorthernCatalpa.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\NorwayMaple.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\OhioBuckeye.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\10LeafOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\11LeafOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\12Leaves.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\13Twigs.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\14Branchlets.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\15Leaves.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\16Fruit.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\Options\17Twig.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\RedMaple.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\SilverMaple.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\SugarMaple.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\TatarianMaple.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Wahoo.xml" />
+    <Content Include="XmlFiles\Trees\Deciduous\WhiteAsh.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\BlackLocustPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\CoffeetreePreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\ComingSoon.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\HickoriesPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\PricklyAshPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\DogwoodPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\HoneylocustPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\NannyberryPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\WahooPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Resource Include="Images\Coniferous\Trees\BalsamFir\TreePreview\BalsamFirPrev.png" />
+    <Resource Include="Images\Coniferous\Trees\BalsamFir\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\BalsamFir\Bark1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\BalsamFir\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\BalsamFir\upClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\BalsamFir\UpClose1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\FraserFir\TreePreview\FraserFirPrev.png" />
+    <Resource Include="Images\Coniferous\Trees\FraserFir\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\FraserFir\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\FraserFir\Trees.jpg" />
+    <Resource Include="Images\Coniferous\Trees\FraserFir\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\FraserFir\UpClose1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WhiteFir\TreePreview\WhiteFirPrev.png" />
+    <Resource Include="Images\Coniferous\Trees\WhiteFir\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WhiteFir\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WhiteFir\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WhiteFir\Tree1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WhiteFir\UpClose.jpg" />
+    <Resource Include="Images\Deciduous\Options\OppositeOrWhorledPrev.png" />
+    <Resource Include="Images\Deciduous\Options\AlternatePrev.png" />
+    <Resource Include="Images\Deciduous\Options\LeavesCompound2aPrev.png" />
+    <Resource Include="Images\Deciduous\Options\LeavesSimple2bPrev.png" />
+    <Resource Include="Images\Deciduous\Options\3aPinnatelyCompoundPrev.png" />
+    <Resource Include="Images\Deciduous\Options\3bPalmatelyCompoundPrev.png" />
+    <Resource Include="Images\Deciduous\Options\4aFruitPrev.png" />
+    <Resource Include="Images\Deciduous\Options\4bFruitPrev.png" />
+    <Resource Include="Images\Deciduous\Options\5aTwigPrev.png" />
+    <Resource Include="Images\Deciduous\Options\5bTwigPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\BlackAsh\TreePreview\BlackAshPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\GreenAsh\TreePreview\GreenAshPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\WhiteAsh\TreePreview\WhiteAshPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\AmurCork\TreePreview\AmurCorkPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\Boxelder\TreePreview\BoxelderPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\OhioBuckeye\TreePreview\OhioBuckeyePrev.png" />
+    <Resource Include="Images\Deciduous\Options\6aLeafPrev.png" />
+    <Resource Include="Images\Deciduous\Options\6bLeafPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\SugarMaple\TreePreview\SugarMaplePrev.png" />
+    <Resource Include="Images\Deciduous\Trees\BlackMaple\TreePreview\BlackMaplePrev.png" />
+    <Resource Include="Images\Deciduous\Trees\RedMaple\TreePreview\RedMaplePrev.png" />
+    <Resource Include="Images\Deciduous\Trees\SilverMaple\TreePreview\SilverMaplePrev.png" />
+    <Resource Include="Images\Deciduous\Trees\MountainMaple\TreePreview\MountainMaplePrev.png" />
+    <Resource Include="Images\Deciduous\Trees\NorwayMaple\TreePreview\NorwayMaplePrev.png" />
+    <Resource Include="Images\Deciduous\Trees\AmurMaple\TreePreview\AmurMaplePrev.png" />
+    <Resource Include="Images\Deciduous\Trees\TatarianMaple\TreePreview\TatarianMaplePrev.png" />
+    <Resource Include="Images\Deciduous\Trees\NorthernCatalpa\TreePreview\NorthernCatalpaPrev.png" />
+    <Resource Include="Images\Deciduous\Options\7aFruitPrev.png" />
+    <Resource Include="Images\Deciduous\Options\7bFruitPrev.png" />
+    <Resource Include="Images\Deciduous\Options\8aTwigPrev.png" />
+    <Resource Include="Images\Deciduous\Trees\CommonBuckthorn\TreePreview\CommonBuckthornPrev.png" />
+    <Resource Include="Images\Deciduous\Options\9aTwigPrev.png" />
+    <Resource Include="Images\Deciduous\Options\8bTwigPrev.png" />
+    <Content Include="XmlFiles\Trees\Coniferous\BalsamFir.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Coniferous\FraserFir.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Coniferous\WhiteFir.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\6LeafMarginOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\4FruitOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\5TwigOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\7FruitOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\8TwigOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\9TwigOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\LeavesCompoundOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\MainDeciduousOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Deciduous\Options\OppositeOrWhorled.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\AshPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\BoxelderPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\BuckeyePreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\BuckthornPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\CatalpaPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\CorkPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\MaplePreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\TrueFirs.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Resource Include="Images\Coniferous\Trees\BlackSpruce\TreePreview\BlackSprucePrev.png" />
+    <Resource Include="Images\Coniferous\Trees\WhiteSpruce\TreePreview\WhiteSprucePrev.png" />
+    <Resource Include="Images\Coniferous\Trees\ColoradoSpruce\TreePreview\ColoradoSprucePrev.png" />
+    <Resource Include="Images\Coniferous\Trees\NorwaySpruce\TreePreview\NorwaySprucePrev.png" />
+    <Resource Include="Images\Coniferous\Trees\BlackSpruce\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\BlackSpruce\Tree1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\BlackSpruce\Trees.jpg" />
+    <Resource Include="Images\Coniferous\Trees\BlackSpruce\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\BlackSpruce\UpClose1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WhiteSpruce\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WhiteSpruce\Buds.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WhiteSpruce\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WhiteSpruce\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WhiteSpruce\UpClose1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\ColoradoSpruce\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\ColoradoSpruce\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\ColoradoSpruce\Tree1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\ColoradoSpruce\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\ColoradoSpruce\upClose1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\NorwaySpruce\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\NorwaySpruce\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\NorwaySpruce\UpClose1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\NorwaySpruce\UpClose2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\NorwaySpruce\UpClose3.jpg" />
+    <Resource Include="Images\Coniferous\Options\HemlockPrev.png" />
+    <Resource Include="Images\Coniferous\Trees\CanadianHemlock\TreePreview\CanadianHemlockPrev.png" />
+    <Resource Include="Images\Coniferous\Options\BorneWhitishFlushSmooth.png" />
+    <Resource Include="Images\Coniferous\Trees\CanadianHemlock\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\CanadianHemlock\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\CanadianHemlock\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\CanadianHemlock\UpClose1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\CanadianHemlock\UpClose2.jpg" />
+    <Resource Include="Images\Coniferous\Options\ConesErect.png" />
+    <Resource Include="Images\Coniferous\Trees\DouglasFir\TreePreview\DouglasFirPrev.png" />
+    <Resource Include="Images\Coniferous\Trees\DouglasFir\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\DouglasFir\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\DouglasFir\UpClose1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\DouglasFir\UpClose2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\DouglasFir\Preview.png" />
+    <Content Include="XmlFiles\Trees\Coniferous\BlackSpruce.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\CanadianHemlock.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\ColoradoSpruce.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\DouglasFir.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Coniferous\NorwaySpruce.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\Options\BorneWhitishCushions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Coniferous\WhiteSpruce.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\Options\BorneOn.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\DouglasFirPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\HemlockPreview.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\SprucesPreview.xml" />
+    <Resource Include="Images\Coniferous\Trees\RedPine\TreePreview\RedPinePrev.png" />
+    <Resource Include="Images\Coniferous\Trees\EasternWhitePine\TreePreview\EasternWhitePinePrev.png" />
+    <Resource Include="Images\Coniferous\Trees\JackPine\TreePreview\JackPinePrev.png" />
+    <Resource Include="Images\Coniferous\Trees\AustrianPine\TreePreview\AustrianPinePrev.png" />
+    <Resource Include="Images\Coniferous\Trees\ScotchPine\TreePreview\ScotchPinePrev.png" />
+    <Resource Include="Images\Coniferous\Trees\MugoPine\TreePreview\MugoPinePrev.png" />
+    <Resource Include="Images\Coniferous\Trees\PonderosaPine\TreePreview\PonderosaPinePrev.png" />
+    <Resource Include="Images\Coniferous\Trees\RedPine\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\RedPine\Cones.jpg" />
+    <Resource Include="Images\Coniferous\Trees\RedPine\Needles.jpg" />
+    <Resource Include="Images\Coniferous\Trees\RedPine\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\RedPine\UpClose2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternWhitePine\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternWhitePine\Needles.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternWhitePine\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternWhitePine\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternWhitePine\UpClose2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\JackPine\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\JackPine\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\JackPine\Tree2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\JackPine\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\JackPine\UpClose2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\AustrianPine\Seeds.jpg" />
+    <Resource Include="Images\Coniferous\Trees\AustrianPine\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\AustrianPine\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\AustrianPine\UpClose2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\PonderosaPine\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\PonderosaPine\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\PonderosaPine\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\PonderosaPine\UpClose1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\PonderosaPine\UpClose2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\ScotchPine\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\ScotchPine\SeedCones.jpg" />
+    <Resource Include="Images\Coniferous\Trees\ScotchPine\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\ScotchPine\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\ScotchPine\UpClose1.jpg" />
+    <Resource Include="Images\Coniferous\Trees\MugoPine\Seed.jpg" />
+    <Resource Include="Images\Coniferous\Trees\MugoPine\Small.jpg" />
+    <Resource Include="Images\Coniferous\Trees\MugoPine\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\MugoPine\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\MugoPine\UpClose1.jpg" />
+    <Resource Include="Images\Coniferous\Options\LinearFlatSoftFlexible.png" />
+    <Resource Include="Images\Coniferous\Options\NeedlelikeStiffSharp.png" />
+    <Content Include="XmlFiles\Trees\Coniferous\AustrianPine.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Coniferous\EasternWhitePine.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\JackPine.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\MugoPine.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\PonderosaPine.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\RedPine.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\ScotchPine.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\Options\Singly.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\PinesPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Resource Include="Images\Coniferous\Trees\EasternLarch\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternLarch\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternLarch\Tree2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternLarch\UpClose2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternLarch\UpClose3.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EuropeanLarch\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EuropeanLarch\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EuropeanLarch\UpClose2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\SiberianLarch\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\SiberianLarch\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\SiberianLarch\Tree2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\SiberianLarch\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\JapaneseLarch\Bonsai.jpg" />
+    <Resource Include="Images\Coniferous\Trees\JapaneseLarch\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\JapaneseLarch\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WesternLarch\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WesternLarch\Seed.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WesternLarch\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WesternLarch\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\WesternLarch\Tree2.jpg" />
+    <Content Include="XmlFiles\Trees\Coniferous\EasternLarch.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\EuropeanLarch.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\JapaneseLarch.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Coniferous\SiberianLarch.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\WesternLarch.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\TreePreview\LarchPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Resource Include="Images\Coniferous\Trees\RockyMountainJuniper\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\RockyMountainJuniper\Tree.jpg" />
+    <Resource Include="Images\Coniferous\Trees\RockyMountainJuniper\Tree2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\RockyMountainJuniper\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\RockyMountainJuniper\UpClose2.jpg" />
+    <Resource Include="Images\Coniferous\Options\Singly.png" />
+    <Resource Include="Images\Coniferous\Options\ClustersOrBundles.png" />
+    <Resource Include="Images\Coniferous\Options\Clusters.png" />
+    <Resource Include="Images\Coniferous\Options\Bundles.png" />
+    <Resource Include="Images\Coniferous\Trees\EasternRedCedar\TreePreview\JuniperPreview.png" />
+    <Resource Include="Images\Coniferous\Trees\RockyMountainJuniper\TreePreview\JuniperPreview.png" />
+    <Resource Include="Images\Coniferous\Trees\EasternLarch\TreePreview\EasternLarchPrev.png" />
+    <Resource Include="Images\Coniferous\Trees\EuropeanLarch\TreePreview\EuropeanLarchPrev.png" />
+    <Resource Include="Images\Coniferous\Trees\JapaneseLarch\TreePreview\JapaneseLarchPrev.png" />
+    <Resource Include="Images\Coniferous\Trees\SiberianLarch\TreePreview\SiberianLarchPrev.png" />
+    <Resource Include="Images\Coniferous\Trees\WesternLarch\TreePreview\WesternLarchPrev.png" />
+    <Content Include="XmlFiles\Trees\Coniferous\Options\ClustersBundles.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Coniferous\Options\LinearNeedlelikeOptions.xml" />
+    <Content Include="XmlFiles\Trees\Coniferous\RockyMountainJuniper.xml" />
+    <Content Include="XmlFiles\Trees\TreePreview\JuniperPreview.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Resource Include="Images\Coniferous\Trees\Arborvitae\Bark.jpg" />
+    <Resource Include="Images\Coniferous\Trees\Arborvitae\LargeGroup.jpg" />
+    <Resource Include="Images\Coniferous\Trees\Arborvitae\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\Arborvitae\SeedCone2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\Arborvitae\UpClose.png" />
+    <Resource Include="Images\Coniferous\Trees\EasternRedCedar\Group.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternRedCedar\SeedCone.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternRedCedar\SeedCone2.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternRedCedar\UpClose.jpg" />
+    <Resource Include="Images\Coniferous\Trees\EasternRedCedar\UpClose2.jpg" />
+    <Content Include="XmlFiles\Trees\Coniferous\EasternRedCedar.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\Trees\Coniferous\NorthernWhiteCedar.xml" />
+    <Resource Include="Images\Coniferous\Options\Scalelike.png" />
+    <Resource Include="Images\Coniferous.png" />
+    <Resource Include="Images\Deciduous.png" />
+    <Resource Include="Images\Coniferous\Options\Needlelike.png" />
+    <Resource Include="Images\Coniferous\SeedCones\WoodySeedCone.png" />
+    <Resource Include="Images\Coniferous\SeedCones\FleshySeedCone.png" />
+    <Content Include="XmlFiles\ScalelikeOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="SplashScreenImage.jpg" />
+    <Content Include="XmlFiles\ConiferousOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XmlFiles\mainOptions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\Coniferous\TreeLeaves\" />
+    <Folder Include="XmlFiles\Trees\NewFolder1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

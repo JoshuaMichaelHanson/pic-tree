@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Honeylocust</Name>
+    <Image>Images/Deciduous/Trees/Honeylocust/TreePreview/HoneylocustPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/Honeylocust.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Honeylocust</Type>
+  </Def>
+</Definitions>

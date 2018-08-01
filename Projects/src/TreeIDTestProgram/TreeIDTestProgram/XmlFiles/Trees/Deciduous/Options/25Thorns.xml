@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Smooth, very sharp/Hard/(SS) Absent on branchlets</Name>
+    <Image>Images/Deciduous/Options/25aThorns.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/HawthornPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Rough with buds or leaves often attached/Leathery or papery/Numerous (SS) on branchlets</Name>
+    <Image>Images/Deciduous/Options/25bThorns.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/ApplesPearsPreview.xml</CallFile>
+    <PageTitle>Thorns/Pome core/SpurShoots</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

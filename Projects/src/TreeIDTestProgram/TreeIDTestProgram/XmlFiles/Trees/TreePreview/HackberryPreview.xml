@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Hackberry</Name>
+    <Image>Images/Deciduous/Trees/Hackberry/TreePreview/HackberryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/Hackberry.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Hackberry</Type>
+  </Def>
+</Definitions>

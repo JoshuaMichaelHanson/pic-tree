@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Balsam Poplar</Name>
+    <OtherName>Bamtree</OtherName>
+    <ScientificName>Populus balsamifera</ScientificName>
+    <Description>Medium/large tree growing 40' - 90' tall and 2' wide.  Tall open crown.</Description>
+    <Leaves>Simple, alternate, 3" - 6" long, 1 1/2" - 3" wide.  Fine blunt toothed margins.  Glossy green turning yellow in autumn.  May have round leafstalk.</Leaves>
+    <Twigs>Red/brown with orange lenticels (dots).  Star shaped pith.  Buds are red/brown about 1" long, sticky and pointed.  Smells like balsam.</Twigs>
+    <SeedConeOrFruit>Fruit:  Capsule with many seeds that may have cotton like hairs.  4" - 6" catkins that mature in spring.</SeedConeOrFruit>
+    <Bark>Green/brown, smooth and becoming gray/black with deep furrows that have flat ridges.</Bark>
+    <Range>Minnesota north.</Range>
+    <Remarks>Fast growing and normally short lived.  Some have said one exists over 200 years old and its located above the artic circle.</Remarks>
+    <Pic1>Images/Deciduous/Trees/BalsamPoplar/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/BalsamPoplar/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/BalsamPoplar/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/BalsamPoplar/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/BalsamPoplar/Flower.jpg</Pic5>
+  </Def>
+</Definitions>

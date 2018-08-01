@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Black Spruce</Name>
+    <Image>Images/Coniferous/Trees/BlackSpruce/TreePreview/BlackSprucePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/BlackSpruce.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Spruces</Type>
+  </Def>
+  <Def>
+    <Name>White Spruce</Name>
+    <Image>Images/Coniferous/Trees/WhiteSpruce/TreePreview/WhiteSprucePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/WhiteSpruce.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Spruces</Type>
+  </Def>
+  <Def>
+    <Name>Colorado Spruce</Name>
+    <Image>Images/Coniferous/Trees/ColoradoSpruce/TreePreview/ColoradoSprucePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/ColoradoSpruce.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Spruces</Type>
+  </Def>
+  <Def>
+    <Name>Norway Spruce</Name>
+    <Image>Images/Coniferous/Trees/NorwaySpruce/TreePreview/NorwaySprucePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/NorwaySpruce.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Spruces</Type>
+  </Def>
+
+</Definitions>

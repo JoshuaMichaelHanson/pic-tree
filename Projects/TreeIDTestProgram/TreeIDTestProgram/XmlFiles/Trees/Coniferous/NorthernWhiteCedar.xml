@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Northern White-Cedar</Name>
+    <OtherName>Arborvitae</OtherName>
+    <ScientificName>Thuja occidentalis</ScientificName>
+    <Description>Small to meduim tree, 25' - 50' tall; columnar to pyramidal crown; trunk often twisted or leaning, fluted, up to 36" diameter.</Description>
+    <Leaves>Scalelike, aromatic when crushed, green to yellowish-green.</Leaves>
+    <Twigs>Yellowish-green to light red, slender, flattened (forming fanlike sprays), very small buds.</Twigs>
+    <SeedConeOrFruit>Seed cones: 1/3" - 1/2" long, light brown, woody, 4 outer scales.</SeedConeOrFruit>
+    <Bark>Reddish-brown with shallow, interconnected fissures and fibrous ridges.</Bark>
+    <Range>Native, north-central and northeastern Minnesota; hardy to Zone 3a.</Range>
+    <Remarks>Shade-tolerant; slow-growing; moderately long-lived.  Typically found in northern swamps where it is an important winter food source for deer and rabbits.  Also survives on dry, limestone soils.  Live lower branches sprout roots and form new trees when covered by soil or plant litter.  Rot-resistant wood often used for fence posts, roof shingles, and fire by frictions kits.  The name arborvitae, meaning "tree of life", is traced to the early French explorer Jacques Cartier whose crew was saved from scurvy by a tea brewed from the tree's vitamin C-rich foliage and twigs</Remarks>
+    <Pic1>Images/Coniferous/Trees/Arborvitae/UpClose.png</Pic1>
+    <Pic2>Images/Coniferous/Trees/Arborvitae/SeedCone2.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/Arborvitae/SeedCone.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/Arborvitae/LargeGoup.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/Arborvitae/Bark.jpg</Pic5>
+  </Def>
+</Definitions>

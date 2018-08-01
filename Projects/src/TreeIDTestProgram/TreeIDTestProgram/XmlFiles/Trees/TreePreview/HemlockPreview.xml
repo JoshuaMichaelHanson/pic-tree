@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Canadian Hemlock</Name>
+    <Image>Images/Coniferous/Trees/CanadianHemlock/TreePreview/CanadianHemlockPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/CanadianHemlock.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Hemlocks</Type>
+  </Def>
+</Definitions>

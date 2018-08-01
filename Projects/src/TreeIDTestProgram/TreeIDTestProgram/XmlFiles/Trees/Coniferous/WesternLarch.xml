@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Western Larch</Name>
+    <OtherName></OtherName>
+    <ScientificName>Larix occidentalis</ScientificName>
+    <Description>Reaching 100' - 200' tall, with a trunk up to 5' in diameter.  The crown is narrow conic; the main branches are level to upswept, with the side branches often drooping.</Description>
+    <Leaves>Needlelike, light green, 3/4" - 2" long, and very slender; they turn bright yellow in the fall, leaving the pale orange-brown shoots bare until the next spring.</Leaves>
+    <Twigs>The shoots are dimorphic; with growth divided into long shoots and bearing several buds, and short shoots with only a single bud.</Twigs>
+    <SeedConeOrFruit>Seed Cone:  Ovoid-cylindric, 3/4" - 2" long, with 40 - 80 seed scales; each scale bearing an exserted bract.  The cones are red when immature, turning brown and scales opening flat or reflexed to release the seeds when mature.</SeedConeOrFruit>
+    <Bark>Mature trees develop thick, grooved plate-like bark with cinnamon-couloured scales (similar to ponderosa pine bark).</Bark>
+    <Range>Native to the mountains of western North America, and Canada.  Grows well at about 1,500' - 8,000', and on the lower slopes of mountains.</Range>
+    <Remarks>Usually grows in mixed forests but can be found in pure groups after a severe wildfire.  Very sensitive to frost damage.</Remarks>
+    <Pic1>Images/Coniferous/Trees/WesternLarch/Tree.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/WesternLarch/Tree2.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/WesternLarch/SeedCone.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/WesternLarch/Seed.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/WesternLarch/Bark.jpg</Pic5>
+  </Def>
+</Definitions>

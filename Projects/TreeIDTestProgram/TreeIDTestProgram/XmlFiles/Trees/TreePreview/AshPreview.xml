@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Black Ash</Name>
+    <Image>Images/Deciduous/Trees/BlackAsh/TreePreview/BlackAshPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BlackAsh.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Green Ash</Name>
+    <Image>Images/Deciduous/Trees/GreenAsh/TreePreview/GreenAshPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/GreenAsh.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>White Ash</Name>
+    <Image>Images/Deciduous/Trees/WhiteAsh/TreePreview/WhiteAshPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/WhiteAsh.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Ashes</Type>
+  </Def>
+ 
+
+</Definitions>

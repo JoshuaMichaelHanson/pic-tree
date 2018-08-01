@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Lemonlike smell when chrushed/Capsule/Fairly smooth</Name>
+    <Image>Images/Deciduous/Options/15aLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/PricklyAshPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Not lemon smelling/Legume/Deeply furrowed</Name>
+    <Image>Images/Deciduous/Options/15bLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/BlackLocustPreview.xml</CallFile>
+    <PageTitle>Leaves smell/Fruit/Bark</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

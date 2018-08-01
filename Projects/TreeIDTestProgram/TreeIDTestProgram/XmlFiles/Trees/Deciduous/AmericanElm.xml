@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Amercian Elm</Name>
+    <OtherName>White elm</OtherName>
+    <ScientificName>Ulmus americana</ScientificName>
+    <Description>Large tree, growing to 100' - 200' tall and 48" - 60" d.b.h.  Open-grown trees fork 10' - 20' above the ground with several erect limbs forming a wide, arching crown.</Description>
+    <Leaves>Alternate, simple, double-toothed leaves are 2" - 5" long and 1" - 3" wide.  They are dark green turning yellow in autumn.</Leaves>
+    <Twigs>Brown in color sometimes fuzzy.  Buds are red-brown with a pointy tip.</Twigs>
+    <SeedConeOrFruit>Fruit:  Samara, 3/8" - 1/2" diameter consisting of a compressed nutlet surrounded by a membranous wing that is mature in spring.</SeedConeOrFruit>
+    <Bark>Corky and brown-gray in color.  It becomes light gray and deeply furrowed with ridges that are flat and iterlacing.  Sometimes the outer bark had alternating white and red-brown cross sections.</Bark>
+    <Range>North America.  Its range extends from southern Newfoundland westward through southern Quebec and Ontario, northwest through Manitoba into eastern Saskatchewan, then south on the upper floodplains and protected slopes of the Dakotas.  It is found in the canyons and floodplains of northern and eastern Kansas and in eastern Oklahoma and central Texas.  American elm is common along the Gulf Coast and east into central Florida</Range>
+    <Remarks>The wood of American elm is coarse-grained, heavy, and strong.  It lacks durability, warps, and splits badly in seasoning.  The seeds are eaten by a number of small birds.  The flowerbud, flower, and fruit are eaten by mice, squirrels, oppossum, ruffed grouse, northern bobwhite, and Hungarian partridge.</Remarks>
+    <Pic1>Images/Deciduous/Trees/AmericanElm/UpClose1.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/AmericanElm/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/AmericanElm/Leaf.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/AmericanElm/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/AmericanElm/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

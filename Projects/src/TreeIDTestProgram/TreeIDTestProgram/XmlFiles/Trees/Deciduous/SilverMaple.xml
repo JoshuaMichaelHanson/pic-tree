@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Silver Maple</Name>
+    <OtherName>Soft maple, river/swamp maple</OtherName>
+    <ScientificName>Acer saccharinum</ScientificName>
+    <Description>Large tree reaching to mature heights of 90-140 ft, usually with a short, thick trunk and spreading, open, irregular crown of long, curving branches with pendulous branchlets turning up at the ends.  Trunk up to 42" diameter.</Description>
+    <Leaves>Simple, opposite, deciduous, 4" - 6" long, nearly as wide; palmately lobed; lobes, 5, 2 deeply cut crotches come to sharp point, doubly toothed margins; dull green, white or silvery below; pale yellow to orange in autumn.</Leaves>
+    <Twigs>Yellowish-gray to reddish-brown, produce a slightly unpleasant odor when crushed.  Buds, dark red, blunt.</Twigs>
+    <SeedConeOrFruit>Fruit:  Winged nutlets (samaras) 1 1/2" - 2 1/2" long; light brown with pink veins, in a long-stalked, wide-spreading pair.</SeedConeOrFruit>
+    <Bark>Bark gray and thin, becoming furrowed into long, shaggy, scaly ridges on older trunks and branches.  Often curled on the ends.</Bark>
+    <Range>Hardy to zone 3b.  Silver maple grows over most of the eastern half of the United States and immediately adjacent Canada, except along major portions of the Gulf and Atlantic coastal plains (Burns and Honkala, 1990).  The natural range extends from Maine, New Brunswick, and southern Quebec, west to Minnesota and southeastern South Dakota, eastern Nebraska, Kansas, and Oklahoma, and south to Louisiana, Mississippi, Alabama, northwestern Florida, and central Georgia.  It is relatively uncommon in the southern part of its range and absent at higher elevations in the Appalachians.  Its abundance in natural habitats has decreased due to conversion of bottomland forests for agriculture but increased in urban areas due to planting.</Range>
+    <Remarks>Silver maple flowers in March-April before the leaves, usually before red maple. The flowers are usually greenish or yellow from reddish buds, about 3/16" long. The species is one of a few that has the growth rate for serious consideration for biofuel production.  Though shrub willow and poplar hybrids are currently receiving greater attention, silver maple has been tested for this use in the Midwest. The abundant seeds of silver maples are eaten by many birds, including evening grosbeaks, finches, wild turkeys, ducks, and other game birds, and small mammals, especially squirrels and chipmunks.  The buds are an important food for squirrels when stored food is depleted, particularly in late winter and early spring. The bark is a food source for beavers and deer, and rabbits browse the foliage.  Silver maple tends to develop cavities that are used by cavity-nesting birds and mammals and provide shelter and breeding habitat for many other species, including raccoons, opossums, squirrels, owls, woodpeckers, and many other birds.</Remarks>
+    <Pic1>Images/Deciduous/Trees/SilverMaple/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/SilverMaple/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/SilverMaple/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/SilverMaple/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/SilverMaple/Fruit.jpg</Pic5>
+  </Def>
+</Definitions>

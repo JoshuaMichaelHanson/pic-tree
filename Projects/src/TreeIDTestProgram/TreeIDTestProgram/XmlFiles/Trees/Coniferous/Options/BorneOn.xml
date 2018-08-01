@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>small/peg stalks/teeth on leaf margins</Name>
+    <Image>Images/Coniferous/Options/HemlockPrev.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/HemlockPreview.xml</CallFile>
+    <PageTitle>Leaves singly</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Whitish cushions/smooth leaf</Name>
+    <Image>Images/Coniferous/Options/BorneWhitishFlushSmooth.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Coniferous/Options/BorneWhitishCushions.xml</CallFile>
+    <PageTitle>Borne on</PageTitle>
+    <Type>Option</Type>
+  </Option>
+
+</Options>

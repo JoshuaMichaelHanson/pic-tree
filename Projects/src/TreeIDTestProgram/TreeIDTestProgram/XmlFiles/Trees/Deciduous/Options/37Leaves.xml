@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>3 Times or more as long as wide</Name>
+    <Image>Images/Deciduous/Options/37aLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/38Twigs.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Less than 3 times as long as wide</Name>
+    <Image>Images/Deciduous/Options/37bLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/40Twigs.xml</CallFile>
+    <PageTitle>Leaves not including leafstalk</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

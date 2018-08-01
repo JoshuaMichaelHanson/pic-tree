@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Fan-shaped with parallel veins, often notched at the tip</Name>
+    <Image>Images/Deciduous/Options/19aLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/GinkgoPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Not fan-shaped</Name>
+    <Image>Images/Deciduous/Options/19bLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/20Leaf.xml</CallFile>
+    <PageTitle>Leaves</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

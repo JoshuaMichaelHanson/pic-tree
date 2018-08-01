@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Mugo Pine</Name>
+    <OtherName>Swiss mountain pine</OtherName>
+    <ScientificName>Pinus Mugo</ScientificName>
+    <Description>Most planted cultivars are small bushy, round shrubs, 15' - 20' tall.  Can get as large as 50'.</Description>
+    <Leaves>Evergreen needles, 2 per bundle.  1 1/2" - 2 1/2" long, stiff, meduim to dark green.</Leaves>
+    <Twigs>Short growth, dense foliage, gray-brown buds.</Twigs>
+    <SeedConeOrFruit>Seed Cones: Small, borne singly or in small cluster, 1" - 2" long, grayish brown at maturity.</SeedConeOrFruit>
+    <Bark>Grayish-black</Bark>
+    <Range>Naitive to the mountainous regions of central and southern Europe, planted as an ornamental in zones 2-7.</Range>
+    <Remarks>The needles are know to deter people from entering throught the shrub, because they are so sharp.  Used instead of fences and walls.</Remarks>
+    <Pic1>Images/Coniferous/Trees/MugoPine/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/MugoPine/UpClose1.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/MugoPine/Seed.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/MugoPine/Small.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/MugoPine/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

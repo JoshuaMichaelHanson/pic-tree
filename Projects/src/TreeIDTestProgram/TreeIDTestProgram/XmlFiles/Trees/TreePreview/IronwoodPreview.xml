@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Ironwood</Name>
+    <Image>Images/Deciduous/Trees/Ironwood/TreePreview/IronwoodPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/Ironwood.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Ironwood</Type>
+  </Def>
+</Definitions>

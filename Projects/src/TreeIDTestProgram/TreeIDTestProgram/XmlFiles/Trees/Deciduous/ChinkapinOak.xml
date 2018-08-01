@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Chinkapin Oak</Name>
+    <OtherName>NA</OtherName>
+    <ScientificName>Quercus muehlenbergii</ScientificName>
+    <Description>Spreading, medium to large, tree which generally reaches 16' - 52' in height but occasionally grows to 80' - 90'.  In closed forest stands it develops a straight, columnar trunk, a dense rounded crown, and fairly small branches.  In the open, plants usually develop a short trunk and broad crown.</Description>
+    <Leaves>Pinnately toothed (rarely lobed) with pointed tips, shiny green.</Leaves>
+    <Twigs>Grayish-brown; rigid and glabrous.</Twigs>
+    <SeedConeOrFruit>Fruit:  Acorn borne singly or in pairs, matures in 1 year, and ripens in September or October.  About half of the acorn is enclosed in a thin cup and is chestnut brown to nearly black.</SeedConeOrFruit>
+    <Bark>Thin, light gray to silvery, and rough or scaly.</Bark>
+    <Range>Chinkapin oak is widely distributed throughout much of eastern and central North America.  Its range extends from New England and Pennsylvania southward mostly in the mountains through Virginia and the Carolinas to northwestern Florida, westward to northern Mexico, south-central Texas, and Oklahoma, and north to Minnesota, Wisconsin, southern Ontario, and southern Michigan.</Range>
+    <Remarks>The acorns of chinkapin oak are a particularly important food item for the red-headed woodpecker, red-bellied woodpecker, northern bobwhite, and blue jay.  Other bird species that feed on acorns include the ruffed grouse, sharp-tailed grouse, ring-necked pheasant, wild turkey, common crow, northern flicker, grackle, blue jay, brown thrasher, tufted titmouse, starling, lesser prairie chicken, chickadees, nuthatches, and waterfowl.  Chinkapin oak grows on dry, rocky sites, such as calcareous bluffs, rocky hillsides, and protected slopes and canyons.  It also occurs in glades and valleys, and along rocky streambanks.  In parts of the Midwest, chinkapin oak grows in rich forests and on stablized dunes.  Chinkapin oak is particularly common near forest margins.  It is fairly tolerant of shade and drought.</Remarks>
+    <Pic1>Images/Deciduous/Trees/ChinkapinOak/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/ChinkapinOak/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/ChinkapinOak/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/ChinkapinOak/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/ChinkapinOak/Fruit.jpg</Pic5>
+  </Def>
+</Definitions>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Wahoo</Name>
+    <OtherName>Eastern Burningbush</OtherName>
+    <ScientificName>Euonymus atropurpureus</ScientificName>
+    <Description>A low branching shrub that reaches 20' in height.  Broad, flat topped crown; trunk up to 4" diameter.</Description>
+    <Leaves>Opposite, simple, elliptical, 2 1/2" - 4" long, finely serrated, long pointed, green above, paler and may be pubescent (Hairy) below.  Yellow to scarlet red in autumn.</Leaves>
+    <Twigs>Slender, green turning brown with age, maybe 4-sided, leaf scars are light brown (nearly white) and obvious against green twig; buds are green and sharp pointed.</Twigs>
+    <SeedConeOrFruit>Fruit:  4-lobed capsule, 1/2" across, pink to purple in color, splits open to reveal dark red seeds, ripens in fall.</SeedConeOrFruit>
+    <Bark>Thin, greenish-brown to reddish brown, shallow longitudinal splits.</Bark>
+    <Range>Hardy to zone 4a.  Primarily to the Midwestern United States, but its range extends from southern Ontario south to northern Florida and Texas.</Range>
+    <Remarks>The fruit is poisonous to humans, but is eaten by several species of birds, which disperse the seeds in their droppings. It grows in low meadows, open slopes, open woodland, stream banks and prairies, in moist soils, especially thickets, valleys, and forest edges.[</Remarks>
+    <Pic1>Images/Deciduous/Trees/Wahoo/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/Wahoo/UpClose1.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/Wahoo/Fruit.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/Wahoo/Fruit1.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/Wahoo/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

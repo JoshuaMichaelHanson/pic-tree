@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Hawthorn</Name>
+    <Image>Images/Deciduous/Trees/Hawthorn/TreePreview/HawthornPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/Hawthorn.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Hawthorn</Type>
+  </Def>
+</Definitions>

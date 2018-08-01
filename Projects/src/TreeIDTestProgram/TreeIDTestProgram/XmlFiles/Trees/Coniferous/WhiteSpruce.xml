@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>White Spruce</Name>
+    <OtherName>Skunk Spruce</OtherName>
+    <ScientificName>Picea glauca</ScientificName>
+    <Description>Native tree grows 82' - 165' tall, the crown broadly conic to spire-like.  May look like a shrub near the treeline.</Description>
+    <Leaves>Evergreen needles, borne singly from all sides of the twig; but often crowded on the upper side.  1/3" - 3/4" long, blue-green, 4-angled, often inwardly curved, stiff, sharp-pointed.  May smell like skunk when crushed.</Leaves>
+    <Twigs>Branches slightly drooping; twigs not pendent, slender, pinkish-brown, without hairs.</Twigs>
+    <SeedConeOrFruit>Seed Cone: Light brown at maturity, 1 1/4" - 2 1/2" long, ellipsoid, pendent; cone scales fan-shaped, soft and flexible, the tip smooth-edgd.</SeedConeOrFruit>
+    <Bark>Bark is gray-brown, thin scaly.  Silvery inner bark.</Bark>
+    <Range>From Alaska, Yukon, and British Columbia continuously eastward to Nova Scotia, Newfoundland, New Brunswick, and Quebec, in the northeastern United States and in Montana, Wyoming, South Dakota, Minnesota, Wisconsin, and Michigan.</Range>
+    <Remarks>Primarily used for pulpwood and lumber in prefab houses, mobile homes, furniture, boxes, crates and pallets.  Also used for log homes, musical instruments, and paddles.  Because its so widespread it is food and cover for lots of wildlife species.  The American Indians used it for food, shelter, medicine, fuel, and may have been used in construction of birchbark canoes.  State tree of South Dakota and Provincail tree of Manitoba.  May be used a Christmas tree.</Remarks>
+    <Pic1>Images/Coniferous/Trees/WhiteSpruce/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/WhiteSpruce/UpClose1.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/WhiteSpruce/Tree.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/WhiteSpruce/Buds.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/WhiteSpruce/Bark.jpg</Pic5>
+  </Def>
+</Definitions>

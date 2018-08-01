@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>European White Birch</Name>
+    <OtherName>Silver birch</OtherName>
+    <ScientificName>Betula pendula</ScientificName>
+    <Description>Medium tree, growing to 50' - 80' tall.  Slender trunk usually under 16" in diameter.</Description>
+    <Leaves>1 1/2" - 3" long, triangular with a broad base and pointed tip, coarsely double toothed often lobed.</Leaves>
+    <Twigs>Red-brown with tiny, resin bearing glands and shiny, resinous buds.</Twigs>
+    <SeedConeOrFruit>Fruit:  Nutlet winged.  Catkins 3/4" - 1 1/2" long.</SeedConeOrFruit>
+    <Bark>Very clean looking, flaky and white.</Bark>
+    <Range>Hardy to Zone 3a.  Its range extends into southwest Asia in the mountains of northern Turkey and the Caucasus.</Range>
+    <Remarks>Silver Birch is Finland's national tree.</Remarks>
+    <Pic1>Images/Deciduous/Trees/EuropeanWhiteBirch/UpClose2.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/EuropeanWhiteBirch/UpClose.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/EuropeanWhiteBirch/UpClose1.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/EuropeanWhiteBirch/Leaves.jpg</Pic4>
+    <Pic5>NA</Pic5>
+  </Def>
+</Definitions>

@@ -1,0 +1,97 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="TreeIDTestProgram.TreeView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True"
+    ApplicationBar="{StaticResource GlobalAppBar}"
+    >
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <controls:Pivot Title="PicTree" Name="pivotControl">
+            <!--Pivot item one-->
+            <controls:PivotItem Header="Pictures">
+                <ScrollViewer>
+                    <Grid Name="picturesGrid"
+                      />
+                </ScrollViewer>
+            </controls:PivotItem>
+            <controls:PivotItem Header="Description">
+                <ScrollViewer>
+                    <Grid Name="descriptionGrid"
+                      />
+                </ScrollViewer>
+            </controls:PivotItem>
+
+            <!--Pivot item two-->
+            <controls:PivotItem Header="Leaves">
+                <ScrollViewer>
+                    <Grid Name="leavesGrid"
+                      />
+                </ScrollViewer>
+            </controls:PivotItem>
+            <!--Pivot item three-->
+            <controls:PivotItem Header="Twigs">
+                <ScrollViewer>
+                    <Grid Name="twigsGrid"
+                      />
+                </ScrollViewer>
+            </controls:PivotItem>
+            <!--Pivot item four-->
+                <controls:PivotItem Header="SeedCone/Fruit">
+                <ScrollViewer>
+                    <Grid Name="seedConeOrFruitGrid"
+                      />
+                </ScrollViewer>
+            </controls:PivotItem>
+            
+            <!--dddddddddddddddddd-->
+            <controls:PivotItem Header="Bark">
+                <ScrollViewer>
+                    <Grid Name="barkGrid"
+                      />
+                </ScrollViewer>
+            </controls:PivotItem>
+
+            <controls:PivotItem Header="Range">
+                <ScrollViewer>
+                    <Grid Name="rangeGrid"
+                      />
+                </ScrollViewer>
+            </controls:PivotItem>
+
+            <controls:PivotItem Header="Remarks" Name="remarksPivotItem">
+                <ScrollViewer>
+                    <Grid Name="remarksGrid"
+                          />
+                </ScrollViewer>
+            </controls:PivotItem>
+
+            
+        </controls:Pivot>
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="appbar_button1" IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton x:Name="appbar_button2" IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem x:Name="menuItem1" Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem x:Name="menuItem2" Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+    
+</phone:PhoneApplicationPage>

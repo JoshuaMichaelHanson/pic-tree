@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Douglas-Fir</Name>
+    <Image>Images/Coniferous/Trees/DouglasFir/TreePreview/DouglasFirPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/DouglasFir.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Douglas-Fir</Type>
+  </Def>
+</Definitions>

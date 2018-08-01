@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Marked with dark horizontal lines, usually peeling in papery strips/5 rows or more</Name>
+    <Image>Images/Deciduous/Options/32aTrunk.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/BirchesPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Not marked with dark lines smooth or peeling in papery strips/2 parallel rows</Name>
+    <Image>Images/Deciduous/Options/32bTrunk.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/33Trunk.xml</CallFile>
+    <PageTitle>Trunk bark/Leaves attached to branchlets or twigs in</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

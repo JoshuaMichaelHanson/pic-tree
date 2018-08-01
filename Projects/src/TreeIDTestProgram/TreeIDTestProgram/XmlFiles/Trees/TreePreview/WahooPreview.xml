@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Wahoo</Name>
+    <Image>Images/Deciduous/Trees/Wahoo/TreePreview/WahooPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/Wahoo.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Wahoo</Type>
+  </Def>
+</Definitions>

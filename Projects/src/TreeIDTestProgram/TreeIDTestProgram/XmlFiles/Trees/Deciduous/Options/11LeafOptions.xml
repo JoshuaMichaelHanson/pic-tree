@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Compound</Name>
+    <Image>Images/Deciduous/Options/11aLeavesCompound.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/12Leaves.xml</CallFile>
+    <PageTitle>Leaves</PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Simple</Name>
+    <Image>Images/Deciduous/Options/11bLeavesSimple.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/19Leaves.xml</CallFile>
+    <PageTitle>Leaves</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

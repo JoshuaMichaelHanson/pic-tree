@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Prairie Crabapple</Name>
+    <Image>Images/Deciduous/Trees/PrairieCrabapple/TreePreview/PrairieCrabapplePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/PrairieCrabapple.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Flowering Crabapple, Apple, Pear</Name>
+    <Image>Images/Deciduous/Trees/ApplesPears/TreePreview/ApplesPearsPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/ApplesPears.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Apples/Pears</Type>
+  </Def>
+</Definitions>

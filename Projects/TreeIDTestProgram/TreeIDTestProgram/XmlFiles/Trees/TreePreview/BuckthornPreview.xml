@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Common Buckthorn</Name>
+    <Image>Images/Deciduous/Trees/CommonBuckthorn/TreePreview/CommonBuckthornPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/CommonBuckthorn.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Buckthorn</Type>
+  </Def>
+</Definitions>

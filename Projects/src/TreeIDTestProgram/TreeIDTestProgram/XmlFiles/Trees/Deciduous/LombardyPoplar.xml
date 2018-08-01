@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Lombardy Poplar</Name>
+    <OtherName>Black Poplar</OtherName>
+    <ScientificName>Populus nigra 'Italica'</ScientificName>
+    <Description>Medium/large narrow, columnar tree with upright branches.  Grows to 60' tall.</Description>
+    <Leaves>Green, fine toothed margins.  2" - 4" long/wide.</Leaves>
+    <Twigs>Yellow/brown slender, with 1/2" long, glossy buds.</Twigs>
+    <SeedConeOrFruit>Fruit:  Fruitless</SeedConeOrFruit>
+    <Bark>Gray/green in color becoming furrowed.</Bark>
+    <Range>Hardy to zone 4.</Range>
+    <Remarks>Short lived.  Often seen along farm drives, although many other columnar poplars exist.</Remarks>
+    <Pic1>Images/Deciduous/Trees/LombardyPoplar/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/LombardyPoplar/Tree.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/LombardyPoplar/Trees.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/LombardyPoplar/Tree.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/LombardyPoplar/UpClose.jpg</Pic5>
+  </Def>
+</Definitions>

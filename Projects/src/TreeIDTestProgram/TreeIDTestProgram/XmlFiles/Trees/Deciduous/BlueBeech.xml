@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Blue-Beech</Name>
+    <OtherName>muscle-wood, hornbeam</OtherName>
+    <ScientificName>Carpinus caroliniana</ScientificName>
+    <Description>Large shrub or small tree, growing 15' - 25' tall, with a wide-spreading, flat-topped crown.  Trunk up to 12" in diameter.</Description>
+    <Leaves>Simple, alternate, ovate to elliptic, 1 3/16" - 5" long, and 1" - 2" wide; with doubly-serrate edges, dark green, turning yellow to orange or red in the fall, hairless above, slightly to moderately hairy beneath.</Leaves>
+    <Twigs>Red-brown, slender, zigzags, willowy male catkins absent in winter; buds, red-brown, pale scale tips, four-sided in cross section.</Twigs>
+    <SeedConeOrFruit>Fruit:  Nutlet 1/8" - 1/4" long, subtended by a 3-winged, narrow, leaf-like bract, numerous nutlets held together in pendulous chain-like clusters 1" - 4 1/2" long, changing from green to brown in September-October.</SeedConeOrFruit>
+    <Bark>Thin, gray, mostly smooth with fluting running lengthwise (looks like flexed muscle).</Bark>
+    <Range>Hardy to Zone 3b.  Widespread in the eastern United States --- from central Maine west to southwestern Quebec, southeastern Ontario, northern Michigan, and northern Minnesota, south to central Iowa and eastern Texas, east to central Florida. Absent from the lowermost Gulf Coastal Plain and the Mississippi embayment south of Missouri.</Range>
+    <Remarks>Seeds, buds, or catkins are eaten by a number of songbirds, ruffed grouse, ring-necked pheasants, bobwhite, turkey, fox, and gray squirrels.  Cottontails, beaver, and white-tailed deer eat the leaves, twigs, and larger stems.  Beaver heavily uses American hornbeam, because it is readily available in typical beaver habitat.  Because of its thin bark, American hornbeam is probably either top-killed or completely killed by most fires.  It occurs mostly in communities that rarely experience fire.</Remarks>
+    <Pic1>Images/Deciduous/Trees/BlueBeech/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/BlueBeech/Fruit.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/BlueBeech/Flower.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/BlueBeech/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/BlueBeech/Bark.jpg</Pic5>
+  </Def>
+</Definitions>

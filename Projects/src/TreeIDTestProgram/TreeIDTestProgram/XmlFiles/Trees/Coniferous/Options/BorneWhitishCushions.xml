@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Big,pointed,notsticky/hangdown</Name>
+    <Image>Images/Coniferous/Options/BorneWhitishFlushSmooth.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/DouglasFirPreview.xml</CallFile>
+    <PageTitle>Leaves singly</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Small,blunt,sticky/erect</Name>
+    <Image>Images/Coniferous/Options/ConesErect.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/TrueFirs.xml</CallFile>
+    <PageTitle>Buds/Cones</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+
+</Options>

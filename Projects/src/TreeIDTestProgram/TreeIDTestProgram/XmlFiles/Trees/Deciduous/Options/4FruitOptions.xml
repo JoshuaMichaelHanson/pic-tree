@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Single samara or Drupe/5-13/Smooth or Fine/No film</Name>
+    <Image>Images/Deciduous/Options/4aFruitPrev.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/5TwigOptions.xml</CallFile>
+    <PageTitle>Fruit/Leaflets/Type/Twig Film</PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Double samara/3-5 ~7/Toothed or 3-lobed/Whithish film</Name>
+    <Image>Images/Deciduous/Options/4bFruitPrev.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/BoxelderPreview.xml</CallFile>
+    <PageTitle>Fruit/Number Leaflets/Margins/Twig Film</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+
+</Options>

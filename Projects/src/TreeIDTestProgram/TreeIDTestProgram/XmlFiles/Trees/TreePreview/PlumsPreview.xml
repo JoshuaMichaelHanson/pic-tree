@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>American Plum</Name>
+    <Image>Images/Deciduous/Trees/AmericanPlum/TreePreview/AmericanPlumPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/AmericanPlum.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Canada Plum</Name>
+    <Image>Images/Deciduous/Trees/CanadaPlum/TreePreview/CanadaPlumPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/CanadaPlum.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Plums</Type>
+  </Def>
+</Definitions>

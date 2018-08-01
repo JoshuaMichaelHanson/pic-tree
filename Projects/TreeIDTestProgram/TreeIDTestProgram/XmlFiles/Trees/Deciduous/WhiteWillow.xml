@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>White Willow</Name>
+    <OtherName>Weeping Willow</OtherName>
+    <ScientificName>Salix alba</ScientificName>
+    <Description>Large tree growing to 100' tall.  Most common is the Golden ("Tristis") cultivar that has golden yellow drooping brances.  Most of the time one trunk but sometimes multiple trunks.  Crown open and irregular.</Description>
+    <Leaves>Alternate, narrow, finely serrated margins.  1 1/2" - 4" long and 1/4" - 5/8" wide.  Green and sometimes glossy on top (may have hairs); whitish with hairs on bottom.  May appear white or yellow from a distance compared to surrounding trees.</Leaves>
+    <Twigs>Yellow-green, smooth, drooping.</Twigs>
+    <SeedConeOrFruit>Fruit:  Capsule containing many seed.  Arranged on a catkin.  Both male and female catkins on same tree.</SeedConeOrFruit>
+    <Bark>Geen/yellow, yellow/brown almost smooth on young trees.  Gray and rough with furrows on older trees.</Bark>
+    <Range>Hardy to zone 3a.  Native to Europe and western and central Asia.</Range>
+    <Remarks>Many cultivars and hybrids exist that will be found in yards and local parks.  If you can ID them as White Willow you are better than 90% of lay people.  Beavers use the wood, bark, and branches of willows as a source of food and construction material for their lodges and dams.</Remarks>
+    <Pic1>Images/Deciduous/Trees/WhiteWillow/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/WhiteWillow/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/WhiteWillow/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/WhiteWillow/Tree.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/WhiteWillow/Tree1.jpg</Pic5>
+  </Def>
+</Definitions>

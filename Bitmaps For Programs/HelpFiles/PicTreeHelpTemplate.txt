@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="description"
+		content="Tree Identification for WP7.5" />
+	<meta name="keywords" content="Hansons logic, Windows Phone, Tree Identification, Awesome, Cool, New" />
+	<title>Glossary of terms</title>
+	<link rel="stylesheet" href="mystyles.css" />
+</head>
+<body>
+	<header>
+		<h1>PicTree Help Files</h1>
+	</header>
+	<nav>
+	<ul>
+		<li>How To</li>
+		<li>Glossary</li>
+		<li>Coniferous</li>
+		<li>Deciduous</li>
+		<li>About</li>
+	</ul>
+	</nav>
+	<section>
+	</section>
+	<aside>
+		<blockquote>Joshua M. Hanson</blockquote />
+	</aside>
+	<footer>
+		Copyright &copy; 2013 Hansons Logic LLC.
+	</footer>
+</body>
+</html>

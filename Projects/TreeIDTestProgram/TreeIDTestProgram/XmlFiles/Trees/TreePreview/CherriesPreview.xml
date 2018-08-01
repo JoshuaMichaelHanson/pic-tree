@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Black Cherry</Name>
+    <Image>Images/Deciduous/Trees/BlackCherry/TreePreview/BlackCherryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BlackCherry.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Choke Cherry</Name>
+    <Image>Images/Deciduous/Trees/ChokeCherry/TreePreview/ChokeCherryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/ChokeCherry.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Pin Cherry</Name>
+    <Image>Images/Deciduous/Trees/PinCherry/TreePreview/PinCherryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/PinCherry.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Flowering Cherries/Apricots/Plums</Name>
+    <Image>Images/Deciduous/Trees/CherriesApricotsPlums/TreePreview/CherriesApricotsPlumsPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/CherriesApricotsPlums.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Cherries</Type>
+  </Def>
+</Definitions>

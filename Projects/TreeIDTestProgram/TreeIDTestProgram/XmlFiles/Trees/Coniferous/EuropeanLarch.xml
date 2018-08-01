@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>European Larch</Name>
+    <OtherName>Common Larch</OtherName>
+    <ScientificName>Larix decidua</ScientificName>
+    <Description>European larch is an introduced deciduous conifer.  Mature height usually ranges from 30' - 130' in the US and up to 177' in Europe.</Description>
+    <Leaves>The needles are spirally arranged in fascicles of 30 - 65 needles (on short shoots).</Leaves>
+    <Twigs>Crown of young trees is symetrical, open, and narrowly conic.  Older trees have large, low branches that run level for 8 - 10 feet before turning upward.  Deep rooted.</Twigs>
+    <SeedConeOrFruit>Seed Cones:  1/2" - 1 3/4" long with 40 - 50 hairy scales.</SeedConeOrFruit>
+    <Bark>Thin and smooth, acquiring fissures as it matures.  In the Alps, the bark at the base of very old trees is up to 1 foot thick.</Bark>
+    <Range>Alps.</Range>
+    <Remarks>European larch is very strong and stiff.  Pulp, framing, roof tiles, flooring, and even log houses.  Intolerant of shade at any age.  European larch hybridizes with Japanese larch when they are planted together.  The hybrid, is called Dunkeld larch.</Remarks>
+    <Pic1>Images/Coniferous/Trees/EuropeanLarch/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/EuropeanLarch/UpClose2.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/EuropeanLarch/SeedCone.jpg</Pic3>
+    <Pic4>NA</Pic4>
+    <Pic5>NA</Pic5>
+  </Def>
+</Definitions>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Double compound or pinnately compound and doubly compound.</Name>
+    <Image>Images/Deciduous/Options/12aLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/13Twigs.xml</CallFile>
+    <PageTitle>Leaves</PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Pinnately compound, never doubly compound.</Name>
+    <Image>Images/Deciduous/Options/12bLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/14Branchlets.xml</CallFile>
+    <PageTitle>Leaves</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

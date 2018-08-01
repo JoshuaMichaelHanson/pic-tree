@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Silvery, thorny/Grayish-green top; silvery, scaly below, margins nearly smooth</Name>
+    <Image>Images/Deciduous/Options/38aTwigs.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/RussianOlivePreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Not silvery; thornless/Green top; not silvery or scaly below</Name>
+    <Image>Images/Deciduous/Options/38bTwigs.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/39Branchlets.xml</CallFile>
+    <PageTitle>Twigs/Leaves</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

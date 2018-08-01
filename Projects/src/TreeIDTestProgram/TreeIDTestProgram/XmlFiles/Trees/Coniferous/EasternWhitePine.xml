@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Eastern White Pine</Name>
+    <OtherName>Weymouth pine</OtherName>
+    <ScientificName>Pinus strobus</ScientificName>
+    <Description>Largest conifer of the eastern and upper Midwest forests, reaching 150' in height and up to 40" in diameter.  In dense stands, trees produce tall, cylindrical stems with pyramidal shaped crowns, with plate like branching.</Description>
+    <Leaves>Evergreen needles are in clusters of 5, soft, flexible, 2 1/2" - 5" long, and bluish-green in appearance.</Leaves>
+    <Twigs>Greenish-gray to orangish-brown; buds, reddish or yellowish-brown, pointed tip.</Twigs>
+    <SeedConeOrFruit>Seed Cones: 4"-8" long and 1" thick.  These remain attached for 1 to several months after ripening in the autumn of the second season.</SeedConeOrFruit>
+    <Bark>On young growth, the bark remains rather thin, smooth, and greenish-brown in color.  On older trees the bark becomes deeply fissured and dark grayish-brown in color.</Bark>
+    <Range>Eastern white pine grow on a variety of soils ranging from light, sandy to heavy textured soils.  White pine ranges across southern Canada from Manitoba to Newfoundland, throughout the northern and eastern states from Minnesota and northern Iowa to the Atlantic coast, and southward along the Appalachian mountains to northern Georgia and Alabama.</Range>
+    <Remarks>Used for christmas trees and ornamental plantings in landscaping.  Wood is light and durable, and easy to work.  Good for toys, boxes, cabinet work, and similar items.  Gray and red squirrels, deer, mice, and 16 species of songbirds have been know to eat the seed.  Often plated in windbreaks and screens, new right-of-ways and around campsites.</Remarks>
+    <Pic1>Images/Coniferous/Trees/EasternWhitePine/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/EasternWhitePine/UpClose2.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/EasternWhitePine/Needles.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/EasternWhitePine/Tree.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/EasternWhitePine/Bark.jpg</Pic5>
+  </Def>
+</Definitions>

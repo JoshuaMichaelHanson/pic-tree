@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Doubly toothed</Name>
+    <Image>Images/Deciduous/Options/26aLeaf.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/27Branchlets.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Singly toothed or smooth, never doubly toothed</Name>
+    <Image>Images/Deciduous/Options/26bLeaf.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/34Leaf.xml</CallFile>
+    <PageTitle>Leaf margins</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

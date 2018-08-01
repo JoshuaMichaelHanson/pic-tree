@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Northern Red Oak</Name>
+    <OtherName>Gray oak</OtherName>
+    <ScientificName>Quercus rubra</ScientificName>
+    <Description>Large tree often reaching 65' - 99' tall; broad, round crown with many spreading branches.  Trunk can grow up to 36".</Description>
+    <Leaves>Alternate, elliptic, 4" - 9 1/2" long and 3" - 6" wide, divided less than halfway to midvein into 7 – 11 shallow wavy lobes with a few irregular bristle-tipped teeth, sinuses usually extending less than 1/2 distance to midrib, glabrous and dull green above, light dull green below with tufts of hairs in vein angles.</Leaves>
+    <Twigs>Red-brown; buds, red-brown, pointed with hairy scales, clustered at the end of the twig.</Twigs>
+    <SeedConeOrFruit>Fruit:  Acorn, about 9/16" - 1 3/16" long, with a broad usually shallow cup, borne singly or in clusters of 2 – 5.  Maturing in the second year.</SeedConeOrFruit>
+    <Bark>Gray to red-brown, smooth, shiny; becoming dark gray or black, shallowly furrowed into broad hard scaly ridges, inner bark reddish to pink; generally developing a strong taproot and network of deep, spreading laterals.</Bark>
+    <Range>Hardy to Zone 3b.  Distributed throughout much of the eastern United States and southeastern Canada.  It grows from Quebec, Ontario, Nova Scotia, and New Brunswick southward to southwestern Georgia, Alabama, northern Mississippi, northern Arkansas, and eastern Oklahoma.  Northern red oak extends westward through Minnesota and Iowa, south through eastern Nebraska and Kansas to eastern Oklahoma.  It occurs locally in eastern and southwestern Louisiana and western Mississippi.</Range>
+    <Remarks>Northern red oak is an important source of hardwood lumber.  The wood is close-grained, heavy, and hard; it machines well and accepts a variety of finishes.  Northern red oak provides good cover and nesting sites (including cavities) for a wide variety of birds and mammals.  Deer, elk, moose, and rabbits commonly browse leaves and young seedlings and the acorns are eaten by a wide variety of large and small mammals and birds.  It is fast growing, easy to transplant, tolerant of urban conditions (including dry and acidic soil and air pollution), the abundant nuts attract wildlife, and the leaves develop a brick-red fall color.</Remarks>
+    <Pic1>Images/Deciduous/Trees/NorthernRedOak/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/NorthernRedOak/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/NorthernRedOak/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/NorthernRedOak/Fruit.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/NorthernRedOak/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

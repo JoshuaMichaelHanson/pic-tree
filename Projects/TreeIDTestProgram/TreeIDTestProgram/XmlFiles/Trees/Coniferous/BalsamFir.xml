@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Balsam Fir</Name>
+    <OtherName>Blister Fir</OtherName>
+    <ScientificName>Abies balsamea</ScientificName>
+    <Description>Small to medium sized coniferous tree.  Growth occurs in whrols of branches surrounding an upright leader, making a symmetric tree with a broad base and narrow top.  40' - 75' tall with trunk up to 18".</Description>
+    <Leaves>Evergreen needles 3/4" - 1" long, flat and often strongly curved.  Shiny green with two silvery lines below.</Leaves>
+    <Twigs>Grayish, smooth.  Twigs with needles have a generally flattened apperance.  Buds, yellowish-brown, blunt, sticky, clustered.</Twigs>
+    <SeedConeOrFruit>Seed Cones: 2" - 4" long, purplish in color, and stand erect on branches (as do those of all true firs).</SeedConeOrFruit>
+    <Bark>Smooth, thin, and grayish, distinguished by soft blisters containing a clear, odiferous resin known as Canadian balsam.</Bark>
+    <Range>Distributed throughout the Northeast and upper Midwest.  Hardy to Zone 3a.</Range>
+    <Remarks>Used primarily for Christmas trees and pulpwood.  Because of its thin bark, shallow root system, and flammable needles, balsam fir is easily killed by fire.</Remarks>
+    <Pic1>Images/Coniferous/Trees/BalsamFir/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/BalsamFir/UpClose1.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/BalsamFir/Tree.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/BalsamFir/Bark.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/BalsamFir/Bark1.jpg</Pic5>
+  </Def>
+</Definitions>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Brittle at base/Star-shaped/Not bitter almonds/Covered by single scale</Name>
+    <Image>Images/Deciduous/Options/39aBranchlets.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/WillowsPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Firm at base/Nearly round/Bitter almonds/Covered with overlapping scales</Name>
+    <Image>Images/Deciduous/Options/39bBranchlets.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/CherriesPreview.xml</CallFile>
+    <PageTitle>Branchlets/Pith/Smells like when broken/Buds</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

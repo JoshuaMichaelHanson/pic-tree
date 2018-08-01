@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Paper Birch</Name>
+    <Image>Images/Deciduous/Trees/PaperBirch/TreePreview/PaperBirchPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/PaperBirch.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Birches</Type>
+  </Def>
+  <Def>
+    <Name>European White Birch</Name>
+    <Image>Images/Deciduous/Trees/EuropeanWhiteBirch/TreePreview/EuropeanWhiteBirchPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/EuropeanWhiteBirch.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Birches</Type>
+  </Def>
+  <Def>
+    <Name>Yellow Birch</Name>
+    <Image>Images/Deciduous/Trees/YellowBirch/TreePreview/YellowBirchPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/YellowBirch.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Birches</Type>
+  </Def>
+  <Def>
+    <Name>Sweet Birch</Name>
+    <Image>Images/Deciduous/Trees/SweetBirch/TreePreview/SweetBirchPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/SweetBirch.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Birches</Type>
+  </Def>
+  <Def>
+    <Name>River Birch</Name>
+    <Image>Images/Deciduous/Trees/RiverBirch/TreePreview/RiverBirchPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/RiverBirch.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Birches</Type>
+  </Def>
+</Definitions>

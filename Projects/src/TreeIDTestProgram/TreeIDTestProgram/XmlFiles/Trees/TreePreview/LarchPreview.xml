@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Eastern Larch (12-30)</Name>
+    <Image>Images/Coniferous/Trees/EasternLarch/TreePreview/EasternLarchPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/EasternLarch.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Larches</Type>
+  </Def>
+  <Def>
+    <Name>European Larch (30-40)</Name>
+    <Image>Images/Coniferous/Trees/EuropeanLarch/TreePreview/EuropeanLarchPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/EuropeanLarch.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Larches</Type>
+  </Def>
+  <Def>
+    <Name>Japanese Larch</Name>
+    <Image>Images/Coniferous/Trees/JapaneseLarch/TreePreview/JapaneseLarchPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/JapaneseLarch.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Larches</Type>
+  </Def>
+  <Def>
+    <Name>Siberian Larch (30-40)</Name>
+    <Image>Images/Coniferous/Trees/SiberianLarch/TreePreview/SiberianLarchPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/SiberianLarch.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Larches</Type>
+  </Def>
+  <Def>
+    <Name>Western Larch (20-50)</Name>
+    <Image>Images/Coniferous/Trees/WesternLarch/TreePreview/WesternLarchPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/WesternLarch.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Larches</Type>
+  </Def>
+
+</Definitions>

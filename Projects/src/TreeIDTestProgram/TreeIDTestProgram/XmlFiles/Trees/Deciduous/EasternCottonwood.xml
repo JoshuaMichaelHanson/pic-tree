@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Eastern Cottonwood</Name>
+    <OtherName>NA</OtherName>
+    <ScientificName>Populus deltoides</ScientificName>
+    <Description>Large tree growing 60' - 120' tall and 4' wide.  Short lived with a wide symmetric crown.</Description>
+    <Leaves>Simple, alternate, triangular shaped.  3" - 7" long and almost as wide.  Coarse toothed margins with curved teeth.  Glossy yellow/gree turning yellow/orange in autumn.</Leaves>
+    <Twigs>Yellow/brown with light lenticels (dots); inside is a star shaped pith.  Buds are red/yellow, 3/4" long, pointed and may be sticky.  Does not smell.</Twigs>
+    <SeedConeOrFruit>Fruit:  Capsule with many seeds that may have cotton like hairs.  4" - 8" catkins that are mature in late spring.</SeedConeOrFruit>
+    <Bark>Younger trees smooth and green/gray.  On older trunks it becomes ashy-gray and is roughened by long, deep, longitudinal and interconnecting furrows.</Bark>
+    <Range>Hardy to zone 3a.</Range>
+    <Remarks>Cottonwood makes its best growth on moist, well-drained, fine sandy loams or silt loams.  Coarse sands and heavy clay soils are not satisfactory.  It has been found to be relatively tolerant of drier sites as shown by survival and growth of trees planted on strip mine spoil.  Many seedless and columnar-shaped varieties exist.</Remarks>
+    <Pic1>Images/Deciduous/Trees/EasternCottonwood/UpClose1.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/EasternCottonwood/Leaf.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/EasternCottonwood/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/EasternCottonwood/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/EasternCottonwood/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

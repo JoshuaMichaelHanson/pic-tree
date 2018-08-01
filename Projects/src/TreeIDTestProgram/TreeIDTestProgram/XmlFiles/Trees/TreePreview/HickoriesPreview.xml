@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Bitternut Hickory</Name>
+    <Image>Images/Deciduous/Trees/BitternutHickory/TreePreview/BitternutHickoryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BitternutHickory.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Shagbark Hickory</Name>
+    <Image>Images/Deciduous/Trees/ShagbarkHickory/TreePreview/ShagbarkHickoryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/ShagbarkHickory.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Hickories</Type>
+  </Def>
+</Definitions>

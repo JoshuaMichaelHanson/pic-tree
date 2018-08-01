@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+<Def>
+  <Name>Speckled Alder</Name>
+  <Image>Images/Deciduous/Trees/SpeckledAlder/TreePreview/SpeckledAlderPrev.png</Image>
+  <TreeType>XmlFiles/Trees/Deciduous/SpeckledAlder.xml</TreeType>
+  <Width>346</Width>
+  <Height>173</Height>
+  <Type>Alder</Type>
+</Def>
+</Definitions>

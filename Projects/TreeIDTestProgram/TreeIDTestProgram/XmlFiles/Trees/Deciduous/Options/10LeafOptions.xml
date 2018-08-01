@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Finely toothed/Terminate near margins/Winged or Grooved</Name>
+    <Image>Images/Deciduous/Options/10aLeafPrev.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/NannyberryPreview.xml</CallFile>
+    <PageTitle>Always last item determines the title</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Smooth/Nearly parallel leaf margins/Nearly round</Name>
+    <Image>Images/Deciduous/Options/10bLeafPrev.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/DogwoodPreview.xml</CallFile>
+    <PageTitle>Leaf margins/Lateral veins/Leafstalk</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

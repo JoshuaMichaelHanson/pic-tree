@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Black Oak</Name>
+    <OtherName>Yellow oak</OtherName>
+    <ScientificName>Quercus velutina</ScientificName>
+    <Description>Black oak is a medium- to large-sized, deciduous tree with an irregularly rounded crown.  In a forest, the trunk is usually branch-free for half the height of the tree.  Individuals may live 150 to 200 years.  Growing to 60' - 80' tall and 24" - 36" d.b.h. Black oak has a deep taproot and deep and widespreading lateral roots.</Description>
+    <Leaves>Alternate simple, 4" - 9" long, 3" - 6" wide, pinnately lobed; lobes, 7 - 9, bristle-tipped, shallow or deep crotches; dark green and paler below with rough brown hairs; red or orange-brown in autumn.</Leaves>
+    <Twigs>Red-brown sometimes shiny, angled; buds, gray, woolly, and clustered at the twig ends with a angled terminal buds.</Twigs>
+    <SeedConeOrFruit>Fruit:  Acorn, 3/4" long, bowl shaped cup usually covering top 1/3, mature in autumn.</SeedConeOrFruit>
+    <Bark>Ash gray to black with shallow, sometimes orange fissures; becoming deeply furrowed with blocky ridges; very bright orange or yellowish inner bark.</Bark>
+    <Range>Hardy to Zone 4b.  Black oak is widely distributed throughout the eastern and central United States and extreme southwestern Ontario, Canada.  In the United States, black oak occurs from southwestern Maine west to southern Wisconsin and southeastern Minnesota; south through Iowa to eastern Nebraska, eastern Kansas, central Oklahoma, and eastern Texas; and east to northwestern Florida and Georgia.</Range>
+    <Remarks>The wood of black oak, which is light brown with a nearly white sapwood, is sold as "red oak" and used for furniture, flooring, and interior finishing.  It is also used for barrels and railroad ties.</Remarks>
+    <Pic1>Images/Deciduous/Trees/BlackOak/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/BlackOak/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/BlackOak/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/BlackOak/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/BlackOak/Fruit.jpg</Pic5>
+  </Def>
+</Definitions>

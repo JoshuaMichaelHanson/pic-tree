@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Sap milky/Joined multiple of drupes</Name>
+    <Image>Images/Deciduous/Options/24bFruit.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/MulberriesPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Sap clear/Not a joined multiple</Name>
+    <Image>Images/Deciduous/Options/34bLeaf.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/35Leaf.xml</CallFile>
+    <PageTitle>Leaf and Twig/Fruit</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

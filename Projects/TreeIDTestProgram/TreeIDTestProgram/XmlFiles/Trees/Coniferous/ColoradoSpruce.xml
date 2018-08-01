@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Colorado Spruce</Name>
+    <OtherName>Blue Spruce</OtherName>
+    <ScientificName>Picea pungens</ScientificName>
+    <Description>Native tree growing 164' tall, the crown long-conic; branches whorled, ascending to slightly to strongly drooping.</Description>
+    <Leaves>Evergreen needles, borne singly and at right angles from all sides of the twig.  3/4" - 1 1/2" long, 4-angled, stiff and sharply spine-tipped, silvery to blue-green.</Leaves>
+    <Twigs>Not pendent, stout, yellow-brown, usually without hair; many small twigs produced on the main trunk and between the main whorls of branches.</Twigs>
+    <SeedConeOrFruit>Seed Cone: 2" - 4" long, green or violet, ripening pale buff (straw in color).  Papery scales with irregularly toothed margins.</SeedConeOrFruit>
+    <Bark>Relatively thick, gray-brown, breaking into furrow and rounded ridges, only slightly scaly.</Bark>
+    <Range>Central and southern Rocky Mountains of the USA ie) Idaho, Wyoming, Utah, Colorado, New Mexico and Arizona.</Range>
+    <Remarks>Because of its cold hardiness symmetrical pyramidal form, and waxy, blue-hued foliage, it is widely planted as an ornamental and used as Christamas trees.  Otherwise brittle and full of knots.</Remarks>
+    <Pic1>Images/Coniferous/Trees/ColoradoSpruce/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/ColoradoSpruce/UpClose1.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/ColoradoSpruce/SeedCone.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/ColoradoSpruce/Tree.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/ColoradoSpruce/Tree1.jpg</Pic5>
+  </Def>
+</Definitions>

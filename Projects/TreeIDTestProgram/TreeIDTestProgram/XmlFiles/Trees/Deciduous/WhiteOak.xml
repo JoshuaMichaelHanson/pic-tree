@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>White Oak</Name>
+    <OtherName>Stave oak</OtherName>
+    <ScientificName>Quercus alba</ScientificName>
+    <Description>Large, grand tree that grows up to over 100' tall, and trunk up to 4' in diameter, with a round to wide spreading irregular crown.</Description>
+    <Leaves>Simple and alternately arranged on the stems; they are 5" - 6" long and have a rounded tip and wedge shaped base, with evenly notched edges; leaves are bright green above and whitish underneath.  Red or brown in autumn.</Leaves>
+    <Twigs>Red-green to red-gray; buds are dark red-brown and clustered at the end of the twig.</Twigs>
+    <SeedConeOrFruit>Fruit:  Acorns, oval shaped; about a quarter of the acorn body is covered with a cap which drops off at maturity.  Mature in autumn.</SeedConeOrFruit>
+    <Bark>Whitish or light gray, varying from scaly to irregularly platy or ridged and furrowed.</Bark>
+    <Range>Hardy to zone 3b.  Maine to Minnesota southward to Florida and Texas.</Range>
+    <Remarks>Acorns are eaten by squirrels, blue jays, crows, red-headed woodpeckers, deer, turkey, quail, mice, chipmunks, ducks and raccoons.  Wood is strong and durable for staves for barrels, lumber, flooring, and interior woodwork.  White oak is an excellent ornamental tree because of its broad round crown, dense foliage, and purplish-red to violet-purple fall color.</Remarks>
+    <Pic1>Images/Deciduous/Trees/WhiteOak/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/WhiteOak/Fruit.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/WhiteOak/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/WhiteOak/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/WhiteOak/Tree1.jpg</Pic5>
+  </Def>
+</Definitions>

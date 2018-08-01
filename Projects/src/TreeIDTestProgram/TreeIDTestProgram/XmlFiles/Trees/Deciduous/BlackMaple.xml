@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Black Maple</Name>
+    <OtherName>Hard Maple</OtherName>
+    <ScientificName>Acer nigrum</ScientificName>
+    <Description>Large tree, 40' - 70' tall, broad, round or oval crown; trunk up to 36" diameter.  Black maple is now acknowledged to be an ecotype of the sugar maple.</Description>
+    <Leaves>Simple, opposite leaves are a rich, deep green color above with entire wavy margins. Leaves are usually three-lobed but are occasionally five-lobed and are 4" — 5 1/2" long and wide. Foliage is dull green above and pale, yellowish-green below. When mature, the leaves have a drooping appearance. The stem of the leaf is enlarged at the base and surrounded by a winged appendage called a stipule. Fall foliage color is yellow.</Leaves>
+    <Twigs>Lenticels (Dots) on twigs are large and warty. Year-old twigs are light brown with stipular scars that nearly encircle the twig.</Twigs>
+    <SeedConeOrFruit>Fruit:  Samara with wings that are nearly parallel. The fruit matures in September.</SeedConeOrFruit>
+    <Bark>The mature bark of the older specimens is deeply furrowed and much darker than the common sugar maple.</Bark>
+    <Range>More commonly found along streams and broad flood plains, not on the uplands where sugar maple is more common.</Range>
+    <Remarks>Black maple is now acknowledged to be an ecotype of the sugar maple.  Flowers are yellowish-green and bloom in April prior to the emergence of the foliage. Commercially, the lumber has the same uses as the sugar maple, and the tree is also a source of maple syrup.</Remarks>
+    <Pic1>Images/Deciduous/Trees/BlackMaple/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/BlackMaple/Flowers.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/BlackMaple/Leaves.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/BlackMaple/Leaves1.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/BlackMaple/Leaves2.jpg</Pic5>
+  </Def>
+</Definitions>

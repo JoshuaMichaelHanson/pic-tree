@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>European Mountain-Ash</Name>
+    <OtherName>Rowan tree</OtherName>
+    <ScientificName>Sorbus aucuparia</ScientificName>
+    <Description>Small tree growing 15' - 30' tall with a rounded crown.  Trunk can grow up to 12" in diameter.</Description>
+    <Leaves>Alternate, pinnately compound, 4" - 8" long; leaflets, 9 - 17, finely toothed margins, 3/4" - 2" long, about 1/3 as wide, dull green with whitish hairs below; yellow in autumn.</Leaves>
+    <Twigs>Reddish brown, white hairs, spur shoots on branchlets; terminal buds, 1/2" long, white and wooly.</Twigs>
+    <SeedConeOrFruit>Fruit:  Pome, bright orange or red, 3/8" in diameter, clustered, mature in autumn.</SeedConeOrFruit>
+    <Bark>Dark gray with dark lines or dots, smooth or slightly scaly, aromatic.</Bark>
+    <Range>Very cold tolerant and can be found at high altitude in the mountains.  Some say higher that any other tree.</Range>
+    <Remarks>Very nice ornamental tree.  The berries are quite bitter and are used to make jams and jellys.  Good to pair with game and venison.</Remarks>
+    <Pic1>Images/Deciduous/Trees/EuropeanMountainAsh/UpClose.png</Pic1>
+    <Pic2>Images/Deciduous/Trees/EuropeanMountainAsh/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/EuropeanMountainAsh/Fruit.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/EuropeanMountainAsh/Flowers.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/EuropeanMountainAsh/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

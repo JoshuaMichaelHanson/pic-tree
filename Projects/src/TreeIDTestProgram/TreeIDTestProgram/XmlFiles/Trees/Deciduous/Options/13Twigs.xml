@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Stout/Salmon/Doubly compound up to 36" long/1"-3"long/thornless</Name>
+    <Image>Images/Deciduous/Options/13aTwigs.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/CoffeetreePreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Slender/White/Pinnately and Double compound/.75"-1.25"long/Thorny</Name>
+    <Image>Images/Deciduous/Options/13bTwigs.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/HoneylocustPreview.xml</CallFile>
+    <PageTitle>Twigs/Pith/Leaves/Leaflets/Thorns</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

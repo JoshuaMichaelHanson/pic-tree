@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Laurel Willow</Name>
+    <OtherName>Bay-leaved Willow</OtherName>
+    <ScientificName>Salix pentandra</ScientificName>
+    <Description>Shrub or small tree.  Grows in wet, boggy ground and may grow to 50' tall.</Description>
+    <Leaves>Simple, alternate, very fine toothed magins.  1.5" - 5" long and 13/16" - 1 15/16" wide.  Shiny, dark green ontop, lighter green on bottom.  May have a pleasant smell when crushed.</Leaves>
+    <Twigs>Green-brown, hairless and shiny.</Twigs>
+    <SeedConeOrFruit>Fruit:  Capsule, containing many seeds, surrounded by white fluff.  Male catkins are yellow and female are green.</SeedConeOrFruit>
+    <Bark>Light gray, smooth with shallow vertical furrows that are widely spaced.</Bark>
+    <Range>Hardy to zone 3a.  Native to Northern Europe and Northern Asia.</Range>
+    <Remarks>Very glossy leaves make it an attractive ornamental tree.  May be found in parks and yards.</Remarks>
+    <Pic1>Images/Deciduous/Trees/LaurelWillow/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/LaurelWillow/UpClose2.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/LaurelWillow/Flower.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/LaurelWillow/Leaves.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/LaurelWillow/Trees.jpg</Pic5>
+  </Def>
+</Definitions>

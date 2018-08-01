@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Black Spruce</Name>
+    <OtherName>Bog Spruce</OtherName>
+    <ScientificName>Picea mariana</ScientificName>
+    <Description>Up to 82' tall (often shrub-like near tree line), crown narrowly conic to spire like or irregularly subcylindric; branches short and drooping, frequently layering.</Description>
+    <Leaves>Needles evergreen, 1/4" - 5/8" long, 4-angled, stiff and blunt-tipped, waxy and pale blue-green.</Leaves>
+    <Twigs>Not pendent, slender, yellow-brown, hairy.</Twigs>
+    <SeedConeOrFruit>Seed Cone: Nearly round or egg shaped, 1/2" - 1 1/4" long.</SeedConeOrFruit>
+    <Bark>Gray-brown, flaky scales, olive green inner bark.</Bark>
+    <Range>Occurs across the northern range of North America, from Alaska, Yukon, and British Colombia eastward to Nova Scotia, Newfoundland, New Brunswick, and Quebec.  Northeastern United States and Minnesota, Wisconsin and Michigan.</Range>
+    <Remarks>Native.  Common name referes to the dark (blackish) foliage.  Fuel, Christmas trees and pulp.</Remarks>
+    <Pic1>Images/Coniferous/Trees/BlackSpruce/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/BlackSpruce/UpClose1.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/BlackSpruce/Tree.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/BlackSpruce/Tree1.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/BlackSpruce/Trees.jpg</Pic5>
+  </Def>
+</Definitions>

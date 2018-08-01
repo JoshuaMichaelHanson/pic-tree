@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Nonwoody catkin/Papery/3 or more overlapping scales</Name>
+    <Image>Images/Deciduous/Options/31aNutlets.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/32Trunk.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Woody, pineconelike catkin/Leathery/ 2 or 3 outer scales meeting at their edges</Name>
+    <Image>Images/Deciduous/Options/31bNutlets.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/AlderPreview.xml</CallFile>
+    <PageTitle>Nutlets grouped in/Leaves/Buds covered with</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

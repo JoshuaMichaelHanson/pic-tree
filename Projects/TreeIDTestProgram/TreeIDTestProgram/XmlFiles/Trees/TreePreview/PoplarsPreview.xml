@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Bigtooth Aspen</Name>
+    <Image>Images/Deciduous/Trees/BigtoothAspen/TreePreview/BigtoothAspenPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BigtoothAspen.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Trembling Aspen</Name>
+    <Image>Images/Deciduous/Trees/TremblingAspen/TreePreview/TremblingAspenPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/TremblingAspen.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Eastern Cottonwood</Name>
+    <Image>Images/Deciduous/Trees/EasternCottonwood/TreePreview/EasternCottonwoodPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/EasternCottonwood.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Balsam Poplar</Name>
+    <Image>Images/Deciduous/Trees/BalsamPoplar/TreePreview/BalsamPoplarPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BalsamPoplar.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Lombardy Poplar</Name>
+    <Image>Images/Deciduous/Trees/LombardyPoplar/TreePreview/LombardyPoplarPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/LombardyPoplar.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Poplars</Type>
+  </Def>
+</Definitions>

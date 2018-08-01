@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Eastern Redcedar</Name>
+    <OtherName>Juniper</OtherName>
+    <ScientificName>Juniperus viginiana</ScientificName>
+    <Description>Small to meduim tree, 25' - 50' tall; columnar to pyramidal crown; trunk up to 24" diameter.</Description>
+    <Leaves>Scalelike and awl-shaped, dark green, reddish-brown in winter.</Leaves>
+    <Twigs>Brown, 4-sided, slender; buds very small, covered by leaves.</Twigs>
+    <SeedConeOrFruit>Seed cones: Round, 1/4" - 1/3" diameter, fleshy (berrylike), pale green to dark blue with a whitish film, matures in one year.</SeedConeOrFruit>
+    <Bark>Reddish-brown to gray with narrow, fibrous strips.</Bark>
+    <Range>Native, southern half of Minnesota; hardy to Zone 3b.</Range>
+    <Remarks>Shade-intolerant; slow-growing; long-lived.  Commonly found in open fields, exposed hillsides, and rocky ledges.  Also inhabits low, swampy areas.  Berrylike cones are consumed by ceday waxwings and other animals, which then disperse the seeds in their droppings.  Aromatic, rose-colored wood is strong, light, and durable; prized for use in cabinets, chests, and pencils.</Remarks>
+    <Pic1>Images/Coniferous/Trees/EasternRedCedar/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/EasternRedCedar/UpClose2.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/EasternRedCedar/SeedCone.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/EasternRedCedar/SeedCone2.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/EasternRedCedar/Group.jpg</Pic5>
+  </Def>
+</Definitions>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Capsule/White and very fuzzy below/Clear</Name>
+    <Image>Images/Deciduous/Options/24aFruit.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/WhitePoplarPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Multiple of drupes/Smooth or hairy below/Milky</Name>
+    <Image>Images/Deciduous/Options/24bFruit.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/MulberriesPreview.xml</CallFile>
+    <PageTitle>Fruit/Leaves/Sap</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

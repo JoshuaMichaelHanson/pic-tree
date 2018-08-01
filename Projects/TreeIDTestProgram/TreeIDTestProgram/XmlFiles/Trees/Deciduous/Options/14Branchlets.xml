@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Armed with sharp spines paired at the leaf scars</Name>
+    <Image>Images/Deciduous/Options/14aBranchlets.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/15Leaves.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Not armed with spines</Name>
+    <Image>Images/Deciduous/Options/14bBranchlets.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/16Fruit.xml</CallFile>
+    <PageTitle>Branchlets or Twigs</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

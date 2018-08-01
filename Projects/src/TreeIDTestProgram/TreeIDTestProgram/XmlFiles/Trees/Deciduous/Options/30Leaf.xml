@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Uneven/Waferlike samara</Name>
+    <Image>Images/Deciduous/Options/30aLeaf.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/ElmPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Nearly even/Nutlet</Name>
+    <Image>Images/Deciduous/Options/30bLeaf.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/31Nutlets.xml</CallFile>
+    <PageTitle>Leaf base/Fruit</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Northern Red Oak</Name>
+    <Image>Images/Deciduous/Trees/NorthernRedOak/TreePreview/NorthernRedOakPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/NorthernRedOak.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Black Oak</Name>
+    <Image>Images/Deciduous/Trees/BlackOak/TreePreview/BlackOakPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BlackOak.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Northern Pin Oak</Name>
+    <Image>Images/Deciduous/Trees/NorthernPinOak/TreePreview/NorthernPinOakPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/NorthernPinOak.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Eastern Pin Oak</Name>
+    <Image>Images/Deciduous/Trees/EasternPinOak/TreePreview/EasternPinOakPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/EasternPinOak.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Red Oak</Type>
+  </Def>
+
+</Definitions>

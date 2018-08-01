@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>White Fir</Name>
+    <OtherName>White Balsam</OtherName>
+    <ScientificName>Abies concolor</ScientificName>
+    <Description>Large forest tree, 60' - 200' tall, 300 years old +</Description>
+    <Leaves>Needles: 2" - 3" long, silvery-blue to silvery-green, extending at nearly right angles from all sides of the twig or more or less obscurely 2-ranked; flattened, stomatiferous above and below, rounded or acute at the apex.</Leaves>
+    <Twigs>Young stems with conspicuous resin blisters.</Twigs>
+    <SeedConeOrFruit>Seed Cones: Upright, 2" - 5" long, oblong, olive-green to purple; bracts shorter than the scales, with short, broad erose shoulders, and spikelike tips.</SeedConeOrFruit>
+    <Bark>4" - 7" thick on old trunks, ashy gray and divided by deep irregular furrows in thick, horny flattened ridges.</Bark>
+    <Range>Hardy to Zone 4a.  Native to the western United States, from Idaho, south through Colorado and New Mexico, and west through California and Oregon.</Range>
+    <Remarks>Used for lumber, doors, and pulpwood.  Makes and excellent Christmas tree, because of its aroma, retains its needles well after cutting, and has strong branches that hold their shape.  Seed is eaten by squirrels and other rodents.  Seedlings are often browsed extensively by deer.  Porcupines will gnaw the bark, and grouse will feed on the buds and needles.  White fir makes good winter roosting trees for grouse.</Remarks>
+    <Pic1>Images/Coniferous/Trees/WhiteFir/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/WhiteFir/SeedCone.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/WhiteFir/Tree.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/WhiteFir/Tree1.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/WhiteFir/Bark.jpg</Pic5>
+  </Def>
+</Definitions>

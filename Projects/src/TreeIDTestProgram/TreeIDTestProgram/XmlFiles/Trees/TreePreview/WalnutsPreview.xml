@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Black Walnut</Name>
+    <Image>Images/Deciduous/Trees/BlackWalnut/TreePreview/BlackWalnutPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BlackWalnut.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>White Walnut</Name>
+    <Image>Images/Deciduous/Trees/WhiteWalnut/TreePreview/WhiteWalnutPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/WhiteWalnut.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Walnuts</Type>
+  </Def>
+</Definitions>

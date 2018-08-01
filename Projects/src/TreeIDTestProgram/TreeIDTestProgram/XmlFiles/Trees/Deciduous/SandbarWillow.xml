@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>SandbarWillow</Name>
+    <OtherName>Coyote Willow/Narrowleaf Willow</OtherName>
+    <ScientificName>Salix exigua</ScientificName>
+    <Description>Shrub or small tree forming thickets on sand or gravel.  Grows to 20' tall.</Description>
+    <Leaves>Narrow lance-shaped and pointed on both ends.  1 1/2" - 6" long and 1/16" - 3/8" wide.  Shallow wide spaced teeth (or smooth) on margins.  Green and smooth, lighter below.</Leaves>
+    <Twigs>Red-brown and smooth.  May in rare cases have hairs.  Buds have one scale the covers like cap.</Twigs>
+    <SeedConeOrFruit>Fruit:  Cluster of capsules, with lots of seeds.  Both male and female catkins.</SeedConeOrFruit>
+    <Bark>Thin and smooth.</Bark>
+    <Range>Native to most of North America except for the southeast and far north, occurring from Alaska east to New Brunswick, and south to northern Mexico.</Range>
+    <Remarks>Sandbar willow is adapted to sandy soils in stream, river, and shoreline.  Provides wood and shelter for many birds and food for deer.</Remarks>
+    <Pic1>Images/Deciduous/Trees/SandbarWillow/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/SandbarWillow/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/SandbarWillow/Leaves1.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/SandbarWillow/Tree.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/SandbarWillow/Trees.jpg</Pic5>
+  </Def>
+</Definitions>

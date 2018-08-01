@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Eastern Larch</Name>
+    <OtherName>Tamarack</OtherName>
+    <ScientificName>Larix larcina</ScientificName>
+    <Description>Native trees growing 40'-70' (20 meters) tall.  Strongly self-prunning, with a straight, slender trunk and narrow, open, pyramidal crown that occupies 1/3 to 1/2 the bole length 25-30 years.</Description>
+    <Leaves>Deciduous, needlelike, 3/4" - 1 1/2" long, pale blue-green, produced in clusters (12-30) on short shoots, or singly along the long shoots.  Yellowing and shed in fall.</Leaves>
+    <Twigs>Branches whorled, horizontal or slightly acending; short (spur) shoots prominent on twigs 2 years or more old.</Twigs>
+    <SeedConeOrFruit>Seed Cones: 1/2" - 3/4" long, upright; seeds winged, the bodies 2-3 mm long.  The common name is the Algonquian Indian name for the plant.</SeedConeOrFruit>
+    <Bark>Bark of young trees is gray, smooth, becoming reddish brown and scaly.</Bark>
+    <Range>Across North America, from St. Pierre and Miquelon, Newfoundland, and New Brunswick, north and west to Keewatin, Mackenzie, British Columbia, and Yukon, with disjunct populations in northern Alaska; in northeastern United States from Maine to West Virginia and Minnesota.</Range>
+    <Remarks>Tamarack is a shade-intolerant pioneer.  It is generally the first forest tree to invade filled-lake bogs and burned sites in boreal forest, but it is overtaken in succession by black spruce and various other species.  The commercial value of tamarack wood is limited because of insect and disease problems and its relatively poor pulping properties.  The wood is used principally for pulp products, especially the transparent paper in window envelopes, but slow-growing trees develop wood with high resin content, making it decay resistant and useful for posts, poles, railroad ties.  It also has been used for rough lumber, fuelwood, and boat construction.</Remarks>
+    <Pic1>Images/Coniferous/Trees/EasternLarch/UpClose2.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/EasternLarch/UpClose3.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/EasternLarch/Tree.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/EasternLarch/Tree2.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/EasternLarch/Bark.jpg</Pic5>
+  </Def>
+</Definitions>

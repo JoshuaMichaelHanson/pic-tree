@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Norway Maple</Name>
+    <OtherName>NA</OtherName>
+    <ScientificName>Acer platanoides</ScientificName>
+    <Description>Medium tree, 40' - 60' in height; dense, round crown with a trunk up to 24" diameter.</Description>
+    <Leaves>Simple, opposite, 4 1/2" - 7" wide and nearly as long.  Secretes a milky juice when broken, palmately lobed; lobes, 5, shallow crotches, sharp wavy toothed margins; Light green and the autumn color is usually yellow, occasionally orange-red.</Leaves>
+    <Twigs>The shoots are green at first, soon becoming pale brown; the winter buds are shiny red-brown.  Milky sap when cut.</Twigs>
+    <SeedConeOrFruit>Fruit:  Samara, 1 1/2" - 2" long, V-shaped pairs with divergent wings, flat, mature in autumn.</SeedConeOrFruit>
+    <Bark>The bark is dark grey and smoother than that of Sugar Maple, becoming ridged on larger trees, but not scaly.</Bark>
+    <Range>Hardy to zone 4a. Native to eastern and central Europe and southwest Asia, from France east to Russia, north to southern Scandinavia and southeast to northern Iran.</Range>
+    <Remarks>Easily confused with Sycamore tree.  Can be used for a Bonsai tree.</Remarks>
+    <Pic1>Images/Deciduous/Trees/NorwayMaple/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/NorwayMaple/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/NorwayMaple/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/NorwayMaple/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/NorwayMaple/Fruit.jpg</Pic5>
+  </Def>
+</Definitions>

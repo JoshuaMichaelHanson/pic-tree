@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>American Mountain-Ash</Name>
+    <Image>Images/Deciduous/Trees/AmericanMountainAsh/TreePreview/AmericanMountainAshPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/AmericanMountainAsh.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>European Mountain-Ash</Name>
+    <Image>Images/Deciduous/Trees/EuropeanMountainAsh/TreePreview/EuropeanMountainAshPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/EuropeanMountainAsh.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Showy Mountain-Ash</Name>
+    <Image>Images/Deciduous/Trees/ShowyMountainAsh/TreePreview/ShowyMountainAshPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/ShowyMountainAsh.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Mountain-ash</Type>
+  </Def>
+</Definitions>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Ohio Buckeye</Name>
+    <Image>Images/Deciduous/Trees/OhioBuckeye/TreePreview/OhioBuckeyePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/OhioBuckeye.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Buckeye</Type>
+  </Def>
+
+
+</Definitions>

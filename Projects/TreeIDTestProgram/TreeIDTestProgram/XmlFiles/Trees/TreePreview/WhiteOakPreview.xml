@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Bur Oak</Name>
+    <Image>Images/Deciduous/Trees/BurOak/TreePreview/BurOakPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BurOak.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>White Oak</Name>
+    <Image>Images/Deciduous/Trees/WhiteOak/TreePreview/WhiteOakPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/WhiteOak.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Swamp White Oak</Name>
+    <Image>Images/Deciduous/Trees/SwampWhiteOak/TreePreview/SwampWhiteOakPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/SwampWhiteOak.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Chinkapin Oak</Name>
+    <Image>Images/Deciduous/Trees/ChinkapinOak/TreePreview/ChinkapinOakPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/ChinkapinOak.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>White Oak</Type>
+  </Def>
+
+</Definitions>

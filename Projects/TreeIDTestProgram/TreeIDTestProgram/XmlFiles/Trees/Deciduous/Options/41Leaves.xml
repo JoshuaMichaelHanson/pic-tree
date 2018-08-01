@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Thick and waxy/Flatted/Star-shaped/Yes/Center leafstalk/Capsule</Name>
+    <Image>Images/Deciduous/Options/41aLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/PoplarsPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Thin and smooth/Round/Round/No/Not Center leafstalk/Not capsule</Name>
+    <Image>Images/Deciduous/Options/41bLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/42Leaves.xml</CallFile>
+    <PageTitle>Leaves often/Leafstalk often/Twig pith/Sticky buds/Lowest scale/Fruit</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

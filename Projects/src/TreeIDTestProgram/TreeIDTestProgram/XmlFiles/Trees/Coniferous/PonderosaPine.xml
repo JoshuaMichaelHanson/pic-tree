@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Ponderosa Pine</Name>
+    <OtherName>Bull Pine</OtherName>
+    <ScientificName>Pinus ponderosa</ScientificName>
+    <Description>Large, long-lived, native tree common throughout the western U.S.  Height 55' - 100' tall.  200' tall have been reported.  Diameter breast high ranges from 15" - 35".</Description>
+    <Leaves>Evergreen needles 3" - 5" long with 3, or rarely 2 or 5, needles per bundle.</Leaves>
+    <Twigs>Stout; orange-brown; smell like turpentine when crushed.  Buds about 1/2" long; usually covered with resin droplets; cinnamon-brown colored.</Twigs>
+    <SeedConeOrFruit>Seed Cones: Pineapple-shaped, 3" - 6" long, and take 2 years to mature.</SeedConeOrFruit>
+    <Bark>Dark brown to nearly black when young and turns from cinnamon brown to orange-yellow at about 90 years of age.  On a hot day, the bark of the poderosa pine can smell like vanilla.</Bark>
+    <Range>Southern Canada into Mexico, and from the Plains States to the Pacific Coast.</Range>
+    <Remarks>Official state tree of Montana.  This tree has a deep tap root except on shallow soils where roots often follow cracks for considerable distance.  This allows the tree to grow on bare rock.  Resists fire with thick bark.  Some of the finest campgrounds and picnic areas in the west are found in native stands of ponderosa pine.  The seeds of ponderosa pine are choice food of red-winged blackbirds, chickadees, mourning doves, finches, evening grosbeaks, jays, turkeys, chipmunks and squirrels.  The needles are food for blue and spruce grouses.</Remarks>
+    <Pic1>Images/Coniferous/Trees/PonderosaPine/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/PonderosaPine/UpClose1.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/PonderosaPine/UpClose2.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/PonderosaPine/Bark.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/PonderosaPine/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

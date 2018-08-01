@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Husked nut/ussually rough with unnoticeable dots</Name>
+    <Image>Images/Deciduous/Options/16aFruit.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/17Twig.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Fleshy, orange or red/smooth with horizontal lines or raised dots</Name>
+    <Image>Images/Deciduous/Options/16bFruit.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/18Twig.xml</CallFile>
+    <PageTitle>Fruit/Bark</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

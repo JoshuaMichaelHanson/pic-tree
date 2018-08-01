@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Fraser Fir</Name>
+    <OtherName>She-balsam</OtherName>
+    <ScientificName>Abies fraseri</ScientificName>
+    <Description>Native, evergreen coniferous tree.  Small to medium sized; with the largest on record being 87'.  Average 50' - 60' tall, and 12" d.b.h.</Description>
+    <Leaves>Flattened needles, 3/4" long, blunt or notched at the end, shiny dark green above and silvery below.  Needles generally more dense than on the very similar balsam fir.</Leaves>
+    <Twigs>Yellow-green, later turning gray; buds round, reddish brown, resinous.</Twigs>
+    <SeedConeOrFruit>Seed Cones: Resinous cones are upright, 1 1/2" - 2 1/2" long, cylindrical, green to purple.</SeedConeOrFruit>
+    <Bark>Nearly smooth, with blisters containing an oleoresin; the bark becomes more scaly on older trunks.</Bark>
+    <Range>An infestation of an imported insect called the balsam woolly adelgid, acid rain and air pollution have devastated 80% of these trees in the wild.  Restricted to disjunct populations at higher elevations in the southern Appalacian Mountains of southwest Virginia, western North Carolina, and eatern Tennesee.  At the highest elevations Fraser fir forms nearly pure stands;  American mountain ash is usually its only canopy associate.  At min and lower elevations Fraser fir occurs with eastern hemlock.</Range>
+    <Remarks>Good for Christmas trees and planted as an ornamental.  Red squirrels eat the seeds and the terminal buds of Fraser fir.  Very shallow rooted.</Remarks>
+    <Pic1>Images/Coniferous/Trees/FraserFir/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/FraserFir/UpClose1.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/FraserFir/SeedCone.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/FraserFir/Tree.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/FraserFir/Trees.jpg</Pic5>
+  </Def>
+</Definitions>

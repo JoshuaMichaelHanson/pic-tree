@@ -1,0 +1,11 @@
+<html>
+     <head>
+     	<title>RS</title>
+     </head>
+     	<!-- written for PicTree
+     	by Joshua M. Hanson 3/3/2013 my bday on the 24th im already partying nice       -->
+     	
+	<body>
+     		Enter settings on your phone.  Choose theme.  Background dark.  Accent color Green or Blue.
+     	</body>
+</html>

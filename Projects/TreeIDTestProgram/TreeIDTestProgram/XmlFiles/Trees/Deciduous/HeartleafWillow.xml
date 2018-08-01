@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Heartleaf Willow</Name>
+    <OtherName>Missouri Willow</OtherName>
+    <ScientificName>Salix eriocephala</ScientificName>
+    <Description>Multi-trunk, small tree.  Fast growing and short lived.  Normally grows 13' in height.</Description>
+    <Leaves>Simple, 2" - 6" long and 3/8" - 1 7/16" wide.  Base may be heart shaped and have stipules.  Fine toothed margins, green on top; whitish with hairs below.</Leaves>
+    <Twigs>Brown, gray, red, purple, or yellow.  May have white hairs.  Bud has one scale or cap.</Twigs>
+    <SeedConeOrFruit>Fruit:  Capsule on catkin.  See Black Willow.</SeedConeOrFruit>
+    <Bark>Dark and scaly.  On older trees may be smooth and thin.</Bark>
+    <Range>Eastern, Canada to Florida.</Range>
+    <Remarks>Will be found in swamps, marshes, ditches and the edge of lakes and streams.  Some buterfilies will be present.</Remarks>
+    <Pic1>Images/Deciduous/Trees/HeartleafWillow/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/HeartleafWillow/Flower.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/HeartleafWillow/Tree.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/HeartleafWillow/UpClose.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/HeartleafWillow/UpClose.jpg</Pic5>
+  </Def>
+</Definitions>

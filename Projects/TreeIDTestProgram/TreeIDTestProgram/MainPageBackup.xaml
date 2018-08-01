@@ -1,0 +1,291 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Animation;
+using System.Windows.Shapes;
+using Microsoft.Phone.Controls;
+using System.Xml;
+using System.Xml.Linq; // for XDocument
+using System.Windows.Media.Imaging;//for jpgs
+using System.Collections;
+
+
+
+
+namespace TreeIDTestProgram
+{
+    public partial class MainPage : PhoneApplicationPage
+    {
+        Brush accentBrush;
+        SolidColorBrush backGroundBrush;
+        IDictionary buttDic;//button dictionary for main options
+        // Constructor
+        
+
+        public MainPage()
+        {
+            InitializeComponent();
+
+            //set forground color for default items with no image
+            accentBrush = this.Resources["PhoneAccentBrush"] as Brush;
+            //Set backgound for buttons
+            backGroundBrush = this.Resources["PhoneContrastBackgoundBrush"] as SolidColorBrush;
+
+            //get main screen ready
+            LoadMainOptions();
+            //Touch.FrameReported += OnTouchFrameReported;
+        }
+
+        private void LoadMainOptions()
+        {
+            //open main options XML file
+           XDocument loadedData = XDocument.Load("XmlFiles/mainOptions.xml");
+           var data = from query in loadedData.Descendants("Option")
+                      select new Option
+                      {
+                          Name = (string)query.Element("Name"),
+                          Image = (string)query.Element("Image"),
+                          Width = (string)query.Element("Width"),
+                          Height = (string)query.Element("Height"),
+                          FontSize = (string)query.Element("FontSize"),
+                          CallMethod = (string)query.Element("CallMethod")
+                      };
+           
+            Grid addGrid = new Grid();  //we are going to add this to MainStackPanel
+            int buttonCount = 0;
+            Button btn1 = new Button();
+            Button btn2 = new Button();
+            StackPanel stkPanel = new StackPanel();
+            stkPanel.Orientation =  System.Windows.Controls.Orientation.Horizontal;
+            
+            int dataCount = data.Count();
+            //we are going to build a array of strings to hold button names and methods to call
+            buttDic = new ButtonDictionary(dataCount);
+            //build a dictionary of button names with the method they should call
+
+            foreach(var item in data)
+            {
+                ++buttonCount;//lets line up two buttons per panel
+                addGrid = new Grid();
+
+                if (buttonCount == 3)
+                {
+                    buttonCount = 1;
+                    stkPanel = new StackPanel();
+                    stkPanel.Orientation = System.Windows.Controls.Orientation.Horizontal;
+                    btn1 = new Button();
+                    btn2 = new Button();
+                }
+
+               
+                //check to see if there is an image associated with the given option
+                //if not then build default with background and name
+                //else load image and set next method to call
+                //Note:  We are adding to MainStackPanel of MainPage
+                TextBlock txtBlk = new TextBlock();
+                txtBlk.Text = item.Name;
+
+                //this way people will be able to see the text no matter their theme
+                //txtBlk.Foreground = accentBrush;
+                //Grid txtGrid = new Grid();
+                //txtGrid.Height = txtBlk.ActualHeight;
+                //txtGrid.Width = txtBlk.ActualWidth;
+                //txtGrid.Background = new SolidColorBrush(Colors.White);
+
+                
+                
+                txtBlk.FontSize = Convert.ToInt32(item.FontSize);
+               
+                if(item.Image == "NoImage")
+                {
+                    
+                    addGrid.Height = Convert.ToInt32(item.Height);
+                    addGrid.Width = Convert.ToInt32(item.Width);
+
+
+                    //addGrid.Children.Add(txtBlk);
+                    //addGrid.ManipulationStarted += (EventHandler)item.CallMethod;
+                    Button noImageButton = new Button();
+
+                    //see what this looks like
+                    noImageButton.Background = accentBrush;
+                    noImageButton.BorderBrush = new SolidColorBrush(Colors.Transparent);
+
+                    noImageButton.Width = addGrid.Width;
+                    noImageButton.Height = addGrid.Height;
+                    txtBlk.HorizontalAlignment = HorizontalAlignment.Left;
+                    noImageButton.Content = txtBlk;
+                    noImageButton.Name = item.Name;
+
+                    //try to set button actions here??
+                    buttDic.Add(noImageButton, item.CallMethod);
+
+                    
+
+                    addGrid.Children.Add(noImageButton);
+                    addGrid.HorizontalAlignment = HorizontalAlignment.Left;
+                    MainStackPanel.Children.Add(addGrid);
+
+                    //button count back to 0 in-case I add more options
+                    buttonCount = 0;
+                }
+                else
+                {
+                    addGrid.Height = (Convert.ToInt32(item.Height) + 35);//add space for discriptions above
+                    addGrid.Width = Convert.ToInt32(item.Width);
+
+                    Button btn = new Button();
+                    if (buttonCount == 1)
+                        btn = btn1;
+                    else
+                        btn = btn2;
+
+                    btn.Width = addGrid.Width;
+                    btn.Height = Convert.ToInt32(item.Height);
+                    
+                    Uri uriImg = new Uri(item.Image, UriKind.Relative);
+                    ImageSource imgSource = new BitmapImage(uriImg);
+                    Image img = new Image();
+                    img.Source = imgSource;
+                    //img.Stretch = Stretch.UniformToFill;
+                    btn.Content = img;
+                    
+                    btn.BorderBrush = new SolidColorBrush(Colors.Transparent);
+
+                    if (buttonCount == 1)
+                    {
+                        btn.HorizontalAlignment = HorizontalAlignment.Left;
+                    }
+                    else
+                    {
+                        btn.HorizontalAlignment = HorizontalAlignment.Right;
+                    }
+                    txtBlk.HorizontalAlignment = HorizontalAlignment.Center;
+
+                    //txtGrid.Children.Add(txtBlk);
+                    //addGrid.Children.Add(txtGrid);
+
+                    addGrid.Children.Add(txtBlk);
+                    
+                    //add button to button dictionary
+                    buttDic.Add(btn, item.CallMethod);
+
+                    //see what this looks like
+                    btn.Background = accentBrush;
+
+                    ////////////////////////////////////////////////////////////////////////////////////////////////////////
+                    //Start Button Tap///////////////////////////////////////////////////////////////////////////////////////
+                    btn.Tap += (s, e) =>
+                        {
+                            int counter = 0;
+                            ICollection btns = buttDic.Keys;//make collection of buttons
+                            ICollection callMethod = buttDic.Values;//make collection of button functions to call
+                            Button[] btnButtons = new Button[btns.Count];//array of buttons
+                            String[] btnMethod = new String[callMethod.Count];//build string of method to call
+                            btns.CopyTo(btnButtons, 0);//copy collection to array
+                            callMethod.CopyTo(btnMethod, 0);//copy method to array
+
+                            Button tapBtn = new Button();
+
+                            while (counter < buttDic.Count)
+                            {
+                                tapBtn = (Button)btnButtons.GetValue(counter);
+
+                                if(tapBtn == s)
+                                {
+                                    switch ((String)btnMethod.GetValue(counter))
+                                    {
+                                        //call the method associated with the button that was pressed
+                                        case "ConiferousOptions":
+                                            BuildConiferousPage();
+                                            break;
+
+                                    }
+                                }
+                                    //BuildNewPage();
+                                
+                                ++counter;
+                            }
+                        };
+                    //////////////////End Button Tap COOL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                    /////////////////////////////////////////////////////////////////////////////////////////////////////
+
+                    addGrid.Children.Add(btn);
+                    //addGrid.Children.Add(txtBlk);
+                    //txtBlk.VerticalAlignment = VerticalAlignment.Center;
+                    //txtBlk.HorizontalAlignment = HorizontalAlignment.Right;
+                    //addGrid.Children.Add(txtBlk);
+
+                    //addGrid.Background = new SolidColorBrush(Colors.White);
+
+                    stkPanel.Children.Add(addGrid);
+                }
+
+                if (buttonCount == 2)
+                {
+                    //stkPanel.Background = new SolidColorBrush(Colors.White);
+                    MainStackPanel.Children.Add(stkPanel);
+                }
+            }
+
+        }
+
+        //this will handle the buttons from main page
+        /*void OnTouchFrameReported(object sender, TouchFrameEventArgs args)
+        {
+            //here will find out what button was pushed and call the appropriate method to build the new page.
+            TouchPoint primaryTouchPoint = args.GetPrimaryTouchPoint(null);
+
+            //having trouble scrollig while finger is on button
+            if (primaryTouchPoint != null && primaryTouchPoint.Action == TouchAction.Move)
+            {
+
+            }
+            else if(primaryTouchPoint != null && primaryTouchPoint.Action == TouchAction.Down)
+            {
+                int counter = 0;
+                ICollection btns = buttDic.Keys;//make collection of buttons
+                ICollection callMethod = buttDic.Values;//make collection of button functions to call
+                Button[] btnButtons = new Button[btns.Count];//array of buttons
+                String[] btnMethod = new String[callMethod.Count];//build string of method to call
+                btns.CopyTo(btnButtons, 0);//copy collection to array
+                callMethod.CopyTo(btnMethod, 0);//copy method to array
+                Button btn;
+               
+
+                while(counter < buttDic.Count)
+                {
+                    btn = (Button)btnButtons.GetValue(counter);
+
+                    if(btn.IsPressed)
+                    {
+
+                        switch ((String)btnMethod.GetValue(counter))
+                        {
+                            //call the method associated with the button that was pressed
+                            case "ConiferousOptions":
+                                BuildConiferousPage();
+                                break;
+
+                                
+                        }
+                        //BuildNewPage();
+                    }
+                    ++counter;
+                }
+            }
+        }
+        */
+        public void BuildConiferousPage()
+        {
+            this.NavigationService.Navigate(new Uri("/ConiferousOptions.xaml", UriKind.Relative));
+        }
+        
+    }
+}

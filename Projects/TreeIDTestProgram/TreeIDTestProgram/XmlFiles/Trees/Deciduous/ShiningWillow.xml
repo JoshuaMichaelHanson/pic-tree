@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Shining Willow</Name>
+    <OtherName>Whiplash Willow/Pacific Willow</OtherName>
+    <ScientificName>Salix lucida</ScientificName>
+    <Description>Tall shrub or small tree growing to 20' in height.  May be shaped like a pyramid.</Description>
+    <Leaves>Shiny green, narrow lance-shaped.  1 9/16" - 6" long and 3/8" - 1 3/8" wide.  May have stipules at the leafstalk base.</Leaves>
+    <Twigs>Brown/orange, red/yellow, shiny, break very easily at base.</Twigs>
+    <SeedConeOrFruit>Fruit:  Capsule, catkin.</SeedConeOrFruit>
+    <Bark>Thin and smooth.</Bark>
+    <Range>Swamps, shores and wet meadows in Minnesota, north Iowa, North Dakota, Labrador, Newfoundland to Saskatchewan, south to Delaware, Ohio, Iowa, and South Dakota.</Range>
+    <Remarks>Can be used for tea.</Remarks>
+    <Pic1>Images/Deciduous/Trees/ShiningWillow/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/ShiningWillow/UpClose1.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/ShiningWillow/Leaves.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/ShiningWillow/Catkin.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/ShiningWillow/Leaf.jpg</Pic5>
+  </Def>
+</Definitions>

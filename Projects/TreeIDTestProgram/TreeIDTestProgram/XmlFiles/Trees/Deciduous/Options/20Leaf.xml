@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Lobed or Notched</Name>
+    <Image>Images/Deciduous/Options/20aLeaf.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/21Branchlets.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Toothed or smooth, Never lobed</Name>
+    <Image>Images/Deciduous/Options/20bLeaf.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/26Leaf.xml</CallFile>
+    <PageTitle>Leaf margins</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

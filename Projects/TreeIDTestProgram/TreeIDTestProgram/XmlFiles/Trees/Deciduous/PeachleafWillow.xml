@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Peachleaf Willow</Name>
+    <OtherName>Wright Willow/Almond Willow</OtherName>
+    <ScientificName>Salix amygdaloides</ScientificName>
+    <Description>Small or medium sized tree that can have several trunks.  Grows to about 50' tall.  Trunk up to 2' wide, elongated crown.</Description>
+    <Leaves>Look like peach leaves.  Are 1" - 5" long and 3/8" - 1 9/16" wide.  Yellow-green above; white below.  Fine toothed.</Leaves>
+    <Twigs>Yellow/Orange/Brown, shiny, flexible and drooping.</Twigs>
+    <SeedConeOrFruit>Fruit:  Capsule, catkin looks loose and open. Flower in May, fruit in June.</SeedConeOrFruit>
+    <Bark>Rough, brown-gray, shallow furrows, scaly.  Young twigs smooth, new shoots are green.</Bark>
+    <Range>Grows on the banks of streams and ponds, low woods, roadside gullies, and prairie sloughs.  It ranges from Quebec, west across southern Canada to British Columbia, south to Oregon, Utah, and Arizona, east to Texas, and northeast to Kentucky and Vermont.</Range>
+    <Remarks>Rabbits, deer, moose, and elk browse on willow twigs, foliage, and bark.  Beavers really like willow branches.  Birds eat willow buds and young twigs.</Remarks>
+    <Pic1>Images/Deciduous/Trees/PeachleafWillow/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/PeachleafWillow/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/PeachleafWillow/Leaves1.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/PeachleafWillow/Bark.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/PeachleafWillow/Bark1.jpg</Pic5>
+  </Def>
+</Definitions>

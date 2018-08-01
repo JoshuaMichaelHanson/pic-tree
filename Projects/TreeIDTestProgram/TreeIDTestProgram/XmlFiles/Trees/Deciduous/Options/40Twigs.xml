@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Like bitter almond when broken/crushed</Name>
+    <Image>Images/Deciduous/Options/39bBranchlets.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/CherriesPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Not like bitter almond when broken/crushed</Name>
+    <Image>Images/Deciduous/Options/40bTwigs.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/41Leaves.xml</CallFile>
+    <PageTitle>Twigs smell</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

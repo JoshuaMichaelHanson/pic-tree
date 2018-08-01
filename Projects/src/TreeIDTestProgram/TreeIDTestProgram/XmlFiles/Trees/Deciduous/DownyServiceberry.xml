@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Downy Serviceberry</Name>
+    <OtherName>Juneberry</OtherName>
+    <ScientificName></ScientificName>
+    <Description></Description>
+    <Leaves></Leaves>
+    <Twigs></Twigs>
+    <SeedConeOrFruit>Fruit:  </SeedConeOrFruit>
+    <Bark></Bark>
+    <Range></Range>
+    <Remarks></Remarks>
+    <Pic1>Images/Deciduous/Trees//UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees//Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees//Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees//Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees//Tree.jpg</Pic5>
+  </Def>
+</Definitions>

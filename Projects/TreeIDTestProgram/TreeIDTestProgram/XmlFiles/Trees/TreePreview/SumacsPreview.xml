@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Staghorn Sumac</Name>
+    <Image>Images/Deciduous/Trees/StaghornSumac/TreePreview/StaghornSumacPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/StaghornSumac.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Smooth Sumac</Name>
+    <Image>Images/Deciduous/Trees/SmoothSumac/TreePreview/SmoothSumacPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/SmoothSumac.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Sumacs</Type>
+  </Def>
+</Definitions>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>American Linden</Name>
+    <Image>Images/Deciduous/Trees/AmericanLinden/TreePreview/AmericanLindenPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/AmericanLinden.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Little-Leaf Linden</Name>
+    <Image>Images/Deciduous/Trees/LittleLeafLinden/TreePreview/LittleLeafLindenPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/LittleLeafLinden.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Linden</Type>
+  </Def>
+</Definitions>

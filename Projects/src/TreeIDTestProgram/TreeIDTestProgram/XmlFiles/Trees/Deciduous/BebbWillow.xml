@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Bebb Willow</Name>
+    <OtherName>Long-beaked Willow/Gray Willow</OtherName>
+    <ScientificName>Salix bebbiana</ScientificName>
+    <Description>Fast growing shrub or small tree.  Grows to 10' - 20' tall with a trunk up to 6".  May form dense thickets.</Description>
+    <Leaves>Alternate, simple, dull green, elliptical leaves 1" - 3" long, and 1/2" - 1 1/2" wide.  May have almost smooth or very finely toothed margins with meshed viens and hairs.</Leaves>
+    <Twigs>Purpleish-red or Orange-brown with green/gray hairs.</Twigs>
+    <SeedConeOrFruit>Fruit:  Capsule with a beaklike point.</SeedConeOrFruit>
+    <Bark>Smooth, gray aquiring a rough texture with age.</Bark>
+    <Range>Alaska, Canada and the northern United States, from Washington to Maine.</Range>
+    <Remarks>The wood of diamond Willow is great for carving and makes excellent canes.</Remarks>
+    <Pic1>Images/Deciduous/Trees/BebbWillow/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/BebbWillow/Leaf.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/BebbWillow/Tree.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/BebbWillow/Leaf.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/BebbWillow/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

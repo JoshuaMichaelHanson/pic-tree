@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Solid/5-11/Smooth, splits into 4 segments</Name>
+    <Image>Images/Deciduous/Options/17aTwig.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/HickoriesPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Chambered/14-23/Rough, not split into segments</Name>
+    <Image>Images/Deciduous/Options/17bTwig.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/WalnutsPreview.xml</CallFile>
+    <PageTitle>Twig pith/# Leaflets/Nut</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

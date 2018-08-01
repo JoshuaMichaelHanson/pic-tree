@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Pinnately lobed/Clustered at twig ends/Acorn</Name>
+    <Image>Images/Deciduous/Options/22aLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/23Lobes.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Option</Type>
+  </Option>
+  <Option>
+    <Name>Palmately lobed or irregularly lobed/Not clustered at twig ends/Not an acorn</Name>
+    <Image>Images/Deciduous/Options/22bLeaves.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Deciduous/Options/24Fruit.xml</CallFile>
+    <PageTitle>Leaves/Buds/Fruit</PageTitle>
+    <Type>Option</Type>
+  </Option>
+</Options>

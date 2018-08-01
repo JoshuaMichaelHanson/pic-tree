@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Grayish-brown, scaly or peeling in vertical strips/Enclosed in an inflated papery sac</Name>
+    <Image>Images/Deciduous/Options/33aTrunk.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/IronwoodPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Gray, smooth with musclelike ridges/Attached to 3-lobed, leaflike bract</Name>
+    <Image>Images/Deciduous/Options/33bTrunk.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/BlueBeechPreview.xml</CallFile>
+    <PageTitle>Trunk/Nutlet</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

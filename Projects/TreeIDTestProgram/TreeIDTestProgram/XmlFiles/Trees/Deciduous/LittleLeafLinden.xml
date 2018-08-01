@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Little-Leaf Linden</Name>
+    <OtherName>Small-leaved Lime</OtherName>
+    <ScientificName>Tilia cordata</ScientificName>
+    <Description>Medium to large tree reaching 50' - 90' in height.  Pyramidal or conical shape when young; turning oval shaped when older.  Dense, upright, spreading branches.</Description>
+    <Leaves>Alternate, heart-shaped leaf.  Dark green and shiny ontop and light green underneath.  1 1/2" - 3 1/2" long.</Leaves>
+    <Twigs>Slender with a zigzag pattern.  Brown-green or red tinted, plump and one side may be bulging out.  Edible, moist and sticky.</Twigs>
+    <SeedConeOrFruit>Fruit:  Cluster of drupes (nutlet), round, 1/4", may be covered in grayish-brown hairs.  Mature in fall.</SeedConeOrFruit>
+    <Bark>Brown or gray, with ridges and shallow furrows.  Young stems may be brown and then becoming more ridged.  Very fiborous.</Bark>
+    <Range>Hardy to zone 3b.  Native to much of Europe and western Asia, north to southern Great Britain (north to about Durham), central Scandinavia, all over Romania, east to central Russia, and south to central Spain, Italy, Greece, Bulgaria, Turkey, and the Caucasus.  </Range>
+    <Remarks>May be used to make Linden flower tea, which is good for colds, fever, flu, sore throat, etc...  National tree of the Czech Republic and the Slovak Republic.</Remarks>
+    <Pic1>Images/Deciduous/Trees/LittleLeafLinden/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/LittleLeafLinden/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/LittleLeafLinden/Tree1.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/LittleLeafLinden/Tree.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/LittleLeafLinden/Fruit.jpg</Pic5>
+  </Def>
+</Definitions>

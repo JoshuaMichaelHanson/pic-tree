@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Northern Catalpa</Name>
+    <Image>Images/Deciduous/Trees/NorthernCatalpa/TreePreview/NorthernCatalpaPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/NorthernCatalpa.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Catalpa</Type>
+  </Def>
+
+
+</Definitions>

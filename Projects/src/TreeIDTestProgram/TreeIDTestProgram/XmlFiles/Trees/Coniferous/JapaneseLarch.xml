@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Japanese Larch</Name>
+    <OtherName>ri ben luo ye song</OtherName>
+    <ScientificName>Larix kaempferi</ScientificName>
+    <Description>Height at 20 years 20'; mature height 98' .  Shade intolerant, min temperature -38F</Description>
+    <Leaves>Bluish-green leaves that have two conspicuous white bands below.</Leaves>
+    <Twigs>Reddish-brown.</Twigs>
+    <SeedConeOrFruit>Seed Cone:  Erect, ovoid-conic, 2 - 3.5 cm long, with 30 - 50 reflexed seed scales.  Green when immature, turning brown and opening to release the seeds when mature.  The old cones commonly remain on the tree for many years, turing dull grey-black.</SeedConeOrFruit>
+    <Bark>Trunk up to 1 meter diameter.</Bark>
+    <Range>Native to Japan, in the mountains of Chubu and Kanto regions in central Honshu.</Range>
+    <Remarks>Used for rustic fencing and bonsai.</Remarks>
+    <Pic1>Images/Coniferous/Trees/JapaneseLarch/SeedCone.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/JapaneseLarch/Bonsai.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/JapaneseLarch/Tree.jpg</Pic3>
+    <Pic4>NA</Pic4>
+    <Pic5>NA</Pic5>
+  </Def>
+</Definitions>

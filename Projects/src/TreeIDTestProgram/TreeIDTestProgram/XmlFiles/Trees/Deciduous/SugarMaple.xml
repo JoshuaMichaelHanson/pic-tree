@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Sugar Maple</Name>
+    <OtherName>Hard maple, birds-eye maple</OtherName>
+    <ScientificName>Acer saccharum</ScientificName>
+    <Description>Large tree, 40' - 70' (up to 80') tall, with a dense, spreading crown.  Trunk up to 36" diameter.</Description>
+    <Leaves>Opposite, simple, long-petioled, blades 3 1/2" - 5 1/2" long and about as wide, with 5 shallow, blunt or short-pointed lobes, edges coarsely toothed, dark green and glabrous above, whitish and more or less hairy below, turning intensely red, orange, or yellow in fall.</Leaves>
+    <Twigs>Reddish-brown to gray with scattered whitish lenticels (dots); buds, reddish brown to dark brown, cone shaped, pointed tip, lots of scales.</Twigs>
+    <SeedConeOrFruit>Fruit:  Winged nutlets (samaras) in a pair, 3/4" - 1 1/4" long, clustered on long stalks, red to red-brown.  Mature in autumn.</SeedConeOrFruit>
+    <Bark>Light gray to gray-brown, rough, deeply furrowed, and darker with age.</Bark>
+    <Range>Hardy to zone 3b.  Sugar maple is widespread in mixed hardwood forests of the eastern United States.  It grows from Nova Scotia and New Brunswick westward to Ontario and Manitoba, North Dakota and South Dakota, southward into eastern Kansas into Oklahoma, and southward in the east through New England to Georgia.</Range>
+    <Remarks>The flowers are small, greenish-yellow, in long-stalked, drooping clusters or racemes, each cluster with 8 to 14 flowers.  Sugar maple is the only tree today used for commercial syrup production, as its sap has twice the sugar content of other maple species.  The sap, mostly collected in the spring, is concentrated by boiling or reverse osmosis, with about 35-40 liters of sap making 1 liter of syrup.  A single tree may produce 5-60 liters of sap per year.  Nights below freezing and days at higher than 5°C are needed to ensure good sap flow.  Sugar maple is an important timber tree valued for its hard, heavy, and strong wood, commonly used to make furniture, paneling, flooring, and veneer.  White-tailed deer, moose, and snowshoe hare commonly browse sugar maple.  Red squirrel, gray squirrel, and flying squirrels feed on the seeds, buds, twigs, and leaves.  Porcupines consume the bark and can girdle the upper stem.  Songbirds, woodpeckers, and cavity nesters nest in sugar maple.  Although the flowers appear to be wind-pollinated, the early-produced pollen may be important to the biology of bees and other pollen-dependent insects because many insects, especially bees, visit the flowers.</Remarks>
+    <Pic1>Images/Deciduous/Trees/SugarMaple/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/SugarMaple/Seed.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/SugarMaple/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/SugarMaple/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/SugarMaple/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

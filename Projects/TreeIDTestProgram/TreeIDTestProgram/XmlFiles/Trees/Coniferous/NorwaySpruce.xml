@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Norway Spruce</Name>
+    <OtherName>European Spruce</OtherName>
+    <ScientificName>Picea abies</ScientificName>
+    <Description>Heights of up to 203' tall.  Usually between 100' - 200' tall.  The bole is usually straight and symmetrical, with no tendency to fork.</Description>
+    <Leaves>Evergreen needle, 1/2" - 1" long.  Balsam smell when crushed, shiny, dark green, pointed tips.</Leaves>
+    <Twigs>Reddish to orangish-brown.  The crown narrowly conic as gets older broadly columnar.  Drooping or pendulous.</Twigs>
+    <SeedConeOrFruit>Seed Cone: Very long, 4" - 7".  Very stiff scales with irregularly toothed margins.</SeedConeOrFruit>
+    <Bark>Bark of older trees is usually heavy with algae and has shallow rounded scales that are easily shed.  Reddish to grayish-brown.</Bark>
+    <Range>Native to the European Alps, the Balkan mountains, and the Carpathians, its range extending north to Scandainavia and merging with Siberian spruce in northern Russia.  Introduced to the British Isles in 1500 AD, and is widely planted in North America.</Range>
+    <Remarks>Strong, soft, straight and fine-grained.  Very easily worked into furniture, and musical instruments.  Snowshoe hares love them.  Red deer strip the bark but otherwise not preferred by wildlife.  Some birds may eat the leaves and seeds.  May be used as Christmas trees or an ornamental.  Not well adapted to survive a fire.</Remarks>
+    <Pic1>Images/Coniferous/Trees/NorwaySpruce/UpClose1.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/NorwaySpruce/UpClose2.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/NorwaySpruce/UpClose3.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/NorwaySpruce/Tree.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/NorwaySpruce/Bark.jpg</Pic5>
+  </Def>
+</Definitions>

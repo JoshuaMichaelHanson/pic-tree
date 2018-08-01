@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Eastern RedCedar</Name>
+    <Image>Images/Coniferous/Trees/EasternRedCedar/TreePreview/JuniperPreview.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/EasternRedCedar.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Junipers</Type>
+  </Def>
+  <Def>
+    <Name>Rocky Mountain Juniper</Name>
+    <Image>Images/Coniferous/Trees/RockyMountainJuniper/TreePreview/JuniperPreview.png</Image>
+    <TreeType>XmlFiles/Trees/Coniferous/RockyMountainJuniper.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Junipers</Type>
+  </Def>
+  
+</Definitions> 

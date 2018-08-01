@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Scotch Pine</Name>
+    <OtherName>Scots Pine</OtherName>
+    <ScientificName>Pinus sylvestris</ScientificName>
+    <Description>Evergreen standing 30' - 100' tall.  Pyramidal when young, becoming round topped and irregular in age.</Description>
+    <Leaves>Needles occur in bunches of 2, are stout and usually twisted, 1" - 3" long, and bluish-green in color.</Leaves>
+    <Twigs>Green when young.  Yellow-brown to olive-brown with large orangish buds when older.</Twigs>
+    <SeedConeOrFruit>1 1/2" - 2 1/2" long, egg-shaped; pale yellow-brown; short-stalked; tip bent back.</SeedConeOrFruit>
+    <Bark>Reddish-brown, thin; becoming gray and shedding in papery or scaly plates.</Bark>
+    <Range>Cold hardy to zone 2.  Native to the Scottish Highlands, this is one of the most disributed pines of the world.  Across Europe, Scandinavia and northern Asia; also Canada and northern United States.</Range>
+    <Remarks>Wind breaks and Chrismas tree plantations.  Slow growing and long lived. </Remarks>
+    <Pic1>Images/Coniferous/Trees/ScotchPine/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/ScotchPine/UpClose1.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/ScotchPine/SeedCones.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/ScotchPine/Bark.jpg</Pic4>
+    <Pic5>Images/Coniferous/Trees/ScotchPine/Tree.jpg</Pic5>
+  </Def>
+</Definitions>

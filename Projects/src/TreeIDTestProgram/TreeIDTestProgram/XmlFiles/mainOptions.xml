@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Deciduous</Name>
+    <Image>Images/Deciduous.png</Image>
+    <Width>173</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallMethod>DeciduousOptions</CallMethod>
+    <Description></Description>
+  </Option> 
+  <Option>
+    <Name>Coniferous</Name>
+    <Image>Images/Coniferous.png</Image>
+    <Width>173</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallMethod>ConiferousOptions</CallMethod>
+    <Description></Description>
+  </Option>
+  <Option>
+    <Name>Browse Trees</Name>
+    <Image>NoImage</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>36</FontSize>
+    <CallMethod>BrowseOptions</CallMethod>
+    <Description></Description>
+  </Option>
+</Options>

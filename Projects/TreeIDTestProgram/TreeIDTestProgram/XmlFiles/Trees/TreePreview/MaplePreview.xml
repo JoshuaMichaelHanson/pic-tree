@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Sugar Maple</Name>
+    <Image>Images/Deciduous/Trees/SugarMaple/TreePreview/SugarMaplePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/SugarMaple.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Black Maple</Name>
+    <Image>Images/Deciduous/Trees/BlackMaple/TreePreview/BlackMaplePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BlackMaple.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Red Maple</Name>
+    <Image>Images/Deciduous/Trees/RedMaple/TreePreview/RedMaplePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/RedMaple.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Silver Maple</Name>
+    <Image>Images/Deciduous/Trees/SilverMaple/TreePreview/SilverMaplePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/SilverMaple.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Mountain Maple</Name>
+    <Image>Images/Deciduous/Trees/MountainMaple/TreePreview/MountainMaplePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/MountainMaple.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Norway Maple</Name>
+    <Image>Images/Deciduous/Trees/NorwayMaple/TreePreview/NorwayMaplePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/NorwayMaple.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Amur Maple</Name>
+    <Image>Images/Deciduous/Trees/AmurMaple/TreePreview/AmurMaplePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/AmurMaple.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type></Type>
+  </Def>
+  <Def>
+    <Name>Tatarian Maple</Name>
+    <Image>Images/Deciduous/Trees/TatarianMaple/TreePreview/TatarianMaplePrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/TatarianMaple.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Maples</Type>
+  </Def>
+
+</Definitions>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Pussy Willow</Name>
+    <OtherName>American Willow</OtherName>
+    <ScientificName>Salix discolor</ScientificName>
+    <Description>Shrub or small tree growing to 20' tall.  May have multiple stems or a single trunk.</Description>
+    <Leaves>Alternate, 1 3/16" - 5 1/2" long and 3/8" - 1 3/8" wide.  Irregularl tooth margins, glossy green on top; whitish below (no hairs).  May have pair of large stipules up to 1/4" long and wide.</Leaves>
+    <Twigs>Red-brown, smooth.  May have orange lenticels (dots).  Actively growing twigs may be green with some hairs.</Twigs>
+    <SeedConeOrFruit>Fruit:  Capsule, with multiple seeds (female).  Male catkins open with dense gray hair.</SeedConeOrFruit>
+    <Bark>Gray-brown at base, rought and fissured.  Younger bark is red-brown and smooth.</Bark>
+    <Range>Canada, and the northern portions of the contiguous United States.</Range>
+    <Remarks>Often grown for use in cut flowers.  Bees and flies can be seen around Pussy Willows.</Remarks>
+    <Pic1>Images/Deciduous/Trees/PussyWillow/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/PussyWillow/UpClose1.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/PussyWillow/Leaves.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/PussyWillow/Leaves1.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/PussyWillow/Flower.jpg</Pic5>
+  </Def>
+</Definitions>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Siberian Larch</Name>
+    <OtherName>Russian Larch</OtherName>
+    <ScientificName>Larix sibirica</ScientificName>
+    <Description>Medium tree.  Male and female cones on same tree.</Description>
+    <Leaves>1" - 2" long, borne singly or in groups of 30 - 40.</Leaves>
+    <Twigs>Yellowish-green.</Twigs>
+    <SeedConeOrFruit>Seed Cone:  3/4" - 1 1/2" long with 20 - 30 hairy scales.</SeedConeOrFruit>
+    <Bark>See other larch species.</Bark>
+    <Range>Western Russia.</Range>
+    <Remarks>Same as most other larch.</Remarks>
+    <Pic1>Images/Coniferous/Trees/SiberianLarch/UpClose.jpg</Pic1>
+    <Pic2>Images/Coniferous/Trees/SiberianLarch/SeedCone.jpg</Pic2>
+    <Pic3>Images/Coniferous/Trees/SiberianLarch/Tree.jpg</Pic3>
+    <Pic4>Images/Coniferous/Trees/SiberianLarch/Tree2.jpg</Pic4>
+    <Pic5>NA</Pic5>
+  </Def>
+</Definitions>

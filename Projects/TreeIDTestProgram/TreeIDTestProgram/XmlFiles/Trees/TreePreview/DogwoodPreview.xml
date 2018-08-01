@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Alternate-Leaf Dogwood</Name>
+    <Image>Images/Deciduous/Trees/AlternateLeafDogwood/TreePreview/AlternateLeafDogwoodPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/AlternateLeafDogwood.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Dogwood</Type>
+  </Def>
+</Definitions>

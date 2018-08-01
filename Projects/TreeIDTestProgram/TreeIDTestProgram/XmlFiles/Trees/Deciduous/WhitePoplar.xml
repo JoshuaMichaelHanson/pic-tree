@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>White Poplar</Name>
+    <OtherName>European poplar</OtherName>
+    <ScientificName>Populus alba</ScientificName>
+    <Description>Large tree, 39' - 69' in height, rounded to irregular crown with many stout, crooked branches; trunk, sometimes crooked and forked low, growing up to 24" diameter.</Description>
+    <Leaves>Alternate, simple, 2 1/2" - 4" long, nearly as wide, palately lobed and most of the time toothed, dark green with white hairs below; red-yellow in autumn.</Leaves>
+    <Twigs>Very light green with white hairs; buds are white and fuzzy.</Twigs>
+    <SeedConeOrFruit>Fruit:  Capsule, splitting into two parts, both containing numerous seeds with cotton like hairs, capsules grouped in 1 1/2" - 3" catkins, matures in late spring.</SeedConeOrFruit>
+    <Bark>White or gray, smooth, thin; becoming dark green-gray and furrowed.</Bark>
+    <Range>Hardy to Zone 3a.  Introduced from western Asia and Europe.</Range>
+    <Remarks>Attractive ornamental with many undesirable traits including: roots that damage drains, sewers and sidewalks.</Remarks>
+    <Pic1>Images/Deciduous/Trees/WhitePoplar/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/WhitePoplar/Leaf.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/WhitePoplar/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/WhitePoplar/Tree.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/WhitePoplar/Trees.jpg</Pic5>
+  </Def>
+</Definitions>

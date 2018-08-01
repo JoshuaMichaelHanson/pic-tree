@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Needlelike/4-sided/stiff/pointed</Name>
+    <Image>Images/Coniferous/Options/NeedlelikeStiffSharp.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/SprucesPreview.xml</CallFile>
+    <PageTitle>Leaves singly</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Linear/Flat/Soft/flexible/blunt</Name>
+    <Image>Images/Coniferous/Options/LinearFlatSoftFlexible.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/Coniferous/Options/BorneOn.xml</CallFile>
+    <PageTitle>Borne singly</PageTitle>
+    <Type>Option</Type>
+  </Option>
+
+</Options>

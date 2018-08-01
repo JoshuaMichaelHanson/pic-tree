@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Clear/Pome</Name>
+    <Image>Images/Deciduous/Options/18aTwig.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/MountainAshesPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Milky/Cone-shaped multiple of drupes, covered with hairs</Name>
+    <Image>Images/Deciduous/Options/18bTwig.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/SumacsPreview.xml</CallFile>
+    <PageTitle>Twig and leaf sap/Fruit</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

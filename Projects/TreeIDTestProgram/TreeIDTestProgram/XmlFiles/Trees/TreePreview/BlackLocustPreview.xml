@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Black Locust</Name>
+    <Image>Images/Deciduous/Trees/BlackLocust/TreePreview/BlackLocustPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BlackLocust.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Black Locust</Type>
+  </Def>
+</Definitions>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Bur Oak</Name>
+    <OtherName>Mossycup oak</OtherName>
+    <ScientificName>Quercus macrocarpa</ScientificName>
+    <Description>Large tree growing to heights of 50' - 100' tall.  Rounded crown with strong, spreading branches.  Trunk diameter up to 4'.</Description>
+    <Leaves>Alternate, simple, 4" - 12" long, 3" - 6 wide, pinnately lobed; lobes, 5 - 10, center pair cut almost to the midrib, rounded tips; shiny, dark green; yellow or brown in autumn.</Leaves>
+    <Twigs>Yellowish to gray-brown, sometimes hairy, often with corky ridges of wings; buds, red-brown, clustered at twig end.</Twigs>
+    <SeedConeOrFruit>Fruit:  Acorn, 3/4" - 2" long, deep cup covering top half or more, with hairy margins; mature in autumn.</SeedConeOrFruit>
+    <Bark>Dark gray-brown, furrowed, rugged; becoming deeply furrowed with thick, vertical ridges.</Bark>
+    <Range>Hardy to zone 3a.  Native from southern Canada to Texas and east from the Dakotas and Minnesota to the Alantic Coast.</Range>
+    <Remarks>Best of any tree in a fire.  Thick bark and deep tap root.  Requires lots of space to flurish.</Remarks>
+    <Pic1>Images/Deciduous/Trees/BurOak/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/BurOak/Seed.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/BurOak/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/BurOak/Tree.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/BurOak/Tree1.jpg</Pic5>
+  </Def>
+</Definitions>

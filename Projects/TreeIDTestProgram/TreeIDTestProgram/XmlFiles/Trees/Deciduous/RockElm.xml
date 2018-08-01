@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Rock elm</Name>
+    <OtherName>Cork elm</OtherName>
+    <ScientificName>Ulmus thomasii</ScientificName>
+    <Description>Medium - large tree growing 40' - 80' tall; cylindrical crown with drooping branches.  Trunk can grown to 48" in diameter.</Description>
+    <Leaves>Alternate, simple, 2 1/2" - 4" long, 3/4" - 2" wide, doubly toothed margins, base uneven, dark green and smooth above, paler and somewhat downy beneath.  Turning yellow in autumn.</Leaves>
+    <Twigs>Red-brown, zigzag, developing irregular corky ridges; buds are brown with sharp pointed tips.</Twigs>
+    <SeedConeOrFruit>Fruit:  Samara, 3/8" - 3/4" diameter, oval to obvate in shape.  Has a shallowly notched tip and mutures in spring.</SeedConeOrFruit>
+    <Bark>Red-gray and rough; becoming darker gray, deeply furrowed with interlacing ridges.</Bark>
+    <Range>Hardy to zone 3a.  Common to the Upper Mississippi valley.</Range>
+    <Remarks>Used in the construction of battleships.</Remarks>
+    <Pic1>Images/Deciduous/Trees/RockElm/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/RockElm/Leaves.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/RockElm/Bark.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/RockElm/Buds.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/RockElm/Flower.jpg</Pic5>
+  </Def>
+</Definitions>

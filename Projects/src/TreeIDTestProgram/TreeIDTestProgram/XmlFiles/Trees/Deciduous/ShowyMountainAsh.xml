@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Showy Mountain-Ash</Name>
+    <OtherName>dogberry</OtherName>
+    <ScientificName>Sorbus decora</ScientificName>
+    <Description>Small tree, growing to 15' - 30' tall with a fairly rounded crown.  The trunk can grow up to 12" in diameter.</Description>
+    <Leaves>Pinnately compound; leaflets, 11 - 15, 1 1/4" - 2 3/4" long, more than 1/3 as wide, bluish green.  Shorter and more rounded at the base than American Mountain-Ash.</Leaves>
+    <Twigs>Winter buds are shiny and sticky.</Twigs>
+    <SeedConeOrFruit>Fruit:  Pome, in loose clusters that ripin in August and September.</SeedConeOrFruit>
+    <Bark>Smooth with dots when young becoming, grayish brown and developing cracks, splits and scaly patches.</Bark>
+    <Range>Native to North America.</Range>
+    <Remarks>The leaves are poisonous, but the berries can be eaten most often as jelly.</Remarks>
+    <Pic1>Images/Deciduous/Trees/ShowyMountainAsh/Fruit.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/ShowyMountainAsh/Bark.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/ShowyMountainAsh/Tree.jpg</Pic3>
+    <Pic4></Pic4>
+    <Pic5></Pic5>
+  </Def>
+</Definitions>

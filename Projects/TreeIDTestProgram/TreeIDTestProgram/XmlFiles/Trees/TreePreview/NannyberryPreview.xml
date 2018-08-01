@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Nannyberry</Name>
+    <Image>Images/Deciduous/Trees/Nannyberry/TreePreview/NannyberryPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/Nannyberry.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Nannyberry</Type>
+  </Def>
+</Definitions>

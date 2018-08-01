@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Ginkgo</Name>
+    <OtherName>Maidenhair tree</OtherName>
+    <ScientificName>Ginkgo biloba</ScientificName>
+    <Description>Large tree reaching heights of 66' - 115'.  Pyramid crown, with a trunk that is usually tapered up to 30".</Description>
+    <Leaves>Alternate, fan shaped, 1" - 2" long, 1 1/2" - 3" wide, born singly or clustered on wartlike spur shoots, often notched at the tip.  Light green, yellow in autumn.</Leaves>
+    <Twigs>Yellowish green to gray, many wartlike spur shoots, leaf scars have 2 bundle scars; buds are small and reddish brown in color.</Twigs>
+    <SeedConeOrFruit>Fruit:  Drupe, fleshy, 1" long, yellow, smells very bad when they become overripe, mature in early autumn.</SeedConeOrFruit>
+    <Bark>Gray and slightly rough.  Becoming deeply furrowed.</Bark>
+    <Range>Hardy to zone 4a.  Native to China.</Range>
+    <Remarks>Widely cultivated and used as food and in medicine.  This tree is very similar to fossils that can be found throughout the world, making this tree a living fossil.</Remarks>
+    <Pic1>Images/Deciduous/Trees/Ginkgo/UpClose.jpg</Pic1>
+    <Pic2>Images/Deciduous/Trees/Ginkgo/Leaf.jpg</Pic2>
+    <Pic3>Images/Deciduous/Trees/Ginkgo/Leaves.jpg</Pic3>
+    <Pic4>Images/Deciduous/Trees/Ginkgo/Fruit.jpg</Pic4>
+    <Pic5>Images/Deciduous/Trees/Ginkgo/Branch.jpg</Pic5>
+  </Def>
+</Definitions>

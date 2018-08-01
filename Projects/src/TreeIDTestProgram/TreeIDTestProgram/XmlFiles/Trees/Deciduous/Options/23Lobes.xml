@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Option>
+    <Name>Often rounded (rarely pointed), without bristle tips</Name>
+    <Image>Images/Deciduous/Options/23aLobes.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/WhiteOakPreview.xml</CallFile>
+    <PageTitle></PageTitle>
+    <Type>Preview</Type>
+  </Option>
+  <Option>
+    <Name>Pointed with bristle tips</Name>
+    <Image>Images/Deciduous/Options/23bLobes.png</Image>
+    <Width>346</Width>
+    <Height>173</Height>
+    <FontSize>24</FontSize>
+    <CallFile>XmlFiles/Trees/TreePreview/RedOakPreview.xml</CallFile>
+    <PageTitle>Lobes</PageTitle>
+    <Type>Preview</Type>
+  </Option>
+</Options>

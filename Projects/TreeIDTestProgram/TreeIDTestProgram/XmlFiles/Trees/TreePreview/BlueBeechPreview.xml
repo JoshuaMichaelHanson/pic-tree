@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions>
+  <Def>
+    <Name>Blue-beech</Name>
+    <Image>Images/Deciduous/Trees/BlueBeech/TreePreview/BlueBeechPrev.png</Image>
+    <TreeType>XmlFiles/Trees/Deciduous/BlueBeech.xml</TreeType>
+    <Width>346</Width>
+    <Height>173</Height>
+    <Type>Blue-beech</Type>
+  </Def>
+</Definitions>
